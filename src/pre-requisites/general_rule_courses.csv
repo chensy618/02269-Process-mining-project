@@ -1,0 +1,4063 @@
+Course,Prerequisites
+02402,"01001/01003/01002/01004/01005/01901, At the latest at the same
+   time."
+28213,26400.26222
+41632,"41612, Product Design and
+Documentation"
+41656,41661/41650/41659/41680.­41684
+41661,"41650/41657/41659/41681/41683/41680/41686.­41684, basic Materials
+   Science"
+41667,"41650/41657/41659/41681/41683/41658/41680/41686.­41684, knowledge on materials science
+   and materials characterization and testing"
+41737,"Knowledge of strength of materials, and plastics materials
+41501.41650"
+41738,"Knowlegde of polymer materials and polymer processing e.g.
+41736/​41737/​41785/​42231/​42233/​42932, 41650, 41659"
+41744,"41703/41781.41650/41659, or equivalent Production
+   technology and Materials technology."
+41747,"Knowledge of basic process technology 42201/42911/41704/41784.
+Knowledge of materials technology corresponding to 41659. Knowledge
+of mathematics corresponding to 01035 (possibly in parallel) N.B.:
+For students who do not have experience in Matlab programming, a
+crash-course of one afternoon in basic Matlab will be given prior
+to the course."
+41748,"Knowledge of basic process technology 42201/42911/41704/41784.
+Knowledge of materials technology corresponding to
+41681/41650/41659. Knowledge of modelling in materials and
+manufacturing engineering corresponding to 41747. Knowledge of
+mathematics corresponding to 01035 (possibly in parallel).
+Knowledge of strength of materials corresponding to 41502 N.B.: For
+students who do not have experience in programming in Matlab, a
+crash-course of one afternoon in basic Matlab will be given prior
+to the course."
+42062,"42042, The course benefits from being taken
+in parallel with the bachelor project"
+42085,Bachelor in Design and Innovation or equivalent
+42372,"122404141642340, Similar qualifications to the
+aforementioned courses."
+88383,This course is only in Danish
+41030,"31001/31373/42020/41020/42612/41612, Electric circuits 1 Automation,
+   components and systems Product analysis and re-design Product
+   Construction and Documentation"
+10050,01005
+22111,"27002/27008, Basic understanding of biological
+   processes used in the industry. Knowledge of cell structure,
+   their biological functions, biochemical and molecular biological
+   processes together with biotechnological
+   processes"
+22141,"(27002/27008).­27022.­27026.­(36611/22111) , Knowledge of cell structure, its
+   biological function, subcomponents, biochemical and molecular
+   processes (metabolism, RNA- and protein synthesis), structure of
+   DNA, protein-coding genes, the standard genetic code, the
+   primary (sequence), secondary (helices/coils), tertiary (3D) and
+   quaternary (complex) structure of proteins. Basic knowledge and
+   ability to apply bioinformatics methods and the knowledge to
+   collect and process relevant biological data from large-scale
+   databases such as UniProt and GenBank."
+23531,"The course is open for students (incl. MSc and BSc students)
+who have passed 100 ECTS points of their bachelor programme in Food
+science, Food technology, Biotechnology, Bio Engineering, Business
+or a related area. International students from non-English speaking
+countries must have sufficient English qualifications to
+participate actively at a high level in group discussions and
+report writing (Danish students are fluent in written and spoken
+English and international students are expected to be at the same
+level. If in doubt contact the course responsible in
+advance)."
+26050,None
+26400,"26000/26001, General Chemistry or
+   equivalent."
+27015,27002/27008
+27022,"23932/27002/27008/27020, or
+   equivalent."
+27023,"27022, Or equivalent."
+27026,"23932/27002/27008/27020.­12701, or
+   equivalent."
+27028,27002/27008
+27034,"27022.27026.27027/27028, Knowledge of cell structures,
+   their biological functions, as well as biochemical and molecular
+   biological processes."
+27230,"27022/27026, Basic theoretical knowledge of
+   biochemical pathways and enzyme kinetics, so the student can
+   solve general and biotechnological
+   problems."
+27302,"27022, Biochemistry, or a similar course in
+fundamental biochemistry."
+27322,"27022.24001/22208, Theoretical knowledge of the most
+   important areas in biochemistry. Able to solve general and
+   biotechnological problems. Knowledge of the human physiology in
+   order to provide insight into the interaction between
+   biochemical processes in the organism."
+27410,"27460.­27611/36611/22111/22110/27827, Fundamental knowledge on basic
+   principles of fermentation technology and biotechnological
+   products produced by microorganisms. Knowledge of the basic
+   quantitative elements, the underlying science, and the general
+   concepts of biotechnological processes. Knowledge of cellular
+   metabolism. Basic programming skills in Python, R or similar
+   (loops, conditionals, basic data types like lists, dictionaries
+   etc.) are highly recommended."
+27430,"27022.27026, Knowledge of the methods and
+   paradigms in molecular microbiology to follow a discussion
+   amongst professionals and read relevant literature. Basic
+   knowledge of experimental molecular
+   microbiology."
+27455,27022.27026.27034
+42610,"The course is recommeded at 3-6
+semester."
+27035,"Knowledge and understanding of fundamental fermentation
+technology and biotechnological products produced by
+microorganisms. Knowledge of the basic quantitative elements, the
+scientific background and the general principles of
+biotechnological processes."
+27051,"27022.27026.27027/27028, Or
+   similar"
+01035,"01002/01004/01005/01006/01015/01920, Knowledge of complex numbers,
+   matrix calculations, eigenvalues and eigenvectors for matrices,
+   systems of linear first order differential equations and linear
+   differential equations of first and second
+   order."
+11462,"11411, It is recommended to follow 11411
+the same semester."
+12102,"12000, A basic course in chemistry (1st
+year chemistry course) and basic knowledge on
+Excel"
+12143,"Basic knowledge of chemistry and biochemistry is recommended to
+follow the course. You should have some experience with spreadsheet
+calculations."
+12210,No particular
+12320,"41102/10020/02002, Physics, environmental hydraulics
+   and basic programming and data processing in Python / Jupyter
+   notebooks"
+26010,26000/26001/28001/28010
+42611,"The course is recommended to be taken at 3rd to 6th
+term"
+02411,"02402, or a similar course in elementary
+statistics"
+23732,"27022Biokemi , or equivalent knowledge,
+skills, and competencies."
+27027,"27002/27008, Course 27026 should be followed
+   together with 27027."
+27220,"27026.27051, Knowledge of basic experimental
+   approaches in molecular microbiology to the level needed to
+   interpret experimental data. Knowledge of microbial biodiversity
+   and bacterial genetics & physiology to the level needed to
+   be able to participate in reading and discussion of scientific
+   literature."
+27419,"27026.27051, or equivalent basic prokaryotic
+   and eukaryotic microbiology. Knowledge of the methods and
+   paradigms in molecular microbiology to follow a discussion
+   amongst professionals and read relevant literature. Master the
+   basic experimental skills in molecular microbiology. Insight in
+   the functional and species diversity of microorganisms
+   (bacteria, Archaea, and fungi) to understand their positive and
+   negative roles in the environment – including the human body,
+   and their potential application in biotechnology."
+27422,26400
+27423,26400/27022
+27460,"27022.27026.27051, Ideally you have hands-on
+   experience from experimental molecular biological work (BSc
+   project or larger special course) so you can participate in the
+   discussions and relate to the theoretical exercises."
+28855,"B.Sc.+ Course in process technology/engineering (for instance
+28020/28022) Courses in biochemistry (27022, or 27032)"
+02601,"(02002/02631/02632/02633/02525).­(01002/01004/01005/01006/01015/01016) , Taylor's formula, roots of
+   polynomials, ordinary differential equations and linear algebra.
+   These subjects are covered by 01005/01006 Mathematics 1 whos
+   second semester has to be taken at least at the same semester.
+   Elementary programming in Python."
+02616,"02613/02614, Experience with numerical
+   computations. A student should be proficient in Python
+   (especially class constructs). Knowledge of the Linux/Unix
+   command line, and programming of shell-scripts is an
+   advantage."
+31300,"01005.01035, 01035 can be taken together with
+this course."
+41312,"01001.01002.02002, Rutine in application of vectors,
+   differential equations and integrals. Experience in use of
+   Python (or similar tool) for data
+   processing."
+41316,"41315.41320, Also recommended
+   41321."
+41317,"41312/41102/10346.­41320.­02601.­02631, A basic course in fluid dynamics
+   along with some programming experience in MATLAB is expected. An
+   advanced course in fluid mechanics and courses on numerical
+   algorithms and methods for solving differential equations are
+   all very helpful."
+41320,"41312/41102.02631/02633/28864, Knowledge of basic fluid
+   mechanics and basic knowledge of Matlab, Python or similar.
+   Knowledge of mathematics, specifically for solving partial
+   differential equations (e.g. the chain rule, partial
+   differentiation and integration, basic vector calculus including
+   familiarity with Stokes' and Gauss'
+   theorems)."
+41391,knowledge in unix/linux
+41502,"41501, Basic strength of materials
+including statics, stresses and deformations in beams and
+bars."
+41511,"10022/62675.­41501/41533.­41502/41534.­41659/41681, Mechanics: 10022/62163. Strength
+   of materials: 41501/41533 and 41502/41534. Materials Science:
+   41659/41681"
+41514,10022/41532.41560/41035/41535/41564
+41521,41560/41214/41514/62643/41237
+41525,"Basic understanding of stresses and strains in two and three
+dimensions and programming experience f.ex. 41502 and 02002. Other
+courses in solid mechanics, e.g. 41564 and
+41516."
+41603,41000
+41617,"41630/41601/11000/41000, Working knowledge of 3D CAD
+   systems e.g. Creo parametric."
+41801,"At least 4 of the technological courses should have been
+passed"
+41812,"02631/62646.41502/41534, Comprehensive knowledge is
+   expected within general stress and strain states (41502/41534 or
+   similar) as well as good computer programming background
+   (02631/62646 or similar experience)."
+41813,"(41560/41237/31270/62643).­(41525/41812) , Fundamental knowledge of
+   mechanical vibrations is required. Knowledge of finite element
+   theory and programming experience in matlab is an
+   advantage."
+41814,(01030/01035).
+42406,"42415, could be
+simultaneously"
+46310,"46300, Basic programming skills as e.g
+Matlab, Fortran, Python or C"
+11020,"The student should possess engineering knowledge about
+buildings and building elements, and be capable of performing
+computations requiring university level
+mathematics."
+11066,"Education similar to Bachelor in Architectural Engineering or
+Civil Engineering at DTU"
+11080,"11141.­11121.­11997.­11993.­11995.­11994.­11030/1103111305.­11311.­11312.­11411.­11561.­11115.­11120.­11126.­11203, The design task will be based on
+   using BIM tools. The student should preferable be familiar with
+   the BIM concept before signing up for the course."
+11115,11121.11112
+11117,"11121/11738/11937, Knowledge and experience on basic
+   heat transfer"
+11122,"11121, The course will focus on mass
+transfer, while only shortly revisiting heat transfer since prior
+knowledge of heat transfer in building components is assumed.
+Students without this prior knowledge may participate, but will
+need to work extra on their own on heat transfer."
+11124,"Knowledge on basic heat transfer and building services or fluid
+dynamics/mechanics or wind engineering"
+11376,02405
+11900,"Bachelor in Architectural Engineering at DTU or similar
+education from another university. Course 11995 or
+similar."
+31240,31200/31241
+42280,11823/11829/42543/42270/42273/42401/42913/42970
+47420,"BSc in chemistry, physics, materials, chemical processes or
+similar"
+02105,"(02002/02003/02100/02101/02102).­(01017/01019) , An introductory course in
+   programming + an introductory course in discrete mathematics. Or
+   similar competences."
+02110,"02105/02326, The course builds on 02105
+   Algorithms and Data Structures I."
+02121,"02101, The student currently follows or has
+followed a course in introductory
+programming."
+02122,"(02104/02121).­02105.­02161, Introductory courses to
+   programming and software development"
+02128,"02101.02105.02121.02161, Students are expected to have
+   basic knowledge of Java programming, algorithms and
+   datastructures as well as elementary software development
+   corresponding to said courses."
+02132,"02100/02101/02102, Prerequisites are: the command of
+   concepts and terminology about development, test and
+   documentation of programs. An introduction to the language C
+   will be given."
+02141,"(01001/01019).­02105.­(02100/02157) , Basic knowledge of discrete math
+   (logic, sets, graphs, functions, induction) - as provided e.g.
+   in 01001 and 01019. Basic knowledge of algorithms and data
+   structures - as provided e.g. in 02105. Basic knowledge of
+   functional programming - as provided e.g. in 02100 and in
+   02157."
+02148,"(02101/02102).­02161.­02105, Ability to program in an object
+   oriented language like Java is recommended. Basic knowledge of
+   algorithms, data structures and software engineering is also
+   recommended."
+02157,"(02002/02003/02100/02101/02102/02631) .
+   (01017/01019) , Programming in an
+   imperative/​object-oriented language, discrete mathematics
+   (latest at the same semester)."
+02158,"(02100/02101/02102).­(01017/01019).­02105.­(02132/02135).­02141, Skills in sequential,
+   object-oriented programming, e.g. in Java. Knowledge of
+   computation modelling and application of predicate logic. Use of
+   basic data structures. Basic knowledge of computer systems
+   organization."
+02159,"(02100/02101/02102).­02105.­02132, Experience in sequential
+   programming; basic knowledge of computer systems organisation;
+   experience with the C programming
+   language."
+02161,"02100/02101, Basic Java programming
+   skills"
+02162,"02105.02161, Courses ""Algorithms and Data
+   Structures 1"" (02105) and ""Software Engineering
+   1"" (02161) or equivalent courses are recommended
+   prerequisites for this course."
+02170,"(01017/01019).­02105.­02110, or equivalent knowledge about (1)
+   discrete mathematics: set theory and logical operators, (2)
+   programming, algorithms and data structures (at the level of
+   02105), and (3) balanced trees (as taught in 02110)."
+02221,02158
+02239,"Introductory courses in programming, software engineering and
+system architecture (e.g. corresponding to 02101, 02161 and
+02159)"
+02247,"0214102157, The students are expected to be
+familiar with fundamental computer science concepts like inference
+rules, regular expressions, and context-free grammars. This
+background can be obtained in the course 02141. The students must
+be fluent in at least one programming language; experience with
+functional programming (in particular, with F#) is highly
+recommended. This background can be obtained in the course
+02157."
+02267,"(02100/02314/02160).­(02161/02160/02324) , Solid experience in Java
+   programming. Basic knowledge of concepts of computer
+   architecture related to the Internet, like socket, URL,
+   hostname, and port. Being able to install software and to
+   administrate computer systems using command line
+   tools."
+02268,"(02161/02160).02105, Solid working knowledge of Java.
+   Knowledge of algorithms and data structures. Basic software
+   engineering skills. Experience with command-line interface and
+   small scripts."
+02291,"02141/02161/02170, Knowledge of standard modelling
+   languages in computer science (UML, Automata,
+   ER)"
+02393,"Students are expected to have some programming experience with
+at least one programming language."
+02450,"(01001/01002/01003/01004/01005).­(02402/02403).­(02002/02101/02102/02525/02631/02632/02633/02692) , Basic course in linear algebra
+   and calculus, basic knowledge of probability theory or
+   statistics, basic knowledge of either Matlab, Python or
+   R."
+26027,None
+02180,"(02100/02101/02102/02312/02314).­(02105).­(01017/01019) , or equivalent courses. You need
+   experience with algorithms and data structures, programming,
+   propositional logic and recursive procedures. The course
+   requires experience with implementing non-trivial algorithms in
+   a standard programming language like Java or Python. The course
+   can be taken by bachelor students satisfying the recommended
+   prerequisites."
+02285,"01017.02101.02105.02180. , or equivalent courses, including
+knowledge about graph search algorithms, search heuristics and a
+bit of predicate logic. Furthermore, the course requires experience
+with implementing non-trivial algorithms and larger software
+systems."
+26028,None
+42101,Knowledge of linear algebra.
+02403,"01001/01002/01003/01004/01005, At the latest at the same
+   time."
+41083,41612/42612
+41501,"(01020/01021/01002/01003/01005).­
+   (10002/10010/10011/10001/10022) , 10022 at latest at the same
+   time."
+41526,"41502/41534, Knowledge of beam theory as well as
+theory of elasticity including transformation of stresses and
+strains"
+41635,"41612, Product Design and
+Documentation"
+41704,"41713/41781.41502, Fundamental course in
+   manufacturing processes. Course on strength of materials.
+   Stresses and strains, Hooke's generalized law. Tresca's
+   and von Mises' yield criteria."
+42421,42405
+01410,"01017/01019, Discrete Mathematics
+   (01017/01019) is a strongly recommended
+   prerequisite."
+01426,"01410, Participants should be interested in
+discrete mathematics. The course is a sequel to the course 01410,
+and it is strongly recommended to attend 01410
+first."
+02220,"02158, Formerly 02152. See
+remarks."
+02242,"02141, The students are expected to be
+familiar with regular and context-free languages as well as
+semantics; this background can be obtained in the course 02141. The
+students must be fluent in at least one programming language and be
+able to use relevant data structures."
+02246,"02141, The students are expected to be
+familiar with finite automata and/or transition systems; this
+background can be obtained in the course 02141. The students are
+expected to have a basic knowledge about logic and probability
+theory. The students must be able to write programs in a
+programming language."
+02249,"02110.02141.02402/02403/02405, Knowledge of algorithms and
+   basics of formal languages and statistics/probability
+   theory."
+02256,"02156.02157.02180, Proof systems for first-order
+   logic, functional programming, basic algorithms in artificial
+   intelligence. Mathematical maturity. Logic programming is an
+   advantage."
+02263,"(01017/01019/01904) .
+   (02100/02101) .02157.
+   (02141/02156/02158) , i.e. (1) mastering discrete
+   mathematics: sets, functions, logical expressions in predicate
+   logic, (2) mastering imperative programming (e.g. in Java) and
+   functional programming (e.g. in F#), and (4) knowledge about
+   software modelling."
+02281,"02156, Acquaintance with BNF-grammars,
+recursive data struktures and functions, truth tabels, and
+relationaldatabases (cf. prerequisite
+courses)."
+02284,"0215602180/02281, Familiarity with recursion in
+programming, familarity with UMl or ER modelling, familiarity with
+predicate logic."
+02913,"Students should have familiarity with formal
+methods."
+02244,"General knowledge on programming languages (syntax and
+semantics)."
+02405,"01001/01002/01003/01004/01005, The student should be familiar
+   with basics mathematics. Preferably by taking course 01005 or
+   something equivalent not later than
+   02405."
+02443,"02402, or a similar course in elementary
+statistics. Basic programming skills."
+22100,"01005.­(02402/(27024.­23214)).­(22101/02631/02632/02633).­(27002/27008).­22111, It is assumed that the student
+   has existing knowledge of mathematics, statistics, basic
+   programming (language irrelevant), life science and
+   bioinformatics corresponding to the level of bachelor's
+   courses at DTU (see relevant course numbers
+   above)."
+22112,"22110/22113/22163, To be able to participate in the
+   course you must be very comfortable with programming in Python.
+   The course is based in Life Science and knowledge of various
+   biological file formats is necessary."
+22202,"27231/27232, or equivalent"
+22230,"27322/27070, The teaching will only briefly
+   cover the cellular and humoral elements of the immune system and
+   how the immune system reacts to infection. Thus it is a
+   prerequisite that the student is already familiar with these
+   elements of basic immunology or achieves this knowledge in
+   parallel e.g. by taking the course in immunology
+   (27070)."
+22231,"The course is designed for execution just prior to the master
+thesis project, and can link directly to a master thesis project if
+such is known/selected. Alternatively a number of projects will be
+presented during the course, and can be continued into a MSc thesis
+project."
+22236,27070.22210
+23258,"27002/27008og27051, Require basic knowledge of
+   microbiology."
+24006,24002.24004.02402
+24023,"27002/27008/27022/24002, or equivalent. Knowledge of cell
+   structure, its biological functions, as well as biochemical and
+   molecular biological processes together with biotechnological
+   processes. Simple mathematical handling of biological
+   data."
+27641,"27022.­27026.­(27611/27622/22111).­(27040/27042/36040/36042/22140/22142) , Familiar with the use of
+   computers, with special emphasis on the modeling of simple
+   biological processes using existing software and scripting tools
+   like R, Matlab or python."
+36611,"27002/27008, Basic understanding of biological
+   processes used in the industry. Knowledge of cell structure,
+   biological functions, biochemical and molecular biological
+   processes together with biotechnological
+   processes"
+41020,"41011.42011, 41011/42011 User-oriented design
+   and 42011 Product usability and design have to be passed, since
+   terms and methods from these courses are essential for the
+   project work."
+41031,41012/42012.41010/42010
+41035,41015.(01005/01007)
+41045,01005/01007
+41051,"41011/41603/41020, Students are required to have
+synthesis competencies equivalent to 41011 (former 41010), 41603
+and/or 41020"
+41061,"42022/42042, The course should be taken in
+   parallel with the bachelor project. The bachelor project is
+   basis for the assignments."
+41612,"41601.41602.41603.41703/42303/42301/42302/42305/42309/41781/42020/42901.­42020/41020, Production
+   technology"
+41618,"The course requires that the student follows one of the
+bachelorstudies Design & Innovation or Manufacturing &
+Mechanical Engineering."
+42021,"42011, Completion of 42011 Product
+Usability and Design."
+42042,42011.42021
+11034,11031
+11050,"11941/11311/11744/11746.­11023, The student should be able to
+   illustrate a structure in 3D in one way or another."
+11305,"01035.11343.02601.02631(matlab) , ...or
+   equivalent"
+11320,11010.41203.11311/62263
+11351,"11311/11521/11941, Reinforced Concrete
+   Design"
+11961,"Knowledge of computational frame analysis and finite element
+analysis is necessary."
+11982,"11121/11141, Education similar to Bachelor in
+   Architectural Engineering at DTU"
+42259,"courses in planning and management of building
+projects"
+42282,13548and42995
+01034,"01002/01004/01005/01006/01015/01920, Knowledge of complex numbers,
+   matrix calculations, eigenvalues and eigenvectors for matrices,
+   systems of linear first order differential equations and linear
+   differential equations of first and second
+   order."
+02502,"(01001/01002/01003/01004/01005/01006/01015/01016).­(02101/02102).­(02402/02403/02405).­(02002/02631/02632/02633/02692) , Basic knowledge of probability
+   theory or statistics. Basic course in linear algebra. Basic
+   programming experience in for example Matlab, Python, C, C#, C++
+   or Java."
+02805,"02100/02101, The course involves work with
+   high level programming languages (e.g. Python), so practical
+   programming experience is recommended (e.g. in
+   Python/​Java/​JavaScript/​C/​C++)"
+42005,"Math 1, Statistics"
+42114,"42101, The course requires the student to
+have taken an introductory course in Operations
+Research."
+42577,"02402/02403/02105, Introductory courses in
+   statistics are very important."
+42583,42580
+42584,"At least 4 of the programme specific courses in Data Science
+and Management must be passed."
+42586,"02105.02450, Algorithms and datastructures
+   (02105). A pre-requisite to the course is basic programming
+   skills, preferably in Julia."
+41072,"42040.42041, Completed Bachelor level at
+   ""Design & Innovation"" or similar. Students are
+   expected to have familiarity with industrial design,
+   mechatronics and electronic prototyping tools such as Arduino /
+   Raspberry Pi."
+41073,41051
+41078,"41010.41031, Advisable prerequisites for this
+   course are the ability to: - describe and apply basic design
+   methods - identify design related problems and needs in target
+   groups - prepare a basic design specification - select and apply
+   relevant visual communication tools in the different phases of
+   the industrial design process - design a basic product - build a
+   full scale physical 3D model of a selected concept - work
+   independently on an individual design assignment - argue for a
+   selected design solution"
+41084,"41015/4165942061/4162841020, Conceptualisation similar to
+   42061/41628, basic material science like 41015/41650, experience
+   from completed development project as for example 41020 or
+   bachelor project. Knowledge of biology is an advantage but not a
+   prerequisite."
+42071,"BSc in Design and Innovation/Mechanical Engineering
+(DTU)."
+42090,"42061/41628/41071/42071, Bachelor in Design and Innovation
+   or similar qualifications."
+42350,"42349, This is the second of two courses
+and it is required that the first course (42349) is
+taken."
+11352,11312/11747/11931eller11318/11748/11938
+11465,"11411.11463.11462.11464.11311, Basic soil mechanics and
+geotechnical engineering. Classical design of earth-retaining
+structures. Constitutive modelling. Basics of finite element
+method. Basics of reinforced concrete design."
+11563,"11561.11562, (11561) Construction Materials -
+   use and testing, (11562) Materials Science for Civil
+   Engineers"
+41106,41111.­(41102/41312).­02631
+41111,41101/41102/41312
+41117,"41106/41111/41107, It would be an advantage to have
+   taken: 41126 Fluvial and Marine Sediment
+   Transport"
+41126,"41101/41102.41111, Elementary programming, for
+   example with MATLAB or another programming
+   language."
+41129,(41102.41111)/41312
+41214,41501/41203/41236
+41224,"41102/41312, Basic knowledge about
+   hydrodynamics and/or fluid mechanics."
+41113,"41111, Knowledge of linear wave dynamics
+and basic hydraulics."
+11127,"11121.­(11112/11947/11739/11937)/(41814.­(41401/41045)) , Knowledge on heat
+   transfer."
+11129,11127/11115
+11221,"41311/41814/41815, Participants should have
+   fundamental knowledge of fluid mechanics, heating,
+   air-conditioning and ventilation principles."
+42530,Bachelor project
+11331,(41205)
+11353,"The course is given on Master-level where a good understanding
+of static systems and calculation methods is
+expected."
+11374,"41214, Dynamics of Structures: Theory and
+Analysis"
+11375,"11911/41236.­11921/41235.­11345/11346.­11343/41206.­11311.11312.11351.11352, The course requires a thorough
+   knowledge of the prerequisite courses. This includes proficiency
+   in analysis of statically indeterminate beam-, frame- and plate
+   structures as well as design of structures in steel, concrete
+   and post-tensioned concrete."
+11464,"11411/62337.11462.11463. , Basic soil mechanics: effective
+   stress, deformation, drained and undrained strength,
+   one-dimensional consolidation"
+23532,"Completed bachelor degree in Food Technology, Biotechnology,
+Chemical Engineering or a related area."
+27303,"27022, Basic knowledge in biochemistry and
+protein chemistry."
+27324,"27322, Some knowledge of immunology is
+necessary, e.g. by following the course in immunology in
+parallel."
+27405,"27034/27416.­27611/36611/22111, Fundamental knowledge on basic
+   principles of fermentation technology and biotechnological
+   products produced by microorganisms. Knowledge of the basic
+   quantitative elements, the underlying science, and the general
+   concepts of biotechnological processes. Knowledge of cellular
+   metabolism."
+27432,27230.27430
+36617,BSc. in Biotechnology or equivalent
+01415,"01018, Understanding of concepts from
+abstract algebra: linear algebra, rings, ideals, quotient rings,
+the isomorphism theorem, finite fields. Some experience with
+programming and algorithms. Students that have not taken 01018 but
+have 01017 and 01426 should be able to follow the course but should
+expect reading up on the mentioned algebra."
+02429,"(02402/02403/02323).­02411.­02418, In addition to an introductory
+   statistics course (e.g. 02402) it is recommended to have at
+   least two relevant statistics courses. The two most relevant
+   courses are 02411 and 02418."
+02457,"02450, Linear algebra, basic signal
+analysis and introductory statistics. Introduction to machine
+learning"
+02582,"02409/02450/27411, It suffices with one of the above
+   mentioned courses. Alternatively a similar course in advanced
+   statistics or data analysis. Knowledge of Matlab, R or Python is
+   an advantage."
+02614,"02635, Experience with programming in C/C++
+and numerical computations. Knowledge of the Linux/Unix command
+line, and programming of shell-scripts is an advantage."
+02634,"02525/02631/02632/02633/02692, Knowledge of programming in one
+   of the languages Matlab or Python."
+42104,"The students should have done introduction courses in
+mathematics (calculus and linear algebra) and statistics (basic
+probability theory) and be familiar with programming and able to
+work in R, Matlab, Python or similar programs. It is a benefit to
+have prior experience with data analysis."
+42105,"42104, Introduction to Financial
+Engineering"
+42106,"42104, Introduction to financial
+engineering"
+42184,"02402/02403/02105, Introductory courses in
+   statistics are very important (programming is also very
+   desirable, but not fundamental)"
+11010,11000
+11318,"11341.11342, Knowledge about loads and safety
+   of structures, corresponding to the content in 11311 Concrete
+   Structures."
+11342,11341/11911
+11561,"11000/11562, 11000 Engineering work, 11562
+   Materials Science for Civil Engineers"
+11821,"Arctic field safety course (included as part of the
+introduction week for The Arctic Civil Engineering and Fisheries
+Technology educations)."
+11825,11823
+11832,"Arctic field safety course (included as part of the
+introduction week for The Arctic Civil Engineering and Fisheries
+Technology educations)."
+11836,11832
+11990,"11141.11341, The courses are taken
+   concurrently and are a prerequisete for the project work in
+   January"
+11993,11990
+11994,11990
+11997,11990.11993
+28022,"(28016, 28322 concurrent)"
+28157,28012/28022.28322/28342
+28342,28022.28322
+28352,28016.­28022.­01920.­01901.­28012
+11412,01920.(62328.62327)/(11821.11831)
+11420,"11462, or similar introductory course in
+physical geology"
+11466,"11418.11411.11441, Rock physics and rock mechanics.
+   Basic geotechnical engineering. Geology or equivalent"
+11767,62318.01901
+11830,"General chemistry, Environmental processes or other chemical
+background knowledge."
+41236,"62331, Basic skills in statics from the
+course 62331."
+62139,"Basic knowledge of financial accounting, budgeting and
+investment corresponding to e.g. 62094/62103, 62223/62174, 62000 or
+62221"
+62263,62327/11835
+62276,62265
+62999,First four semesters must be passed.
+11142,"11141/11000/11937/11738, A basic knowledge on optical and
+   energy related properties of windows is
+   required."
+11526,"Must have kompetences equal to being on the last semester of
+B.sc, B.eng or Msc level."
+11909,11982 or similar
+11996,"The course is part of the recommended study plan for bachelors
+in Architectural Engineering."
+41628,"41603.41612, Students from non-mechanical
+   fields are required to have synthesis competencies equivalent to
+   41612"
+42281,42262/12205/12124
+42433,42429/42430/42421/42922/42490
+02224,"02158, Knowledge of general concurrent
+programming principles: Processes / threads, synchronization,
+communication. Knowledge of computer science modelling in general
+and models of concurrency in particular. Knowledge of temporal
+logic. Knowledge of basic probability
+theory."
+02232,"02239/01410, The course requires basic
+understanding of computer security and/or cryptology, but is
+possible to follow at the same time as
+02239."
+02238,"02239.02502, The course assumes basic
+   knowledge of computer security and students may also benefit
+   from a basic understanding of image
+   analysis."
+02282,"(02105/02326).02110, Basic courses in algorithms and
+   data structures (comparable to 02105 + 02110). Mathematical
+   maturity."
+02287,"01017/02156/02180, Discrete mathematics, in
+   particular propositional logic and first order logic; elementary
+   probability theory."
+02289,"02110, Basic courses in algorithms and data
+structures (comparable to 02105/02326 + 02110). Mathematical
+maturity."
+42435,Bachelor
+01036,"01035, Subjects from 01005 or an equivalent
+course: The complex numbers, vector spaces, eigenvalues and
+eigenvectors, linear (ordinary) differential equations. Subjects
+from 01035 or an equivalent course: Solution of
+homogeneous/​​inhomogeneous differential equations and systems of
+differential equations, infinite series, power series, Fourier
+series."
+11343,11342/41203
+11829,118321183311836
+11831,11821
+11833,11832og11836
+11835,11825
+11837,11832
+62259,41236
+62261,62319eller41872
+62270,62327/62318/
+62273,"62331/41236, Building Design
+   Project/Structural Mechanics"
+62279,62269
+62298,62273.62279.62269
+62990,First four semesters must be passed.
+01606,"(24004/01604).­(02402/02403) , Knowledge of mathematical models
+   for population dynamics and disease spread. An introductory
+   course in statistics"
+26411,26400/26471
+01604,"(24002/27001/02631).­01005, from the courses the prerequisite
+   is an introduction to programming in R. Mathematics 1 can be
+   followed at the same time."
+25106,"27008/27002/12701, Topics students should know
+   before taking this course: Basic structure of DNA, mitosis and
+   meiosis, central dogma, Mendelian
+   inheritance"
+23256,"Basic statistical skills and knowledge, such as understanding
+probability and interpretation of results of statistical
+tests."
+12203,"At least 4 of the technology core courses shall be
+passed"
+42112,"42101, or a similar course in Introductory
+Operations Research. You are expected to be familiar with linear
+programming prior to the course."
+42351,42340
+42371,"42401.42415, Introduction to Management Science
+Engineering Economy"
+42543,"Bachelor in Engineering Management, Design and Innovation or
+equivalent"
+42575,"Good understanding of project management, organisation and
+product development is advised."
+42879,42016/12772/42178/42576
+02156,"(02002/02003/02100/02101/02102).­(01017/01019).­02105, Programming in a declarative or
+   imperative language, discrete mathematics, algorithms and data
+   structures. Functional programming is an
+   advantage."
+02193,"02239/02233, The course is an advanced course
+that requires basic understanding of both computer and network
+security."
+02233,"02239, It is assumed that participants know
+a variety of commonly-used protocols for communication in data
+networks, and how they work."
+02266,"02809/02161/02291, Knowledge of UX prototype
+   development, agile software development and/or system
+   integration"
+02269,"02105.02158.02141, Understanding of algorithms and
+   basic data structures, together with some general computer
+   science modeling knowledge. Experience with notions of
+   concurrent programming is also
+   advisable."
+02456,"02450.­01005.­(02405/02402/02403/02409).­(02002/02631/02632/02633/02634) , Calculus (chain rule of
+   differentiation), basic linear algebra, basic multivariate
+   probability theory, statistics and machine learning (maximum
+   likelihood, Bayes, over- and underfitting, regularization) and
+   programming in Python."
+42634,BSc/BEng
+02417,"(02402/02403) .
+   (02631/02525) , An elementary course in
+   statistics and an introductory course in
+   programming."
+02610,"02601.­02402.­(02002/01020) , Introductory numerical
+   algorithms, introductory statistics, and experience with
+   programming in Python."
+02619,"02612, A course in constrained
+optimization"
+28140,"28020.28160, Knowledge of simulation software
+   such as Maple, Matlab or Python."
+28221,26222
+28231,"28121/28344, or similar experimental course
+   and Bachelor in Chemistry & Technology og
+   Biotechnology"
+28242,"Knowledge of physical chemistry corresponding to course 26222
+of mathematics corresponding to 01035 or 28160. Knowledge about
+chemical process technology corresponding to 28020, Introduction to
+Chemical Reaction Engineering 28140. It is particularly important
+to know the ideal reactor types: Stirred tank reactor, batch
+reactor and plug flow reactor."
+28350,"Bachelor in Chemical and/or Biochemical Engineering, or
+equivalent. Basic courses in mass and energy balances, and chemical
+reaction engineering, corresponding to 28020 and 28140, must have
+been part of the bachelor education. In addition, it is highly
+recommended to take the MSc course 28420 Separation Processes
+before this course. The 28420 will provide methods and skill set to
+design separation systems that make up an important part of the
+process flowsheets."
+28361,"01035, 28160, 28864, or similar courses. Initial knowledge of
+programming (preferably, Matlab or
+Python)."
+28420,28020/28221/28322/26222
+28451,"28351/28150/28864, An introductory course in
+   chemical process control similar to 28351 or 28150. An
+   introductory course into Matlab/Simulink software such as
+   28864."
+28530,"28160.­(01025/01034/01035/01037) , Formulation of models resulting
+   in ordinary or partial differential equations. Advanced
+   engineering mathematics, including linear partial differential
+   equations."
+28831,28530/88701/28361
+28845,"(28140/28342).­(28016/28160) , A basic course in chemical
+   reaction engineering, such as is part of a bachelor program in
+   chemical engineering, and a basic course in mathematical
+   modelling. Reports should be written using Word or some other
+   text editing software. Data treatment and analysis involves use
+   of spreadsheets and mathematical simulation software (fx. Excel
+   and Maple/Matlab/Python). See Remarks."
+28852,28120/28020/28121
+28121,"28020/28022/28025, Theoretical course in chemical
+   unit operation/process technology is necessary in order to be
+   able to complete the course. Basic knowledge in inorganic,
+   organic, analytical chemistry, physics, thermodynamics and
+   matematics."
+28150,"(28020).(28160).28864, Basic knowledge on the use of
+   MATLAB or Python at the start of the course is an advantage, but
+   not a necessity."
+28233,"Chemistry/Chemical engineering/Biotech. bachelor or
+equivalent"
+26261,(01005/01015/01920).­(26200/26201/26271/26211).­(01001/01003).­(01002/01004)
+28244,"28020/41401, Experience with numerical tools
+   for solution of ordinary differential equations such as Matlab,
+   Maple, or similar. In addition it is an advantage with knowledge
+   of chemistry at an introductory level."
+28870,"Knowledge about currently applied energy technologies and the
+most relevant criteria for life cycle assessment and sustainability
+analysis"
+01025,"(01002/01004/01005).­02525, Linear algebra, Vector spaces,
+   Eigenvalue problems, Systems of linear differential equations,
+   Complex numbers and the complex exponential function, Taylor
+   expansions, Limits, Continuity, Differentiability. Course 02525
+   supplements 01002 treatment of what a mathematical proof is and
+   of limits and continuity. Without course 02525 there is an
+   additional note you have to study."
+26004,26001.26400
+26008,"26001 General and inorganic chemistry (or similar course)
+should be followed simultaneously or before"
+26124,26001/(26006.­26000)/26050/26800
+26201,"26000.01005, 01005 at least at the same
+   time"
+26222,26201
+26231,"(01005.­26222)/(01920.­28012.­28322).­(01001/01003).­(01001/01004) , Physical chemistry and mandatory
+   mathematics."
+26245,"(26200/26201/26211).­(26400).­(27002/27020) , or similar introductory physical
+   and organic chemistry. Note: Expected knowledge of basic
+   physical chemistry."
+26301,(26000/26050).(26008/27023)
+26510,"Knowledge equal to the technological courses for the Bachelor
+study line in Chemistry and Technology 28241 Chemical Kinetics and
+Catalysis or 26124 Coordination chemistry"
+28020,"10020/26201, Not later than at the same
+   time"
+28125,"28020/28022/28025, Theoretical course in chemical
+   unit operation/process technology is necessary in order to be
+   able to complete the course. Basic knowledge in inorganic,
+   organic, analytical chemistry, physics, thermodynamics and
+   matematics."
+28160,"(01025/01034/01035/01037).­(28020) , Please note: Course 28020 may be
+   followed concurrently with 28160. Content of prerequisites:
+   Please see description in course
+   catalogue."
+02454,"01005.02402, Basic calculus, probability
+   theory and experience with Matlab or a similar
+   environment"
+02504,"02502, Experience programming in Python and
+numpy. Image analysis or similar introductory course that covers
+introduction to images and operations on images. This includes,
+among others, morphological operations, filtering, geometric
+transformations, image registration, classification, and
+segmentation."
+02512,"(02402/02403).­(02631/02632/02633/02692) , Statistical methods and
+   mathematical programming"
+02565,"01005.02561, Engineering math and a CAD /
+   multimedia / computer graphics course"
+02806,"02101/02100, The course involves work with
+   high level programming languages (e.g. Python), so practical
+   programming experience is recommended (e.g. in
+   Python/​Java/​JavaScript/​C/​C++)"
+02808,"02266.02809, Programming. JavaScript is used
+   to create interactive data visualizations. It is an advantage to
+   also know e.g. Python."
+02823,"02110, An advanced course in algorithms and
+data structures"
+02826,"02823.02157, Courses in computer game
+   prototyping and functional programming"
+42348,"Experience in one or more of the analysis methods being used,
+or in biotech, physics, chemistry, or nanotechnology, is an
+advantage but not a requirement. The course gives students a chance
+to work cross-disciplinary in groups with students from other DTU
+study directions to combine their competences and skills. We have
+good experience with students joining in from environmental,
+production, physics & nanotechnology, management, chemistry,
+medico and design directions - i.e. students from all directions
+will likely both contribute and learn a new combination of
+methods."
+11463,1141111462
+01018,"(01017/01019).­(01001/01003/01005/01006/01015/01016) , The following topics from
+   Discrete Math 1 (01017) will be used: the induction principle,
+   the extended Euclidean algorithm (both for integers and for
+   polynomials), modular arithmetic. The following topics from
+   01001/01003 will be used: linear algebra, among others matrix
+   arithmetic, linear maps, kernel and image of a linear
+   map."
+01125,"01025/01034/01035/01037, The course is quite abstract, and
+   consequently Mathematics 2 for Mathematics and Technology
+   (01025) is a better preparation than Mathematics 2 (01035).
+   Likewise, the algebra course (01018) or the linear algebra
+   course (01020) may provide preparatory training in abstract
+   mathematics."
+01418,"01025/01034/01035/01037, Linear Ordinary Differential
+   Equations (ODE); convergence of infinite series; Fourier
+   series"
+01617,"01025/01034/01035/01037, Basic knowledge of linear algebra
+   and linear differential equations"
+01666,"The student must have passed courses corresponding to 60 points
+among those belonging to the bachelor
+line."
+02409,"02402/02403/02323, or another introductory course in
+   statistics knowledge of linear algebra"
+02418,"02402/02403, Knowledge of statistical methods
+   equivalent to course 02402/02403. Some additional knowledge of
+   probability theory is an advantage."
+02424,"(02402/02403).­(02418/02409) , Prerequisites in basic
+   statistics and likelihood theory or multivariate
+   statistics."
+02427,"02417, Time series analysis (02417 or
+similar)"
+02441,"02402/02403/02323, An introductory course in statistics
+(Including limited experience with R)"
+02460,"02450.02456.02476.02477.02405, This course is an advanced course in
+machine learning. Students are expected to have passed most of the
+machine learning courses offered by DTU Compute before attending
+this course. At a minimum, students are expected to have passed
+02450: Introduction to Machine Learning and Data Mining and 02456:
+Deep Learning. Students will benefit most from the course if they
+have also passed 02476: Machine learning operations, 02477:
+Bayesian machine learning, and 02405 Probability Theory. The course
+can be followed in parallel with 02477."
+02471,"(01025/01034/01035/01037).­(02402/02403/02405/02323).­(02450).­(02462/22051/31606/31610/30160) , Linear algebra, Fourier series,
+   basic probability theory, basic knowledge of machine learning,
+   basic knowledge of linear systems and signals, and knowledge of
+   either Matlab or Python"
+02477,"02405.02450(02002/02631/02632/02633) , Linear algebra, introductory
+   statistics and probability theory. Probability theory.
+   Introduction to machine learning, Python
+   programming"
+02526,"(01025/01035).­02601.­(02403/02402).­(02002/02525/02631).­(10018/10022) , Knowledge of mathematical
+   analysis, linear algebra and numerical analysis. Fundamental
+   physics including mechanics. Knowledge of statistics and Matlab
+   or Python programming. It will be an advantage to have knowledge
+   of image analysis."
+02623,"(02002/02631/02632/02633).­(02601/02603) , Basic course in programming with
+   Matlab. Basic course in numerical
+   algorithms."
+02635,"02525/02002/02631/02633.­02601, or similar courses that provide
+   knowledge of numerical methods and basic concepts in computer
+   science such as loops, variable types, and simple mathematical
+   operations."
+02807,"Solid programming experience. At minimum a course in
+programming plus additional experience from another course or
+programming project. The course uses Python. The participants are
+expected to at least have basic experience in Python. Tutorials are
+available on the net, e.g.,https:/​/​docs.python.org/​3/​tutorial/​.
+Only a short brush-up will be provided."
+01227,"(01001/01003/01005).­(01017/01019) , Mathematical
+   maturity."
+02413,"02402, or a similar course in elementary
+statistics"
+23301,"23102, Knowledge on analytical chemistry
+and chemical contaminants is advantageous"
+23302,"Courses 26400 or 26471, or corresponding knowledge"
+26130,"26124.26301/26300, Knowledge about physical
+   chemistry for atoms and molecules corresponding to Atkins
+   ""Physical Chemistry"" 12. ed., Chapter 8 og 9 is
+   recommended."
+26290,"Completion of chemistry, biochemistry, and physics courses of
+two or three terms' duration of a science curriculum at Danish
+universities."
+26317,"26300/26301.26428/27022, The basic course of chemistry or
+   biotechnology must be passed."
+26330,"26000/26050/26171/26027, General Chemistry"
+26433,"26411, Organic Chemistry
+2"
+26438,"26428.26411, Spectroscopy of Organic Compounds
+   and Organic Chemistry 2"
+26444,"26433, Organic Chemistry
+3."
+11116,"11115, Course 11115 Integrated design or
+similar course and knowledge of the topic building energy"
+11222,"11202/11203, Man and the physical environment/
+   Introduction to Indoor Environment"
+10303,"(10034/10018).­(10036/10041/31400).­(10102/10104) , thermodynamics,
+   electromagnetism, and quantum
+   mechanics"
+26134,26124
+26236,"01005.26201.10020.26231, Mandatory mathematics and
+   physics."
+26422,"26411.27002/27020, Organic Chemistry 2.
+   Bioscience."
+28212,26411
+28310,"Bachelor degree You like to challange your technical skills in
+a realistic, but difficult and diffuse context of open ended
+problems from “real life”. You have a broad knowledge of organic,
+inorganic, biological, physical, and technical chemisty, incl. mass
+and heat balances, unit operations, thermodynamics, reaction
+engineering and mathematical modelling."
+28315,"26201, A relevant Bachelor
+degree"
+47303,"26006.26173, Bachelor in Chemistry and
+   Technology, Physics and Nanotechnology, General Engineering
+   (Cyber materials and Future energy) or similar bachelor
+   programme"
+02234,"02232/02233, The course is an advanced course
+   that requires a basic understanding of computer and network
+   security."
+31385,"02101/02102, Knowledge of C /
+   C++"
+42186,"02806/02450/02807/42184/02402/02403, Fundamental statistics and
+   probability (e.g. 42585 Business Analytics); knowledge of
+   computer programming (e.g. Python, R, Matlab, Julia, C++,
+   Java)."
+42187,"Basic statistics/probability theory.; Basic calculus (02323 /
+02402 / 02403 or similar courses; 01901/01920 or similar
+courses)"
+42380,"42101.­02402/02403.­42402/42587, (or similar introductory courses
+   in OR, statistics and SCM). It is expected that participants
+   have some basic programming skills in languages such as R,
+   Python, Matlab, Julia, or similar."
+42417,"02402/02403/02405, Introduction to statistics (or
+   similar course in statistics and/or probability theory). Basic
+   knowledge of programming (such as ""if-then-else""
+   statements and ""for"" loops)."
+42578,42577
+42875,"42101, or another introductory course in
+operations research"
+42115,"42101, The course requires the student to
+have taken an introductory course in Operations
+Research."
+42117,02105
+42136,"42112, The programming language Julia,
+using the Math. Programming package Jump will be used in the
+exercises and in the assignments."
+42137,"42101, Introduction to Operations Research
+and programming experience. The course heavily relies on your
+ability to program."
+42142,"42101, General knowledge of Operations
+research and Operations Management"
+42459,"42401.­42415/42945.­42101/02701, Introduction to Management
+   Science Engineering Economy Operations Reserach"
+42178,"02323/02402/02403, or similar statistics
+   course"
+02612,"02610.­(02002/02631/02633).­02601, An introductory optimization
+   course, experience with Matlab, Python, or Julia programming,
+   and an introduction to numerical
+   algorithms,"
+42613,"The course is recommeded at 4-6
+semester."
+02435,"(42112/42002/42111) , or similar. This course will
+   build on modeling using mathematical programming. Knowledge of a
+   programming language such as Python or Julia is an advantage,
+   but is not required."
+02506,"02502/0251/02512. , Introductory course in image
+   analysis, e.g. 02502, 02511 or 02512."
+02561,"(01002/01004/01005/01006).­(02002/02100/02393/02635) , Programming experience (for
+   instance Python, Java, C/C++, JavaScript, or
+   Matlab)"
+01257,"01617.­(02002/02003/02631/02632/02633/02525) , Basic knowledge of differential
+   equations. Basic experience in programming, see e.g. the DTU
+   course
+   02002/​02003/​02631/​02632/​02633/​02525"
+02458,"02450.(02454/02464) , Probability theory, fundamental
+   machine learning and basic programming. Knowledge or interest in
+   cognitive science."
+02686,"02601.­(02002/02631/02632/02633/02692) , Basic course in numerical
+   algorithms, eg 02601. Basic knowledge in programming, eg 02631.
+   02687 can be followed in the same semester as 02686. Both
+   courses can be taken independently."
+31598,"31001.31511, It is an advantage, but not a
+   requirement, to have prior course work in electric circuits and
+   human physiology."
+02257,"01019.02157.02141, Discrete mathematics, functional
+   programming and basic knowledge of regular and context-free
+   languages as well as semantics."
+10250,"10036.10303.33257, Electromagnetism, solid state
+   physics, possibly introductory course in visualization
+   techniques"
+33206,"Basic knowledge of solid state physics on the level of e.g.
+Nanoscale Material Physics 10303 or Physics of Quantum-Based
+Electronic Components 10307. Familiarity with basic quantum
+mechanics at the level of Advanced Quantum Mechanics
+10112."
+10122,"Bachelor degree in science or technology. Knowledge of basic
+statistical physics."
+10304,"10300/10303/10317, or equivalent courses. Solid
+   state physics."
+10333,"10331 Experimental introduction to physics of sustainable
+energy or 10260 Physics of solar energy and energy storage and
+10034 thermodynamics and statistical physics"
+33321,"Bachelor exam in natural scientific or technical disciplines.
+It is possible, however not recommended, to follow this course
+without having had courses in materials science, solid state
+physics and quantum mechanics. However, this will lead to
+significant extra work compared to the norm. Knowledge of physics
+and technology, including electromagnetism, classical mechanics,
+optics, quantum mechanics (including quantum transport), material
+science, as well as micro- and nanofabrication."
+47301,"Basic familiarity with thermodynamics is preferred, e.g.,
+10018, 26201, 28221, 41401 or 47201."
+47302,"Bachelor in Physics and Nanotechnology, or Chemistry and
+Technology, or Production and Construction, or Electro Technology,
+or General Engineering, or similar"
+47310,"10302/26021/47305, Bachelor in Physics and
+   Nanotechnology, or Chemistry and Technology, or Production and
+   Construction, or Electro Technology, or General Engineering, or
+   similar"
+47409,"10303/10333/47301, Basic knowledge of materials
+   physics and experience with laboratory work and group work
+   obtained, e.g., through courses 10030 and 10033"
+10346,"01001.01002.02002.10033.10034, especially central material from
+classical physics and mathematics, i.e., knowledge of mechanics,
+thermodynamics, electromagnetism, vector analysis, and ordinary as
+well as partial differential equations."
+10400,"10033.10034.10036. , or equivalent
+   courses."
+10420,"10060, or equivalent
+courses."
+34540,"34020/34021, Can be taken at the same
+   time"
+41822,"41312.(02002/02631) , Knowledge of basic fluid
+   mechanics and experience with Python (or similar programming
+   tool)."
+33647,"Mathematics and ability to calculate with pencil, paper, and
+computer corresponding to the level of DTU's Master students of
+physics and nanotechnology"
+10380,"34020.10102, Photonics and quantum
+   mechanics"
+10401,"10033.10034.10036, or equivalent courses."
+10200,"10036/10041/10102/10104/10303/10317, or equivalent courses. In
+   particular it is important to have basic knowledge of x-rays as
+   electromagnetic waves, crystal structures and the reciprocal
+   lattice."
+10220,"10034.10036, Thermodynamics and statistical
+   physics Electromagnetism for
+   physicists"
+33355,"You are expected to know standard processes for cleanroom
+fabrication of micro- and nanostructures at a level corresponding
+to course 33255, “Fabrication of micro- and nanostructures”, course
+33253, “Micro 1: Solid-state Electronics & Microtechnology” or
+equivalent courses (otherwise selfstudy). You are expected to have
+a background in basic electromagnetism and mathematics/differential
+equations corresponding to 2nd year university
+level."
+42002,"01005, mathematics corresponding to
+01005"
+01621,"01617, Knowledge of nonlinear differential
+equations, phase portraits, (local) invariant
+(stable/unstable/center) manifolds and local bifurcations. Some
+mathematical maturity (obtained by following 01125, say) will be
+useful. Practical experience (obtained through 01257, say) is also
+good, but not required."
+10036,"10033.01005, or equivalent
+   courses."
+10112,"10102/10104.10303, Or corresponding
+   courses."
+10350,"01001.01002.01035.10033.10034.10036.10102.34020, especially knowledge of the
+governing equations in mathematical physics for ion diffusion, heat
+conduction, electromagnetism, quantum mechanics, hydrodynamics,
+solid state mechanics, acoustics, and optics"
+10405,"10033.10036, Mechanics and electromagnetism at
+   bachelor level."
+22680,"Mathematics and ability to calculate with pencil, paper, and
+computer corresponding to the level of DTU's MSc programme in
+Engineering Physics. Skills in basic MATLAB/Python
+programming."
+31428,"10036/31400, The participants must possess
+   qualifications in fundamental electromagnetics corresponding to
+   a typical undergraduate course comprising electro- and
+   magnetostatics, time-varying fields, Maxwell's equations in
+   diferential form, plane wave propagation, reflection and
+   refraction, as well as transmission lines."
+10102,"10036/31400.­01035/01325/34031, or equivalent courses, especially
+   within electromagnetism and mathematics: series and
+   expansions"
+10321,"10033/10036/10317/22600/10102/34020, or equivalent courses"
+10325,"10102/10104/26261, or equivalent courses.
+   Especially, knowledge of basic quantum mechanics (Schrödinger
+   equation, wavefunctions) and linear algebra. Basic solid-state
+   physics (not a strict requirement). Some experience with
+   numerical methods, e.g. Python/numpy, Matlab, Mathematica,
+   Maple, etc."
+33255,"For physics & nanotechnology students: The course can be
+taken on the 3. or 5. semester."
+34020,"10009/10013/10036/31400, not later that at the same
+time"
+34029,10030
+47319,"Bachelor in Physics and Nanotechnology, or Chemistry and
+Technology, or Production and Construction, or Electro Technology,
+or General Engineering, or similar"
+30120,"10033, 01005 Advanced Engineering
+Mathematics 1 (MAT1) can be followed in
+parallel."
+10315,"10036.10102.10303. , or equivalent courses"
+22651,Bachelor degree in science or technology.
+33253,"Elementary electromagnetism and
+mechanics"
+33257,"Elementary electromagnetism and mechanics. Fulfilled the first
+year of study on the Physics and Nanotechnology line of
+study."
+33323,"If you have completed three semesters in any engineering or
+science study programme you can enter the course."
+33491,"See the website for the projects that are offered:www.studyabroad.dtu.dk/​IWExperience in the projects you
+prioritize is an advantage but not a requirement."
+10302,"10112/10303/10317, or equivalent courses. Especially
+   concepts from solid state physics like Bloch's theorem and
+   the reciprocal lattice. The programming language Python is used
+   in the course."
+10305,"10303.10112, solid state physics, advanced
+   quantum mechanics"
+10314,"10036.­10102.­(10303/10317) , or equivalent
+   courses."
+10316,02450.­(02631/02632/02633/02692)
+10323,"10303/10112, Basic knowledge of solid state
+   physics on the level of Condensed Matter Physics and Nanoscale
+   Materials Physics 10303 and familiarity with quantum mechanics
+   at the level of Advanced Quantum Mechanics
+   10112."
+33442,"10102/26260.10303/10112, Knowledge of basic quantum
+   mechanics (Schrödinger equation) and linear algebra. Basic
+   solid-state physics. Experience with numerical methods, e.g.
+   Matlab, Mathematica, Maple, etc."
+47325,"10303, Solid state physics and nanoscale
+materials physics"
+10337,"10033.­10034.­10036.­01005.­01035, Or equivalent courses. Especially
+   mechanics, thermodynamics, electromagnetism, vector analysis,
+   ordinary and partial differential
+   equations"
+10384,"10102, or equivalent courses (basic quantum
+mechanics) are an advantage but not absolutely
+required"
+30020,"30015/34600/30032.­10036/30400/34120, A basic understanding of
+   electronic circuits and components as well as Matlab or
+   Python."
+30160,01035.30015
+10306,"(10102/10104) .
+   (10303/10317) .10112, or equivalent courses. Basic
+   Experience with Python"
+34127,"34020/34021, Optic and photonic"
+10856,"Basic understanding of classical mechanics, electromagnetism,
+vector calculus, and differential equations"
+01325,"01035/01025/01034/01037, [Subjects from 01001.01002/01005,
+   01020, or an equivalent course:] Linear equations and linear
+   maps. Matrix algebra. Vector spaces. Eigenvalue problems.
+   Symmetric and orthogonal matrices. Complex numbers. Linear
+   differential equations. Standard functions. Functions of one and
+   several real variables: linear approximations and partial
+   derivatives, Taylor expansions, and quadratic forms. [Subjects
+   from 01035 or an equivalent course:] Infinite series, power
+   series, Fourier series. Convergence (absolute, conditional,
+   point-wise, uniform) of infinite series, Introduction to the
+   Fourier transform."
+01715,"01325.01125, The course ""01325
+   Mathematics 4"" or a similar background is necessary in
+   order to follow the course. Furthermore it is an advantage (but
+   not strictly necessary) to have passed ""01125 Fundamental
+   topological concepts and metric
+   spaces"""
+01716,"01715.01418, Basic knowledge of partial
+   differential equations and functional analysis"
+02970,"The course requires mathematical proficiency at the MSc
+level."
+10386,"10102, Bare minimum is quantum mechanics
+(10102), a more profound understanding of the technical side of
+quantum technologies will be gained with a background in advanced
+quantum mechanics (10112), quantum information (10384) or quantum
+optics (10380)."
+34031,01005.10036.10020
+34451,34031
+01622,"01617, Introduction to Dynamical
+Systems"
+10339,"(10034.­10303)/(26201.­26222) , Basic concepts from physical
+   chemistry and/or condensed matter physics are needed for the
+   present course."
+47330,"10333Physics of Sustainable Energy /28870Energy and Sustainability , Bachelor
+in Physics and Nanotechnology, or Chemistry and Technology, or
+Production and Construction, or Electro Technology, or General
+Engineering, or Design of Sustainable Energy Systems, or
+similar"
+33621,"33321, The course builds on your solid
+physics and nanotechnology background with previous courses in
+electromagnetism, quantum mechanics, thermodynamics, solid state
+physics, photonics and material science, and is specifically
+targeted at master and Ph.D. students, who are expected to be
+familiar with scientific articles, presentations, and academic
+writing. A general course in nanotechnology will be a great
+advantage. Without any of these prerequisites a significant amount
+of extra preparation work is necessary."
+47316,"10034/26201/26222, Basic physical or chemical
+understanding of solids, molecules and thermodynamics. For example
+from 10034, 26201 or 26222"
+47318,"26027/26000, Introductory chemistry course -
+either Fundamental chemistry, 26027, or General chemistry, 26000.
+Bachelor in Sustainable Energy, Mechanical Engineering, Production
+and Construction, Electro Technology, Physics and Nanotechnology,
+General Engineering, or similar. Or students on the MSc study
+programme Petroleum Engineering."
+33422,Bachelor degree in science or technology.
+31761,420030240231742
+33722,Bachelor degree in science or technology.
+34550,"10036, Basic courses in mathematics and
+physics Med-tech"
+10467,"10036/10041/31400, electromagnetism"
+33474,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)."
+34032,"10036.10102.10303.34033, can be taken at the same
+   time"
+10814,"10820, Radiation Physics, KU 180 (Medical
+applications of ionizing radiation)"
+22481,"22476, Physiology and anatomy. Good
+knowledge of Python is essential. It is an advantage to have
+completed course 22476."
+22485,"22052.22481.02002/02003, Courses in signal processing of
+   stochastic signals and introduction to medical imaging systems.
+   Knowledge of programming."
+02323,"01002/01005/01901, At the latest at the same
+   time."
+22179,"Students should have a ""case"" to eventually use as a
+course project. This case can be the student's master project,
+the student's invention or any project/idea with commercial
+potential. Students unsure whether their ""case"" is
+acceptable should contact the course coordinators before enrolling
+for the course. Make sure that your supervisors are aware that you
+will present the case in a classroom and, especially if you come
+from industry, make sure to have a written confirmation that you
+can use such a case (by email, for example). Not having a case is
+not a problem as we work in groups. Still, The more ideas we have
+to work on, the easier it is to make groups. Students will be
+grouped in teams of 4-5 to work on an implementation plan based on
+a specific case."
+22235,"A good basic understanding of chemistry (1 or more of medicinal
+chemistry, organic chemistry and physical chemistry) and biology (1
+or more of human physiology, eukaryotic cell biology and molecular
+biology)."
+24102,"27321, Some knowledge of immunology is
+necessary, e.g. by following the course in immunology in
+parallel."
+26436,"Basic knowledge about organic chemistry and
+biochemistry"
+27102,"General knowledge on antibodies and on the immune system,
+biostatistics as well as basic knowledge on proteins and nucleic
+acids."
+36685,"27611.(27321/27322) , or equivalent. A basic
+   understanding of immunology and protein structure is
+   recommended."
+41683,"26171/26471, General chemistry and organic
+   chemistry"
+23101,"23711or23511, or similar level in Food Science
+& Technology (including food
+microbiology)"
+23102,23101
+23211,"23101, Knowledge about food chemistry is
+highly recommended and can be obtained by taking course 23302
+either before this course or in parallel."
+23520,"23711.23511, Or similar competencies"
+42373,42421
+23932,26171.26173
+26126,"26124, Elementary knowledge of
+biochemistry"
+26610,"(26000/26027/26028/26030/26050).­26010, Introductory Project in Chemistry
+   which contains an introduction to different types of literature,
+   including scientific journals, patents, conference proceedings,
+   and have worked with a project containing a so-called open
+   question."
+28214,28212/28213
+28316,28315
+28345,"27002/27022/27932, Kemi- , miljø- or
+Bioteknologifagpakke or bachelor or
+equivalent"
+28434,"28020.28160, or
+   similar"
+12132,12130
+12136,12102
+12142,"12202/12139/42340/12205/25105/42372/42377/28870/12104, (at least two these courses or
+   equivalents)"
+31778,"Basic knowledge of electrotechnics, thermodynamics and
+Matlab-Simulink. Students taking both course 31778 and 31783 are
+advised to take 31778 before 31783."
+41343,41401/41045/26201
+41416,"41045/41401/41431/62604/47201.­(41402/41409/41419/41420/41421).­41065/41312/41814, The students are expected to have
+   a background in applied
+   thermodynamics."
+42003,"01005, Knowledge of energy sector issues,
+structure and interest in resource and environmental problems in
+economic theory. For students that have no previous experience
+regarding microeconomic theory, it is highly recommended to read
+Chapter 2 of Managerial Economics, D. Salvatore, Oxford University
+Press, 2012, before the beginning of the course."
+46230,"01005.­10024/10020.­02631/02633, Mathematics corresponding to
+   01005, physics corresponding to 10024 or 10020. Introduction to
+   Matlab"
+28443,"28240/28341/28140, An introduction course in
+   chemical reaction engineering, experience in numerical solutions
+   of mathematic models, such as 1 p course in Fortran or
+   Matlab"
+28872,"27002, or similar"
+28811,28212/28213/41736/41737
+28423,"28221, Applied Physical Chemistry, Chemical
+Engineering Thermodynamics"
+28923,"A basic and working knowledge of statistical concepts and
+modelling are required. A basic and working knowledge of Matlab
+programming is required."
+28271,"28121, The course will be made to fit your
+level of competence (beginner, experienced, advanced) but
+experimental experience in pilot scale is recommended."
+28415,"01035, Basic mathematical education on the
+level of bachelor program in chemical engineering or similar.
+Initial knowledge of partial differential equations and/or fluid
+flow."
+28455,"28345 Basic knowledge on the use of Python or MATLAB at the
+start of the course is an advantage, but not a necessity."
+26426,"26411.­(27002/27008/27020).­(26202/26211/26222/26220) , Followed simultaneously with
+   26426 at the latest. Bioengineering and Organic Chemistry 2.
+   Physical Chemistry for the Biological Sciences or Physical
+   Chemistry 2 is also suggested."
+11441,"11440, Basic petroleum engineering or
+equivalent"
+11442,11441/11418
+28885,Fundamental knowledge in physics
+41420,"41401/41045.­41402/41409/41814, The students are expected to have
+   a background in engineering thermodynamics and some knowledge on
+   heat transfer."
+41524,"41511.­41502/41534.­41312/62657, Basic knowledge within machine
+   elements. Continuum mechanic. Fundamental conservation equations
+   for fluids"
+26428,"26411, Organic Chemistry
+2"
+41736,"Previous knowledge of plastics, processes, heat conduction
+theory and thermodymamics 28213 / (41015.41065.41045) / 41785 /
+(41704.41703). 28213 can be attended at the same semester as
+41736."
+28871,"27034/28025/28872, or similar"
+41421,41401.41419.41814
+42004,42003.28870
+28535,"28530, Elementary fluid dynamics
+corresponding to course 28530. Programming experience corresponding
+to course 28864 Introduction to Matlab
+programming."
+28344,"28022.28020.23932, Knowledge of chemical engineering
+   concepts that are used in the chemical, biotechnological, and
+   the pharmaceutical industry"
+12104,"02002/02003.­02402.­12102/12111, Programming (mainly Python) is an
+   essential prerequisite for the course. Students not having
+   previous programming knowledge are required to get basic skills
+   before the start of the course (refer to the material available
+   at cp.compute.dtu.dk). Good knowledge of both statistics (02402)
+   and environmental processes (12102/12111) is required to achieve
+   the course learning objectives"
+12110,12102/12104/12108/12109
+12121,"(12102)
+(12134)
+(41102) , water chemistry, hydraulics,
+process technology, basic microbiology"
+12138,"12134, Environmental Microbiology or
+Equivalent (theoretical and practical experience in basic
+microbiology)"
+12233,12102/12111/12320
+12237,12102//02402
+42631,Bachelor project. Good knowledge of analysis.
+47320,"BSc in chemistry, physics, materials, chemical processes or
+similar"
+02508,"02323.01901, At the latest at the same
+   time."
+47519,"Basic knowledge in electrochemistry and catalysis is
+advantageous"
+42006,42002.42003.42004.42007
+26171,None
+26173,"26171.26371, followed simultaneously or
+   earlier."
+26271,"26171, The course requires knowledge of
+general chemistry"
+26371,"26171.26173, together with 26171 and 26173 at
+   the latest"
+26374,26271
+26471,"26171, - or another course in general
+chemistry"
+26474,26471
+28016,"01901.01920.28022, (28022
+   concurrent)"
+28322,"26271.28022, (28022 concurrent). Spreadsheet
+   knowledge (MS Excel)"
+22200,"General immunology (corresponding to 27322: Immunology).
+General knowledge of cell biology and physiology."
+24001,"27002/27734/30000/30001, or 035221 (KVL)
+   27021"
+26002,26001.26400
+26416,"26411.26428, Organic Chemistry 2. Spectroscopy
+   of Organic Compounds"
+26446,"26426.26433, Introduction to Medicinal
+   Chemistry and Organic Chemistry 3"
+27691,24690/33690
+26407,26411
+27692,24690/33690
+36040,"(27002/27008).­27022.­27026.­27611, Knowledge of cell structure, its
+   biological function, subcomponents, biochemical and molecular
+   processes (metabolism, RNA- and protein synthesis), structure of
+   DNA, protein-coding genes, the standard genetic code, the
+   primary (sequence), secondary (helices/coils), tertiary (3D) and
+   quaternary (complex) structure of proteins. Basic knowledge and
+   ability to apply bioinformatics methods and the knowledge to
+   collect and process relevant biological data from large-scale
+   databases such as UniProt and GenBank."
+28909,"Chemical Engineering Thermodynamics and a working knowledge of
+Fortran"
+01037,"01002/01004/01005/01006/01015/01920, Knowledge of complex numbers,
+   matrix calculations, eigenvalues and eigenvectors for matrices,
+   systems of linear first order differential equations and linear
+   differential equations of first and second
+   order."
+28346,"28344or27034and28345, Fermentation technology knowledge
+and Bachelor in Chemistry & Technology Biotechnology or
+equivalent. For a successful participation in this course it is
+very important to have previous experience with microbial cultures.
+We expect you to have some previous experience with the following
+basic techniques (or a part of it): media preparation,
+sterilization in lab scale, inoculation, starting up and operating
+microbial cultivations in lab scale fermenters, sampling and
+preparation of samples for analysis. If you are not coming with the
+above described experience (or a part of it) it is better not to
+take the course."
+12108,"12102.12104.12134, Course in Water Chemistry, Course in
+Environmental Processes, Course in Microbiology or
+Equivalent"
+28246,"Bachelor in either: Chemistry and Technology; Biotechnology;
+Food and Drug Technology; Food Science/Technology or similar.
+27022. 27334 and/or 28140"
+41315,41312.41323
+41346,"41344/41347, or similar course in combustion
+   engines. Experience with programming in
+   Matlab."
+41401,10022/10028/10034/26201
+41418,"41401.­41045.­41402.­41416.­41417, Basic thermodynamic knowledge is
+   an advantage (e.g. 41401, 41045). Experience with thermodynamic
+   modelling of energy systems is an advantage (e.g. 41402,
+   41416,41417)."
+46000,"01003.­01004.­41312/41102.­41501, Basic programming skills are
+   recommended, preferably in Python (e.g. loading and analyzing
+   time series of data, curve fitting, finding zero of nonlinear
+   functions, arranging code into
+   functions)"
+42171,"Knowledge of basic probability calculations and
+statistics."
+12130,12102/12202
+27412,"26400/27022/27734, Theoretical knowledge of the most
+   important areas in biochemistry. Able to solve general and
+   biotechnological problems."
+47304,"(26000/26027/26026).­(10303/41681/41659/41650) , Basic knowledge of chemistry,
+   physics and materials science, for example one course from each
+   of these groups of courses: (26000/26027/26026) and
+   (10303/​41681/​41659/​41650). Bachelor in Chemistry and
+   Technology, Physics and Nanotechnology, General Engineering
+   (Advanced Materials and Future Energy), Mechanical Engineering
+   or similar bachelor programme"
+26011,26007/26008
+27246,"27022.28140, Bachelor in either: Chemistry and
+Technology; Biotechnology; Human Life Science; Life Science
+Engineering; Food Science/Technology or
+similar."
+28247,"27022.27734.28140.28246, 28246 (previously 27506) Applied
+Enzyme Technology and Kinetics is a required prerequisite for this
+course, but can be taken simultaneously. Bachelor in either:
+Chemistry and Technology; Biotechnology; Food and Drug Technology;
+or Food Science or similar."
+27247,27022
+11418,"11411.11441, Basic geotechnical engineering.
+   Geology or equivalent"
+11443,11440/11462/11411
+28515,"28415/28885eller tilsvarende/or
+   similar"
+27421,"(02323/02402).­(36611/27611) , equivalent to solid knowledge of
+   statistics and bioinformatics"
+27461,"27002/27008/23932, Good understanding of biological
+   processes, the internal structure of cells and their biological
+   function. Fundamental knowledge on species diversity of
+   filamentous fungi and their functions regarding their positve
+   and negative influence on the surrounding environment and an
+   optimal exploitation of their characteristics for
+   biotechnolgical purposes."
+26202,26000/26050/26027/26028/26030/26171
+12135,"12130, or documented experience on solid
+waste management."
+33281,"Basic materials science (fx 41650 or 41015), basic cell biology
+(fx KU011 or 27002) and immunology (fx KU001 or 33481)"
+33334,"27231/27232, or equivalent"
+11430,"11462eller11440, Or equivalent course in elementary
+geology"
+26255,26201/26202.26222/26231
+42378,"423721223711957, Bachelor in Environmental and/or
+Chemical Engineering, or equivalent. Ideally, at least one of the
+aforementioned courses or similar qualifications."
+22117,"22111.22113, Basic knowledge of Bioinformatics
+   and Chemistry"
+26125,26300/26301/27002/27020/27022/27023
+22126,"27002/27008/27230/27430/22101, Basic command line skills (i.e.
+   locate or copy files via command line). We recommend that
+   students brush up on their molecular biology prior to the
+   course, so they understand the structure of DNA and the central
+   dogma of molecular biology (DNA->RNA->protein)."
+22208,"27002/27022, It is recommended to have insight
+and interest in life sciences, organic chemistry and
+biochemistry."
+01920,01901
+23552,"23101.23564.23532.42500, It is an advantage if you have had
+course 42500 or similar on innovation in engineering. It is also an
+advantage if you have had course 23531 on how to make a business
+plan for a food product before this course and course 23532 or
+similar courses on HACCP before taking this course. Other courses
+on food safety and risk analysis would also be very valuable. You
+are encouraged to work further on concepts developed in other
+courses."
+23564,"Food technology, chemistry and microbiology on a bachelor
+level."
+23511,"The students are expected to be familiar with basic engineering
+concepts, both mathematical (e.g. solving algebraic equations,
+changes of variables) and physical (e.g. density, temperature); as
+well as the use of spreadsheets."
+41786,"(41781).­(41681).­(41533).­(62603) , Production Technology
+   (Fundamentals) (41781). Materials science (41681). Dimensioning
+   and Strength 1 (41533). Thermodynamics with project
+   (62603)."
+62662,Good English skills.
+42576,"The course requires a basic understanding of data analysis
+methods (e.g. machine learning, social data science, or
+statistics)."
+22281,"41684/41015.KU011/27002, Basic materials science (fx 41684
+   or 41015), basic cell biology (fx KU011 or 27002)"
+26701,"Some of the projects may have particular qualified
+prerequisites."
+62214,62212og62213
+62215,62212.62213.62214
+27611,"27002/27932, Based on the cell acquired basic
+   understanding of biological processes, which are used in the
+   industry. Knowledge of the cell structure, their biological
+   functions, biochemical and molecular biological processes
+   together with biotechnological
+   processes"
+41686,"26171, General chemistry and organic
+chemistry"
+41687,"The course requires simultaneous attendance or prior passing of
+41686 (41683 in the new 5 ECTS version)."
+24691,24690
+36692,"Ideally, you have defended your master thesis project on
+Pharmaceutical Design and Engineering, Bioinformatics and Systems
+Biology, Biotechnology or equivalent
+educations."
+24101,"General knowledge on antibodies and on the immune system,
+biostatistics as well as basic knowledge on proteins and nucleic
+acids."
+33902,"26426/27311/27430, The course should be taken after
+   6th semester where there is a good basic understanding of
+   chemistry and biology Introduction to Medicinal Chemistry/Human
+   Physiology/ Eukaryotic Cell Biology and
+   Disease"
+33901,"Basic knowledge of cell biology and molecular biology
+methods."
+24103,"General immunology (corresponding to #27322: Immunology).
+General knowledge of cell biology and physiology."
+24104,"General knowledge in Immunology (DTU course # 27322 or
+relevant) and cell biology"
+33692,"Basic knowledge in microfabrication or bioanalytical
+chemistry"
+31529,"41501, Strength of materials, mechanics,
+vector analysis"
+33336,"Basic understanding of classical mechanics, electromagnetism,
+vector calculus, and differential equations"
+47326,"47325, Large-scale superconductor
+technologies or similar. Bachelor in Physics and Nanotechnology, or
+Chemistry and Technology, or Production and Construction, or
+Electro Technology, or General Engineering, or similar"
+34430,"Basic courses in mathematics and
+physics"
+02452,"02450/02451, Basic course in signal processing
+   as well as basic knowledge of machine learning or
+   statistics."
+31220,"31200.­(31003/31004).­31605, Thorough knowledge of simple
+   analog electrical circuits, including Bode-plots, coupling of
+   resonant circuits and basic mechanics."
+31245,(31220/31240/31260)
+31265,"31200, 31200 Fundamentals of Acoustics and
+Noise Control. A programming background is
+expected."
+10347,"10022/10024/(10033.­10034).­01035.­27002, 10036 passed, or at the same
+   time; mechanics, thermodynamics, and
+   electromagnetism."
+34034,34021/34020/34127/34033/10370
+34052,10036/10370.34031/34530
+34440,34052/34430
+10850,"22600, Or equivalent
+courses"
+22403,"Basic knowledge of microfabrication and sensoring
+principles"
+33250,"33253/33255, Basic knowledge on solid state
+   electronics and physical chemistry is
+   required."
+31522,01005
+31524,"31521/(31520.31522) , An undergraduate level course in
+   fluid mechanics and mass transport is essential."
+31528,"31605.­31531.­01035.­(26202/26222) , Knowledge of solution of linear
+   differential equations is a prerequisite. Knowledge of linear
+   signal processing is an advantage."
+31590,"Only for students enrolled in the Master degree in Medicine
+& Technology. Visiting medical technology students are invited
+to send documentation for relevant courses passed at foreign
+institutions. Admission to the course will be decided based on
+evaluation of the provided documentation."
+10521,"10104/10112/10303/10036, or equivalent courses."
+31200,"01005/01007, Advanced engineering mathematics
+   1/Linear and differentiable mathematical models (or
+   equivalent)"
+34041,"10036/31400/34020/34021, Knowledge of Maxwells field
+   equations, and the electromagnetic wave equation. Knowledge of
+   vector mathematics, calculus, and differential
+   equations."
+34051,10102/34020
+34153,10370/34033/34020/34032/34021
+22475,"41501, Strength of materials, mechanics,
+vector analysis"
+22511,"10036, Basic courses in mathematics and
+physics Med-tech"
+31566,"31560, Matlab"
+02809,"02160/02161/02267, Knowledge of agile software
+   development, e.g. in the form of the methods taught in 02160 or
+   through working experience, is an advantage (but not a
+   prerequisite)"
+42083,"42042, The course requires the students to
+have competences equivalent to having read and being familiar with
+the book by Holtzblatt & Beyer (2017): Contextual Design:
+Design for Life."
+27420,"27022.­(27034/27032/27416).­(27230.­27430) , Theoretical knowledge of the
+   most important areas in biochemistry. Able to solve general and
+   biotechnological problems. Fundamental knowledge on basic
+   principles of fermentation technology and biotechnological
+   products produced by microorganisms. Knowledge of the basic
+   quantitative elements, the underlying science, and the general
+   concepts of biotechnological processes. Experience in
+   experimental work within microbiology and fermentation
+   technology."
+46430,"(41015/41501/41533).­(02631/02632/02633) , knowledge to Python or Matlab
+   corresponding to e.g. 02631, 02632 eller 02633"
+33236,"If you have completed three semesters in any engineering or
+science study programme you can enter the course."
+41653,"41661/41680.41684, Materials science e.g.
+   41650/​41659/​41681/​41683/​41657/​41686"
+41655,"41650/41659/41681/41683/41680or41661/41664, Materials Science or metals
+   technology"
+41664,"41650/41659/41681/41683.­41651/41661, Materials science Metals
+   technology"
+41710,"41713/41781.­41782.­41704/41784.­41661, Basic knowledge on metallurgy and
+   calculations of mechanical and/or thermal manufacturing
+   processes."
+41733,(41650/41659/41661/41681/41683/41686).­(41784/41704)
+11522,"11115.­11141/11203/11937.­11112/11937/ , Participants should have
+   fundamental knowledge of indoor environment, the working
+   principles of climatic systems in buildings, and of heat- and
+   mass transfer. Experience with IDA ICE is also
+   required"
+11854,11857.11858.11859
+11857,"Arctic field safety course (offered first week of
+semester)"
+11858,"Arctic field safety course (offered first week of
+semester)"
+11859,1185711858
+01237,01002/01004/01005/01920
+11023,"11351.11352.11353.11347, Basic knowledge on building
+   technology of timber structures Advance knowledge on steel and
+   concrete structures"
+10603,Master students
+42274,42270
+02160,"02002/02003/02631, Experience in procedural
+   programming"
+42504,"Students enrolled in the following master programmes have
+priority to the course and group 1 has priority to group 2. Group
+1: • Advanced Materials and Healthcare Engineering • Industrial
+Engineering and Management • Mechanical Engineering Group 2: •
+Applied Chemistry • Autonomous Systems • Business Analytics • Civil
+Engineering • Chemical and Biochemical Engineering • Computer
+Science and Engineering • Earth and Space Physics and Engineering •
+Electrical Engineering • Mathematical Modelling and Computation •
+Materials and Manufacturing Engineering"
+30532,01005/01006/01015
+11346,"11305/11343/02601/02631,
+   02631(Matlab)"
+41527,"41502/41534, Continuum mechanics. Knowledge of
+tensors and linear finite element theory is
+recommended."
+41561,"02601.41812, Programming experience. Introduction
+to Finite Element Analysis"
+11365,"11305, Knowledge about the Finite Element
+Method"
+41237,"41501/41203/41236/(11341.­11342)/(41953.­41954).­11305/41958/41812.­02631/02601, Fundamental structural mechanics
+   or strength of materials: Static analysis of structures and
+   beams by analytical and finite element methods. Programming:
+   Knowledge about a programming language and its principles, as
+   the course makes use of Python."
+41811,"41502.
+(41560/41035/41214) .41516"
+11451,"11450, Please take note that advanced
+mechanics concepts are introduced and utilized in this course;
+i.e., it is best suited for students that naturally gravitate
+towards analytic treatment. Some coding ability is required for
+performing the tasks."
+11569,"11563, Concrete Technology"
+11347,"11305.02601, or equivalent"
+12336,"12102/12320, Skills in hydrology, hydrogeology an
+environmental processes are recommended."
+25322,"25316, or similar"
+11128,"11117, Basic knowledge and experience on
+solar heating systems or PV systems"
+11031,11000/11990
+11311,41205/41203/11342
+11995,11990.11993
+41591,"The course is designed for Ph.D.-students and final-year
+graduate students being familiar with the basic concepts of the
+finite element method. Knowledge corresponding to a course in FEM
+as well as Matlab experience is assumed."
+62362,"41236/62263, The student must have passed all
+   obligatory courses regarding Mechanics and structural
+   engineering in 1. - 4. semester."
+62363,62315/62318.62325.41236.62335.62255.62257.62259
+11966,"11995, Education similar to Bachelor in
+Architectural Engineering at DTU"
+42375,"42372, Or other equivalent LCA
+course"
+11121,11000/11141/62318/11937
+11691,"Courses being part of the described recommended curriculum in
+BSc in Building Technology"
+31728,"02101./30010./02318. , or equivalent basic knowledge
+   about C or Java programming, internet protocols or web
+   programming"
+41112,"41102, Data analysis is typically done with
+Excel or Python (Matlab)."
+41660,"41650/41652/41657/41661/41659.­41653/41654/41655, Introductory materials science
+   and engineering"
+41323,"41312/41065/41102.02631/02633/28864, Knowledge of basic fluid
+   mechanics and basic knowledge of Matlab or
+   similar."
+41732,41713/41781.41704/41784
+12122,"41102/12320, Basic understanding of hydraulic
+   and hydrological phenomena and
+   calculations"
+11319,11318.­11561.­11946/41650.­41713.­41704.­
+11853,"11857.11858.11859, A background in civil engineering,
+building design, or related fields + the above mentioned courses or
+corresponding arctic experience."
+41562,"41312.41560/41535, Hydrostatics, pipe flows, loss
+   coefficients, conservation equations (control volume) Dynamic
+   characteristics of single degree of freedom systems,
+   eigenfrequency and damping."
+42008,"02402/02403, Or a similar introductory course
+   in statistics"
+46200,"46300, Wind turbine technology and
+aerodynamics. Programming knowledge, eg.
+02633"
+11332,"41203.02631, Structural mechanics Introduction
+   to programming and data processing"
+11411,"11946.11561.41102, Basic material properties: PSD,
+   Unit weight, Strength and Stiffness."
+42196,"02402, or similar introduction to
+statistics."
+62383,"62325/62328/11831, It is recommented that you have
+   had your intership before following the
+   course."
+02692,11714(11711)/01905(10913)
+30010,"02101.02102.02002, Knowledge of programming
+   principles corresponding to 02101 or 02102, or
+   02002."
+30110,"Courses corresponding to the content of the recommended
+mandatory courses in the first three semesters in the Earth and
+Space Physics and Engineering bachelor
+program."
+30131,10033.10034
+30141,10033.10034.
+30150,"01035.­(30140/30141/30142).­(30130/30131) , Basic programming skills in
+   Matlab or Python are important."
+30230,(02631/02632/02633).­01035
+30560,(10020/10022/10024/10033).­01035.­(30140.­30141.­30142).­30150
+31400,"31001.31003.01005, The course requires a fundamental
+   knowledge of electromagnetic quantities (charge, current, and
+   field), mathematics (scalar and vector functions of multiple
+   variables, vector analysis), and circuit
+   theory."
+02135,02003/02631
+12227,"12102.25105, and a course on general
+   chemistry"
+12330,"12102 Environmental Processes, 12104 Environmental Modelling
+12237 Chemicals in the Environment and 12320
+Hydrology"
+31405,"(31400/31035/10036/34120).­(02402/02403/02405/2323).­(31605/31038) , The course requires a basic
+   knowledge on electromagnetics (Maxwell's equations, plane
+   waves, and transmission lines), circuit theory, signal
+   processing, and probability calculus. An introductory signal
+   processing course can be followed
+   simultaneously."
+41202,No English comment.
+12240,"As many environmental courses as possible, including
+environmental management courses."
+30754,01035.­(30141/30140/12205).­(02631/02632/02633)
+34551,"10303.10260, 10303/10260 or similar; Knowledge
+within photonics, optics, nanotechnology, materials science, and
+nanotechnology is strongly recommended."
+42183,"02402/02403/13544.­02101/02102/13410.­42101, Introduction to statistics (or
+   similar). Introduction to programming (or similar). Introduction
+   to operations research (or similar)."
+02562,"01002/01004/01005/01006.­02002/02100/02393/02635, Programming experience (for
+   instance Python, Java, C/C++, JavaScript, or
+   Matlab)"
+02580,"(01002/01004/01005/01006).­(02002/02631/02632/02633) , Knowledge of a programming
+   language such as Python and a good understanding of basic
+   calculus and linear algebra including eigenvalue problems.
+   Knowledge of Fourier series (introduced in Advanced Engineering
+   Math 2) is an advantage."
+62251,62315.62316.62325.62326.62338.
+11300,"41035/41214/11374, Or similar"
+11450,"11411, Prior knowledge in basic mechanics
+of materials and in soil mechanics (e.g. 11411) is
+needed."
+11067,"Education similar to Bachelor in Architectural Engineering or
+Civil Engineering at DTU"
+12228,"12102, 12227 and a course on general chemistry"
+30510,(30130/30131).­(30140/30141/30142)
+42275,"42270.42274.42430.42490, Course prerequisites are optional.
+The recommended sequence for masters students is (42270), 42274,
+42275."
+31230,"31200, in the same semester, if
+needed"
+42172,Basics of probability and statistics
+31250,31200/(31230/31240/31241)
+62389,"62277, The student at the study programme
+Building and Civil Engineering' is recommended to have taken
+part in the course package 'Utility services and Energy' or
+'Infratructure' Students from other study programmes are
+recommended to have knowledge and skills with hydraulics, sewer and
+run off systems, dimensioning of sewer
+systems"
+41651,"41650/41657/41659/41681/41680, basic materials science and
+   engineering"
+34552,"Physics 1, Physics 2 or similar, and Math
+1."
+02425,"01035.
+(02407/02417/02443).01617.01418, The course assumes some exposure
+   to stochastic processes, for example obtained through 02407,
+   02417 or 02443. Familiarity with nonlinear dynamic systems,
+   e.g., 01617. Some exposure to partial differential equations,
+   e.g., 01418. Programming using R, python, Matlab, or similar is
+   assumed."
+02586,"01001/01002/01003/01004/01005.­(02402/02403) , The course requires maturity for
+   what regards statistical applications. It is an advantage to
+   have followed 02405 Probability."
+41634,BSc/BEng
+42180,"02402/02403/02323, or similar introduction course to
+   statistics."
+11035,11951/11952
+11951,none
+11952,11951
+11953,0
+11955,"Compentences equivalent to 1. and 2. term at B.eng.
+architectural engineering"
+11956,"basic knowledge of architectural history and theory and basic
+design skills"
+11957,"11937, Basic Knowledge of building
+physics"
+11968,"11911, The compulsory courses for DTU
+Architectural Engineering BA students The first five semesters on
+Architectural Engineering"
+22000,"31200, in the same semester, if
+needed"
+22004,31200/22000
+11765,"Compulsory courses for BSc Eng. direction Building and Infra
+Structure for 1. to 3. semester."
+62366,62254/62276/13511/42986/42975
+62381,62265.62276
+62371,62318.62327.62261.62271.
+62377,"62318/11954/11835, Approved
+   internship"
+11525,Second year of ba eng architectural engineering
+62267,62318.62328
+62268,62329
+62269,(62328/11831).­(62327/11835)
+62277,62317/62328
+62280,"62328.62268.62277, The student is recommended to
+   have followed the relevant course
+   package."
+62378,62270
+11921,11911
+01903,01901
+30530,01005/01006/01015
+62271,62319eller41872
+62281,62261/62271/11957
+62327,62318
+62328,62317
+62265,62330/62199
+31770,"Fundamental knowledge within electrical circuits and static
+electromagnetism."
+34553,"34552, Photovoltaic systems"
+27250,"27230.27256/23258, Knowledge of the methods and
+   paradigms in molecular microbiology to follow a discussion
+   amongst professionals and read relevant literature. Master the
+   basic experimental skills in molecular microbiology. Competences
+   within physiology of Pro- and Eukaryotic cells, biochemistry, as
+   well as basic knowledge of immunology."
+23205,"23258.23256, Knowledge in microbial diversity
+   and the basic biological processes related to molecular
+   microbiology, microbial physiology, and host immune defenses.
+   Basic microbiological experimental skills/knowledge, such as
+   microbial cultivation and PCR. Basic statistical
+   skills/knowledge, such as understanding probability and
+   interpreting results of statistical tests as applied in e.g.
+   experimental and epidemiological
+   studies."
+12124,"12122, Basic GIS
+knowledge"
+10933,01931/01932/11911/11921
+42467,"42530.42490, TEMO. Strategy and Planning
+Methods"
+41225,"41102/41312.41224, Linear wave dynamics (41224) and
+   basic knowledge about hydrodynamics and/or fluid
+   dynamics."
+41319,"41312/41102/10346/31521.­41323.­02601.­02631.­02685, A basic course in fluid dynamics
+   along with some programming experience in MATLAB is expected. An
+   advanced course in fluid mechanics and courses on numerical
+   algorithms and methods for solving differential equations are
+   all very helpful."
+62369,622616227141452
+62657,"62675og62694, Mechanics and
+Dynamics"
+42377,"42372, Life cycle assessment of products
+and systems"
+42439,"38435.42490, Bachelor degree, and ideally
+introduction course in Management (e.g., 42435 or 42490)"
+42436,42435OR42490
+42081,"42042.42021/42640or02810/02266, this is an advanced course – it
+   is essential that participants have previously completed a
+   project using participatory design approaches or equal UX
+   competencies."
+42111,"familiarity with programming in MatLab is an expected
+prerequisite for the course."
+42116,"Object oriented programming experience (java, c++, or similar)
+A good understanding of integer
+programming"
+42451,42405
+42457,"It is expected that participants have basic knowledge of
+operations research, statistics and mathematics."
+42084,"42042, The main prerequisite for this
+course is having read and being familiar with the book by
+Holtzblatt & Beyer (2017): Contextual Design."
+31765,"31730, 31730 – Fundamentals of Electric
+Power Engineering or equivalent Linear Algebra or equivalent
+Complex Analysis or equivalent Programming in Matlab; Python or
+another programming language also ok."
+42123,"42101/42112/42104, Introduction to Financial
+   Engineering 42101 (Introduction to Operations Research) and
+   42112 (Mathematical programming with modelling software) or
+   similar courses"
+02431,"02402, Knowledge of elementary theory of
+probability and statistics. The student should have an advanced
+understanding of a relevant complex topic within the student's
+area of specialisation"
+34345,11404/62276/62622
+42185,42401/42101
+01405,"01018, Understanding of basic concepts from
+algebra: linear algebra, finite fields, quotient rings, the
+isomorphism theorem, polynomial rings. Some programming
+experience."
+42892,"42114, or an intermediate level course
+covering modelling or quantitative methods. Knowledge of the
+maritime sector is useful but not necessary."
+42438,34541.42435.42436.42490
+42390,42349.42350.42351.
+34315,"Interested in working in the lab, developing hardware
+prototypes, and embedded programming."
+02514,"02502.02450.02456.02506, 02502, 02450, and either 02456 or
+   02506"
+02455,"02411.­(02002/02631/02632/02633/02525) , Experience with Matlab or
+   Python"
+31567,"31561AND
+(31545or31560)"
+36636,"02402/27026/27610/27626, Basic understanding of molecular
+   biology and microbiology (e.g. 27026), basic programming &
+   data handling skills (e.g. 27610 or similar), basic
+   understanding of statistics and R (e.g. 02402 or similar) Basic
+   knowledge of NGS data analysis at the level of e.g. 27626 will
+   be advantageous. Principles of NGS data analysis will be
+   reviewed during the course. You should know how to: -navigate in
+   UNIX (create directories, open/move/delete files etc.),
+   Navigation and basic UNIX skills will only be reviewed briefly
+   -execute programs on command line -run and modify simple shell
+   and R code, Basic R and shell scripting will only be reviewed
+   briefly Laboratory experience is not required but will be
+   advantageous."
+62130,Internship completed.
+46100,"Need to know/use undergraduate mathematics including
+differential & integral calculus with vectors & complex
+numbers (e.g. DTU 01005 & 01901). Some basic fluid
+mechanics/dynamics is also used and thermodynamics is a bonus.
+Experience with programming in Matlab, Python, Mathematica, or
+similar—equivalent to e.g. 02631/02633, in order to do the
+assignments."
+46211,"02002.46300. , Matlab or Python skills equivalent
+to course 02002. This level of Matlab/Python skills is essential to
+carry out the course reports. 46300 can with some effort be taken
+concurrently. Further qualified prerequisites: Fluid Mechanics
+equivalent to course 41312 or 41102. Numerical Analysis equivalent
+to course 02601. Loads on offshore structures equivalent to course
+41107 will be an advantage."
+46300,"Basic fluid mechanics. Programming skills required (Matlab,
+Python or similar)"
+31238,"31200, Fundamentals of Acoustics and Noise
+Control"
+42195,"02402, or similar introduction to
+statistics."
+42188,"42180/02441/02409, Or similar statistical courses. It
+is a requirement that the students have basic mathematical
+programming experience (e.g.: R and Phyton). A certain level of
+mathematical understanding is also a
+requirement."
+31783,"31730, Basic knowledge of physical
+modelling and DIgSILENT Powerfactory. Students taking both course
+31778 and 31783 are advised to take 31778 before
+31783."
+46400,"46300/02631/02633, Wind Turbine Technology and
+   Aerodynamics, since knowledge on wind turbine structure and
+   operational behaviour are important in this course. Working
+   knowledge of Python or Matlab programming will be necessary in
+   order to complete the assignments."
+46420,41015/41501.­46410.­46430.­46440
+42887,"42114.42115, Concerning prerequisites for
+   foreign students please contact the responsible teacher by
+   e-mail."
+31773,"31730 Electric Power Engineering,
+fundamentals"
+42182,"02402/02403eller lignende introduktion til
+   statistik , Statistics and statistical modelling of
+   traffic"
+42885,42114.42115
+42086,"41031/42031/42041/42061/41071/42071/41603/42603/41612/42612/42075, The main prerequisite for this
+   course is having read and being familiar with: Nigel Cross
+   (2008) Engineering Design Methods: Strategies for Product
+   Design, Wiley, fourth edition."
+31742,"31730, Fundamentals of electric power
+engineering, including per unit system, admittance matrices,
+pi-equivalent circuits."
+42279,"42270.42274/42275/42280, The course will be given in
+   Danish in 2017, hence the command of Danish language is a
+   crucial prerequisite"
+30750,01035.­30120.­30140.­(02631/02632/02633)
+42262,"12205.30750, Prior participation in one or
+   more of the following courses may be advantageous but is not
+   mandatory: 12205 (Climate change – impacts, mitigation and
+   adaptation) or 30750 (Earth System
+   Science)"
+42181,"42115, 02402/02403 (or similar statistics
+course)"
+02407,"02405.(02402/02403) , Basic knowledge of probability
+   and statistics. Distribution function, moments. (E.g.
+   02402/02403+02405) Knowledge of programming, e.g.
+   Matlab."
+42376,"4240142417, Introduction to Management Science
+Simulation in Operations Management"
+12226,"12102 and a course on general
+chemistry"
+62200,completed engineering internship
+62240,"62160.62170.62180.62190, Passed English 1 - US Civics and
+   Academic Writing 1; passed English 2 - US Civics and Academic
+   Writing 2; passed English 3 - UK Civics and Academic Writing 3;
+   passed English 4 - Challenges of Global Business and
+   Geopolitical Economics."
+62246,"Courses in German as second foreign language (German 1-3)
+should be passed"
+42107,"42580, Basic knowledge about probabilities
+and probability distributions plus 42580 Engineering work 1 or
+similar"
+02261,"(02160/02161).02162, Solid software engineering skills
+   (comparable to 02161 and 02162)"
+33480,"The course is not recommended until after the 3rd
+semester"
+62138,30 ECTS Manufacturing Engineering internship passed.
+42881,"42101.42112/42114/42115, Or similar introductory course(s)
+   in operations research as well as knowledge of integer
+   programming OR network optimisation."
+41534,"62675.41533, Mechanics. Statics.
+   Introductional strength of materials within stresses and strains
+   for beams"
+62606,"62677/62904.62800, 62677 Applied control engineering
+   62904 Applied control engineering 62800 Introduction to
+   mechatronics and robotics systems"
+62691,None
+41633,BSc/BEng
+02223,"Students are expected to be familiar with an imperative
+programming language (02161) and basics of computer architectures
+(02132 or 02151)."
+42878,"13125/13524/13525/13523/13240/42880, or a similar introductory course
+   in railway management and operations"
+12333,"Introductory hydrology: precipitation, evapotranspiration,
+groundwater flow, surface water flow, reactive transport. Basic
+knowledge in mathematical modelling. Basic knowledge of
+environmental and engineering economics. Proficiency in MS Office
+tools (Word, Excel, Power Point) and Python / Jupyter
+notebooks"
+31787,"31730.31756.31782(only relevant for wind power) , Basic
+knowledge to power systems, power and signal electronics and
+electrical machines"
+34343,34330
+41731,41703/41781.41782
+02685,"Basic course in numerical algorithms, eg 02601/02603. Basic
+knowledge in programming, eg 02631."
+42883,"02101/02102/02631/02633/02691/02693, Introduktion course to
+   programming or similar."
+12231,"12102, Fundamental environmental chemistry,
+inorganic and organic chemistry"
+42884,"42114/13236, or an intermidiate level course
+   covering modelling og quantitative methods."
+42877,"13011/13111/13511.­13125/13240/13523/13524/13525, Knowledge of geometric design of
+   roads or railways and use of CAD which is achieved via one of
+   the courses 13011, 13111 or 13511. Knowledge of railway capacity
+   and running time calculation is desired and can be achieved via
+   one of the courses 13240 (MSc) or 13523
+   (BEng)."
+41972,"Knowlegde of polymer materials and polymer processing e.g.
+41736/​41737/​41785/​42231/​42233/​42932, 41650, 41659"
+25311,25302/25307/25349
+02505,"02402.02502, It is assumed that the participants
+have had an introductory statistics course and an introductory
+image analysis course. Furthermore, working knowledge of Matlab is
+expected."
+02910,"It is assumed that the participants have a basic knowledge of
+statistics or data analysis, and knowledge of Matlab, python or
+R."
+02936,"R/Python programming Probability theory/statistics (or
+equivalent courses)"
+62110,6210162103
+62118,"The course is mandatory for the P-students, thus they have
+priority, specific morning"
+62120,"Project on 2nd and 3rd semester and mandatory courses at 1st
+and second semester passed. Examination in 3rd semester courses and
+participation in 4th semester courses."
+62133,"62079 Introduction to Operations Management or
+similar"
+62202,"For non-Global Business and Technology: basic chemistry,
+general environmental science, basic knowledge of materials and
+industrial production processes."
+31547,"31545, Knowledge of MRI corresponding to
+notes athttp:/​/​eprints.drcmr.dk/​37/​is required (until and including k-space) and the corresponding
+mathematical formalism covered in course 31545. A questionnaire
+covering course prerequisites is available on the course homepage
+for repetion ahead of the course, but also to give participants not
+having taken 31545 insight into what they need to study themselves
+in advance."
+31560,31561/02451
+42996,"Traineeship carried out in a company and completion of the
+first four mandatory semesters of the Bachelor of Engineering
+programme in Traffic and Transport"
+42585,"42101.­02450.­(02402/02403/02406) , Introduction to Operations
+   Research (42101) Introduction to (Mathematical) Statistics
+   (02402/02403/02406)"
+12342,"12320/02402, Introductory hydrology and basic
+   statistics. Python will be used throughout the course to solve
+   the assignments. Basic programming skills are assumed
+   known."
+10041,"(10020/10022/10024).­01005, Physics 1 and Mathematics
+   1"
+41221,"41202/41201.­41312.­01418.­41263, Mathematics, including linear
+   algebra, calculus and differential equations; statistics and
+   probability theory; basic naval architecture/ocean engineering;
+   empirical methods for calculation of resistance and propulsion
+   of ships, including propeller theory; applied mathematics
+   (partial differential equations)"
+41263,41201/41107
+41271,"41201, Basic naval architecture, including
+basic hydrostatics, stability, resistance and
+propulsion."
+41280,41271.41202/41201
+41789,"41714.41501.41659, 41714: Manufacturing technology and
+operations management 41501: Strength of materials 1 41659:
+Materials science for mechanical
+engineers"
+62668,"01901, BasisMat"
+62704,"62676/62745/62760, These courses should be passed in
+order to follow the course."
+62714,"01901/01920/62735/62763/62764, Calculus and Algebra 1 Calculus
+   and Algebra 2 Advanced Mathematics for diploma Electro
+   Technology, or equivalent. Electrotechnique 1, or equivalent, or
+   equivalent. Electrotechnique 2, or equivalent, or
+   equivalent."
+62752,62751/02318
+62755,"62760or34601/34722/62752, to be followed in
+parallel"
+62760,"62715/62745, It will be difficult to complete
+   the course if the student doesn't have a good understanding
+   of circuit calculations and especially calculations using
+   complex numbers and three phase systems. The student also should
+   have a level ov competetency in the use of calculation programs
+   like Excel, Maple, Matlab and the
+   like."
+62761,62760
+62765,"62755/62755(31039) /62601(62602) /62714, These courses should be passed in
+order to follow the course."
+62766,62761.62784
+62783,"62677, Applied Control
+Engineering"
+62784,"It is recomended that the students have competances in the area
+of electrical energy technology equivalent to a student at the 4th
+semester on the electrical energy technology
+study"
+42387,"This is an introductory course reserved specifically for
+students in the MSc in Technology Entrepreneurship"
+42388,Feasibility Studies
+22620,"The course is not recommended until after the 3rd
+semester"
+41275,"41202/41201.­41271.­02402.­02405.­02101/02631, Fundamental knowledge about ships
+   and floating structures. Furthermore, 25 ECTS in math and
+   physics, 5 ECTS in statistics and probability theory, 10-15 ECTS
+   in statics and structural mechanics, 5 ECTS in fluid mechanics.
+   The applicant should have experience with numerical methods and
+   programming using e.g. MATLAB."
+10260,"47202.­26020.­(10036/10041).­01006, or equivalent courses"
+12701,"27008 Life Science in parallel with the course for General
+Engineering BSc students."
+26030,None
+31725,"(31728/31070).(31300/1) , Mikrocontroller programming,
+   Linear Control Design 1, basic Python programming"
+31782,"(31730/31036).­(31035/31400) , (Electric Power Engineering,
+   Fundamentals or Electrical Energy Systems) and (Electromagnetics
+   or Engineering Electromagnetics) It is desirable that the
+   students have background knowledge of electrical power and
+   electromagnetism corresponding to what would be gained in 31730
+   or 31036 and 31035 or 31400
+   respectively."
+33270,"Design-build courses 1-3 on the general engineering study
+line"
+41571,(01005/01006/01015).­(10018/10020/10022/10024/10033/10050/10052/10054/41015).­
+47201,01005/01006/10018/10020/10022/10024
+47202,"Bachelor in Design of Sustainable Energy Systems, Bachelor in
+Physics and Nanotechnology, or Chemistry and Technology, or
+Production and Construction, or Electro Technology, or General
+Engineering, or similar."
+10240,"01003: Mathematics 1a (Polytechnical foundation), Spring part
+of 10063: Physics (Polytechnical Foundation), 02003: Computer
+Programming (Polytechnical Foundation), 26020: Chemistry
+(Polytechnical Foundation), 27016: Design-Build
+1"
+47205,47202/10041
+12238,"(12102)
+(12104)
+(12233)
+(26000)
+(26400) , Qualified Prerequisites: 2-3
+courses within Environmental Chemical and Biological Processes,
+Environmental Chemistry, Ecotoxicology, Basic (Organic) Chemistry,
+Environmental Pollution and Physical Chemistry."
+34021,10020.10036.31400.34120
+62253,62337
+62254,"62315.62316.62325.62326.62334. , Passed 1st and 2nd semesters
+courses. Passed the 3rd semester course on 'Environment and
+Infrastructure'"
+62334,62315.62325
+12134,"27002, Life Science (or other
+university-level general cell biology or biochemistry
+course)"
+02326,"(01904/62506).­(02312/02314/62507) , An introductory course in
+   programming + an introductory course in discrete mathematics.
+   (e.g. 01904)."
+02363,"02314.­62531.­62532.­02327.­02362.­02369.­62443, The course is offered for ITØ
+   students and is part of DTU's CDIO concept. It is
+   recommended that 62597 will be taken at the same
+   time."
+02368,(02312/02314).­02313.­((01917.­02324)/02802))
+62410,"The course is a CDIO design-build course at advanced level,
+based on all compulsory courses from 1st to 4th. semester for
+IT-sw, IT-Ø, and IT electronics, as courses in 4th semester can be
+taken simultaneously."
+62550,"0231302314/02312, The course is part of DTU's CDIO
+concept as the main project course on the 3rd semester, and
+collaborates with course 02369 with a common project. It is assumed
+that course 02369 is followed concurrently with this course.
+Knowledge of object oriented programming. Knowledge of agile
+software development and UML modeling."
+62589,"It is recommended, but not required,that the students have a
+basic understanding of statistics, SQL and MS Excel."
+62596,"Knowledge of Java, object-oriented programming and basic
+understanding of multithreaded programming. Knowledge of network
+protocols, including TCP/IP and HTTP."
+41216,"41501.41502.41312.41202/41201.41271. , Mathematics including linear
+   algebra, calculus and differential equations; Statistics and
+   probability theory; Statics, mechanical vibrations, and strength
+   of materials; Fluid mechanics; Programming using e.g. MATLAB;
+   Fundamental knowledge of maritime
+   structures."
+41222,"41201.­(41312/41102/10346).­(41224.­41225)/41226.­02631.­02685, Basic naval architecture and
+   ocean engineering, basic fluid mechanics, linear wave theory and
+   programming in Matlab are expected. Ordinary and partial
+   differential equations and nonlinear wave theory are
+   desirable."
+02155,"02132/02135/02139.­(02100/02102) , Basic skills in programming and
+   digital electronics"
+34120,01005
+34130,"34120/31400/10036.­34210/34230/34231, Basic experience with Matlab
+   programming."
+34220,02002/02101.01001/01005
+34229,34302.34334.02002.01001
+34319,"02101/02102.34310/34311.02105/02161, Participation in the course
+   assumes a general knowledge of modern communication networks and
+   protocols in addition to software development in
+   Java."
+34330,"34310/34311, Participation in the course
+   assumes knowledge in general about concepts such as services,
+   signalling and protocols in modern networks for
+   telecommunication."
+34338,Basic programming skills
+34341,34310/34311
+34349,02139.34310
+34351,34311/34313/34322.34210
+34355,34310/34311
+34357,34302.­34313.­34323/34347/02815
+34363,"34330/34343, Understanding of mobile
+   communication systems. Ability to understand scientific papers
+   covering the latest research in the field of mobile
+   communication."
+34368,34310/34311/34130/34140
+34249,"Knowledge of programming languages. Knowledge of VHDL is an
+advantage."
+01238,"01125/01237, Knowledge about fundamental
+   concepts and results from calculus, geometry, and linear algebra
+   is assumed as a prerequisite."
+31520,"01005, Differential equations, vector
+analysis, mechanics"
+31540,"Fysiology and anatomy. Good knowledge of Matlab is essential.
+Basic knowledge of nuclear physics."
+31561,"(02402/02403/02405).­(31605) , Linear systems or basic signal
+   analysis and introductory statistics"
+31605,(31004/31510).­01005.­01035.­(10020/10022/10024/10026).­(02631/02633)
+34366,"Experience with script programming (e.g. MATLAB, Python, etc.)
+and object-oriented programming (e.g. Java, C++, or python
+etc.)."
+41560,41501.01035
+30200,"Passed courses corresponding to the mandatory parts of the
+bachelor program in Earth and Space Physics and
+Engineering."
+30210,30200.30230
+30220,"(30201/30202).30230, and as a minimum one course from
+   each of the two lists of technological specialization
+   courses."
+30350,"Electromagnetic Waves, Polarisation. Knowledge of programming,
+e.g. MATLAB"
+30540,"(02502/02504/02501) , Digital image analysis and
+   Computer vision."
+30740,01005.­(10022/10024/(10033.­10034)).­(10036/31400).­(02631/02632/02633).­30140.­30230.­30210
+31310,31300/31301
+31320,"31310, Knowledge of state-space description
+of dynamical systems. Knowledge of observer based feedback
+control."
+31380,"Experience with script programming (e.g. MATLAB, Python, etc.)
+and object-oriented programming (e.g. Java, C++, or python etc.).
+The programming language in the course is Python."
+31383,"31300/31301/41671/41672/42672, Knowledge of control theory
+   corresponding to an introductory control
+   course."
+31386,"31385, Basic programming, knowledge of C or
+C++"
+31388,"31385.31300.31301, Basic programming, knowledge of C
+   / C++ and feedback control"
+42988,42889/42872/42986
+42989,13506
+42992,"42101, or another introductory course in
+operations research"
+23921,01907.23961.02593
+23951,23962.02323
+12111,"A basic course in chemistry (1st year chemistry course) and
+basic knowledge on Excel"
+12326,"Applied Geophysics. Geology. Hydrology. Good computer skills
+are important (scripting in MATLAB/Python, EXCEL etc.)"
+12344,"12320, Introductory hydrology
+course"
+42640,"42610, Theory of Science in Engineering
+(42610) or the equivalent."
+42890,"02323/02403/02403/62668, Introduction to
+   statistics"
+02830,"02238/02266/02285/02456/02458/02506/02513/02515/02562/02564/02565/02808/02823/02826, One or more courses in topics
+   pertaining to digital media technology. E.g. computer graphics,
+   digital sound, mobile apps, information visualization, web or
+   social media. The ability to use programming as a tool is a
+   prerequisite."
+31070,"30010./02318. , or equivalent basic knowledge about
+C programming, internet protocols, and web programming, such as
+HTML, JSON, Java or JavaScript."
+23206,"A background in molecular biology, gene cloning, PCR, western
+blot, etc is essential to understand and follow the
+course."
+23210,"Knowledge of and interest in microbial quality and safety of
+food"
+02191,02239/02233
+02190,Communication and Networks (KU)
+02341,02344
+02343,"01917.­02321.­02323.­02324.­02325.­02326.­02332.­02333.­02341.­02342.­02344.­31021, where the courses 02333, 02341
+   and 02342 can be taken in parallel with
+   02343."
+41784,"41787/41788/41862, Fundamental course in
+   manufacturing processes"
+02347,"02312/62514.02326, Skills in object oriented
+   programming. Knowledge of basic algorithms and data
+   structures."
+62501,"Knowledge corresponding to a Data Communication class and
+programming skills"
+62620,41681/62009/62183/41683/41650/41659/41680
+11404,"11450/62622, 11450 ""Basic Course in Road
+   Pavements"" gives knowledge into the fundamental design and
+   construction of road pavements which is overall the same
+   principles used in the construction and design of the trackbed
+   for Railways. 62622 ""Railway Technology and
+   Operations"" ensures that the students have knowledge with
+   respect to capacity and running time calculation for creating
+   timetables for railway operations."
+42942,42973.42941
+42973,"62096, or similar GIS
+prerequisites"
+42975,13000/13500/13501/13510/42872/42986/42889
+34230,01035/02451/31605/31606.­02405
+34240,"34220/34230/34231/02502, or courses in image and signal
+   processing and familiarity with Matlab or
+   Python"
+34241,"34220/34230/34231/34240/02502, or experience with image
+   processing. Experience with either Matlab or Python required
+   (exercises can be done in one of the two languages)."
+34250,"34240/34241, or knowledge of image or video
+   coding"
+34251,"01405/30300/34230/34231.­02405, Experience in MATLAB is required.
+   C/C++ may be alternatives, but MATLAB is used in
+   examples"
+02564,"02561.02110, Knowledge about computer graphics
+   corresponding to the level of an introductory course is assumed.
+   Basic computer programming skills are
+   required."
+26122,(26006.26301)/(26173.26374)
+26327,"01005.­10020.­(26000/26027/26171/26172).­(26201/26202).­26400, Matematics, physics and general,
+   physical, and organic chemistry"
+36625,"27611.­27619.­02115/02102/02312, or equivalent. Able to solve
+   bioinformatic problems in a structured manner using simple
+   programs and scripts in Unix environment, for example during
+   project work. or equivalent"
+26003,26001.26400
+26127,26006/26001.26124
+26455,"26433, Organic Chemistry 3. Alternatively,
+a BSc in chemistry with focus on organic
+chemistry."
+26225,"(26222/26220).(26301/26300) , or similar laboratory
+   experience"
+47336,"10031/10036/10041or26000/26027/26030/26030/26171/26201/26330or31400or41650/41680/41681/41685, If the student does not have such
+   background, she/he should contact the course responsible asking
+   for basic literature."
+47305,"26201and/or10018or equivalent , Bachelor in Chemistry
+and Technology, Physics and Nanotechnology, General Engineering
+(Advanced Materials and Future Energy), Mechanical Engineering or
+similar bachelor programme."
+26944,26428
+01020,"01001/01005, 01001 or first half of 01005. in
+   particular, the following subjects: Matrix and Matrix Algebra,
+   Determinants, Vector Spaces, Linear Transformations, Eigenvalues
+   and Eigenvectors, Similarity and Diagonalization, and Symmetric
+   Matrices."
+22140,"(27002/27008).­27022.­27026.­(36611/22111).­22100, A working knowledge of the
+   programming language R OR parallel participation in course 22100
+   - R for Bio Data Science. Note that solving exercises both at
+   lectures and the exam requires programming in R. Knowledge of
+   cell structure, its biological function, subcomponents,
+   biochemical and molecular processes (metabolism, RNA- and
+   protein synthesis), structure of DNA, protein-coding genes, the
+   standard genetic code, the primary (sequence), secondary
+   (helices/coils), tertiary (3D) and quaternary (complex)
+   structure of proteins. Basic knowledge and ability to apply
+   bioinformatics methods and the knowledge to collect and process
+   relevant biological data from large-scale databases such as
+   UniProt and GenBank."
+24005,26000.27002/27008.27004
+10331,10036.10034.26000/26021 or equivalent courses
+22451,"01005, Differential equations, vector
+analysis, mechanics"
+41344,41401
+41512,"41511, Machine Elements -
+Basics"
+41515,"10022/62675.­41501/41533.­41564/62643/62694, Programming
+   experience."
+41517,"41516.41812/41958eller tilsvarende , and knowledge
+   of MatLab or similar."
+41402,41401/41045/41431/47201/62604
+41522,"41560/41214/41514/62643/41237/41564, / course in elementary vibration
+theory. Experience in MATLAB/Maple/Python
+programming."
+41528,"41502/41534, Linear elastic continuum mechanics.
+Knowledge of tensors and linear finite element theory is
+recommended."
+41563,"41312.41560/62694/41564, Hydrostatics, pipe flows, loss
+   coefficients, conservation equations (control volume) Dynamic
+   characteristics of single degree of freedom systems,
+   eigenfrequency and damping."
+02507,"02502, Knowledge of introductory image
+analysis or computer graphics."
+27060,"27026.27051.27022, The subject and the level
+   requires that the students have a good understanding of cell
+   biology (both pro- and eukaryotes), the central dogma and the
+   underlying processes (transcription, mRNA processing,
+   translation and regulation)."
+27255,"27026, Knowledge of microbial biodiversity
+and bacterial genetics and physiology to the level needed to be
+able to participate in reading and discussion of scientific
+literature."
+12140,"12122.­(12320).­12110.­12233, A background knowledge of
+   hydrology and/or urban drainage, wastewater treatment and
+   receiving water pollution from your previous education is
+   necessary to follow this course. Basics knowledge of statistics
+   is also recommended. At DTU the three courses mentioned under
+   recommended prerequisites are necessary as prior basis (at least
+   2 of 3 courses). You should furthermore have some experience
+   with computer simulations, spreadsheets and use of the
+   Internet."
+12109,"12102/12104, Course in Water Chemistry, Course
+   in Environmental Processes, or Equivalent"
+30300,"Participants who have completed the mandatory courses of BSc in
+Electrotechnology, Physics and Nanotechnology, Mathematics and
+Technology, Network Technology and IT, or Earth and Space Physics
+and Engineering."
+30320,"30020.30330, Digital or analogue system design
+   experience is desirable."
+30330,"30020/30021, Complex functions and
+   Microcomputer systems."
+31015,Three semesters of Electrotechnology
+31606,"31605. , The course is a continuation of
+course 31605. Equivalent knowledge is expected for
+participation."
+25303,"01035/01005, Basic knowledge of ordinary
+   differential equations and linear algebra, corresponding to
+   courses 01035/01005, or similar. Knowledge of MATLAB, R, or
+   Python programming. Students lacking those skills should follow
+   25328, which is the same course with added introduction to the
+   required math and programming. No prior biological knowledge is
+   required."
+12331,"12330, Contaminated sites"
+25312,25349/25318
+12343,"12320, Introductory
+hydrology"
+12812,"This course is only open for DTU students at the MSc
+Environmental Engineering programme."
+25324,25102
+27254,"27230.27250.27430.23258, Knowledge of medical
+   microbiology, pathogenic micro-organisms. General laboratory
+   skills"
+10104,"10018/10020/10022/10024/10026, , Physics 1 or equivalent
+   courses"
+22400,"Design-build courses 1-3 on the General engineering BSc
+programme."
+25310,25301
+25314,"25303/25328, Have the ability to program in
+   Matlab or an equivalent programming
+   language."
+25316,25331
+25331,"25316, Current or previous enrolment in
+course 25316 Recirculating Aquaculture systems is a prerequisite to
+enroll for this course. We recommend taking the two courses in the
+same semester."
+30760,30230.­(02631/02632/02633).­02686.­01418
+30752,(10020/10022/10024).­30150.­(30140/30141/30142)
+41516,"41501/41533/41203.­41502/41534, and programming expertise (e.g.
+   MATLAB). Recommended is also experience with Finite Element
+   programs e.g. 41812/11305/41958."
+41709,"41781.­41782.­41704/41784.­41661, Basic knowledge on metallurgy and
+   calculations of mechanical and/or thermal manufacturing
+   processes in metals (metal cutting, metal forming, casting,
+   welding)"
+46910,"(41501/41502)(41812/41525/)(41526) , or other courses covering
+   strength of materials and an introduction to the finite element
+   method or other courses covering composite materials and
+   fracture mechanics"
+41730,41713/41714/41784/41787/41788/41862.41502/41534
+41743,"Technical drawing 41000 (or equivalent). Production technology
+41714/41781/41787/41788. Materials technology 41650, 41659. Micro
+technology 41742."
+46110,"41312/41102/41065/02633, Matlab skills required, eg.
+   02633"
+41663,41015/41650/41659/41681/41683/33323/10030/10020/10022/26000/27002/27022/28001
+41742,"Production technology 41703/41781; Materials technology 41650,
+41659 or equivalent"
+46415,"Students are expected to take this course later in the program
+once they have gained some understanding with wind turbine
+technology. It is also recommended that students are comfortable
+with Matlab programming."
+41669,"41650/41659/41681/41683/41680/41686or41661/41664/41662, Materials Science or metals
+   technology"
+41810,"(41511/41513/41540).­(41560/41035/41214).­
+   (41501/41015/41203/41533) , Machine design, Mechanical
+   vibrations, Strength of materials"
+41819,"41533.41534 or similar. Also knowledge on Matlab, Mathcad or
+similar math software package in relation to solving matrix
+equation systems."
+41658,"41650/41657/41659/41661/41680/41681/41683/41686, or equivalent Materials science
+   or Metals technology"
+31502,31501.KU002
+41739,"Knowlegde of polymers, metals and material process technologies
+e.g. 41736/​41737/​41785/​42231/​42233/​42932, 41650,
+41659"
+34346,"Either/enten34315or/eller34338or/eller Arduino
+experience/erfaring."
+41662,"41650/41659/41681/41683/41686/(41680.­41684).­41651/41661, Materials science Metals
+   technology"
+41668,"41661/41662, or equivalent course at the MSc
+   level, basic knowledge about Matlab"
+46500,"46300, Background knowledge in statistics
+and probability is recommended, similar to the content of the
+courses 02402 and 02406. It is also assumed that the students are
+already familiar with basic wind energy topics as the ones taught
+in course 46300, and are able to use Matlab or Python programming
+languages. Based on these requirements, it is recommended that the
+course is taken during the second year of M.Sc.
+studies."
+46320,"46300/46310, Students are recommended to have
+   taken 46300 and/or 46310 and be comfortable programming in
+   Python. Knowledge of structural dynamics and aerodynamics is
+   required, and knowledge of wind turbine technology, wind turbine
+   aerodynamics and basic control theory (PI controller) is highly
+   recommended."
+47317,"10018or26201or28221or41401or47201, Basic knowledge of thermodynamics
+(bachelor level), e.g. 10018, 26201, 28221, 41401 or
+47201"
+46411,41501/41812/46420
+31270,31200/31241
+31321,31320
+34903,"Some knowledge on photonics – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+41665,"41650/41657/41659/41661/41680/41681/41683/41684/41015, Basic materials science and
+   technology"
+41888,"Ability to work independently and systematically. Each research
+project has in addition specific academic prerequisites."
+02687,"02687 can be followed in the same semester as 02686. Both
+courses can be taken independently and in any
+order."
+41685,"41650/41659/41680/41681/41683/41686/41015.10041, Introduction to Materials Science
+   and Engineering, Physics"
+02421,"(02402/02405).(34721/28150/02417) , Introductory course in
+   statistics (02402) or probability theory (02405) and in control
+   (34721 / 28150) or time series analysis
+   (02417)."
+31340,31300
+26265,"Bachelor in physics, chemistry or biology"
+41792,Basic knowledge about statistics
+31790,"Basic knowledge and concepts of electrical and mechanical
+engineering"
+41321,"41320.02002/02631, Routine in applying Navier-Stokes
+   equations and experience with programming for data
+   processing."
+41734,41714/41787
+47309,"10303/10333/47301, Basic knowledge of materials
+   physics and experience with laboratory work and group work
+   obtained, e.g., through courses 10303 and 10333"
+31302,01005.01035
+41342,(41344/41343/41347/41015/41312/41511/41533/02102/31001/31003)
+41808,"41502.
+(41560/41035/41214/41237/41564) .41516.41511"
+02515,"0251102512, erfaring med programming (C#,C++,
+python, java or similar); software system design and test; image
+analysis; statistics"
+62626,"62145.41000.62051.62088, Fundamental CAD in
+   SolidWorks"
+41422,41401/41045/41431.­41814.­41312
+41533,"62675.01901.01920(samtidig) , Knowledge within basic
+mechanics and statics. Surface integration and differential
+calculus."
+41860,"62604/41401/41045, Basic thermodynamics equivalent to
+course 62604"
+62635,62603og41860
+62645,"01901 Calculus and algebra 1. 62675
+Mechanics."
+62694,"62675/01901, Statics and particle dynamics. Basic
+course in calculus and algebra."
+62770,"A level of competence in the use of a calculation program such
+as Maple and Matlab is necessary, as well as an understanding of
+the solution to systems of equations, differentials and integrals
+and complex numbers."
+62799,"01901/01920, Calculus and Algebra 1 and
+   Calculus and Algebra 2"
+62904,"Basismat - Introductory Mathematics for diploma engineers
+Higher mathematics for diploma engineers Thermodynamics Modeling
+and Fields & Flows or equivalent."
+62614,"62694, A first course in engineering
+dynamics. Good mathematical background."
+62683,62675.41533.62145
+41781,41782.41681
+62146,62145
+62148,"62904.62800, 62904 Applied Control Engineering
+   62800 Introduction to electronics and
+   robotics"
+62607,"62904.62800.62606, 62904 Applied Control Engineering
+   62800 Introduction to electronics and
+   robotics"
+62800,"62677/62904, 62677 Applied Control Engineering
+   62904 Applied Control
+   Engineering"""
+41270,41202/41201.42009
+62646,"01901 Calculus and algebra 1. 62675
+Mechanics."
+41682,"Materials technology e.g.
+41650/​41657/​41659/​41681/​41683/​41680.41684"
+41341,(41344/41343/41347/41015/41312/41511/41533/02102/31001/31003)
+41347,41401/41045
+62629,"62603and62657, Thermodynamics and Fluid
+Mechanics."
+31232,31230/31236
+31391,"Strongly recommended: Programming, Python, Linux Optionally:
+C++"
+31750,"31730/31742.31300, Linear Control Design
+   1"
+02451,"31606.02402/02403/02405/02323.01005/01006/01015, Linear systems or basic signal
+   analysis and introductory statistics"
+30021,"30010, Experience with C programming or the
+like and a basic knowledge of the microprocessor and its
+interfacing with peripherals."
+31352,31351/31001/31003/31039
+31354,31037/31036/31350/31351.­31352
+31730,"Basic knowledge within AC-circuits and main AC
+components."
+31756,31036/31351/31352
+31745,"3173031742, Power System,
+Fundamentals"
+31390,"Students attending this course have ideally prior experience
+with some of the following topics: c++ or python programming, ROS,
+camera and image handling, PID control, modeling mechanical
+systems, state estimation and perception for
+robotics."
+31392,"31391, Image processing, kalman filtering,
+software architectures for autonomous
+systems"
+31377,"(31300/31301/31310).­31383.­(02631/02632/02633) , Any Introductory course in
+   Python programming is recommended"
+02625,"02631/02633.02610.02601, Experience with Matlab
+   programming (e.g, 02631/33), numerical computations (e.g.,
+   02601) and partial differential equations (e.g.,
+   01246/01418)."
+31545,"31540.­31658/31610.­31561/02451/ , Courses in signal processing and
+   biomedical engineering"
+22001,"(31605/22050)/(31606/22051)/22052730160 , Matlab will be used extensively
+   in the course on a weekly basis. Prior knowledge would be
+   beneficial, but additional material will be provided if
+   required."
+31260,"31200.01418, Fundamentals of acoustics and
+   noise control Basic signal processing"
+31221,31220
+31353,"31352, students must attend the course
+31352 before signning up the course 31353"
+31210,31605.31606
+31631,"31003eller62732, Basic knowledge of electronics and
+circuit theory (31003) or Analog Electronics
+(62732)"
+34365,Either/enten34315or/eller34338or/eller34346
+34367,"34666, The course is based on the project
+description that was an assignment in course 34366."
+62700,"62760/62761/62704, A suitable number of relevant
+   courses, which yields a high understanding of calculations on
+   three phase systems, e.g. unsymmetrical faults and especially
+   short-circuit currents"
+62726,First four semesters must be passed.
+02205,"02138.02139, Basic course in digital
+   systems"
+27510,"27020, or similar."
+31415,"31405, Wireless
+Communication"
+31420,"31405.­31415.­31400/31035.­31412.­31418, Wireless Communications. RF
+   Communications Circuits. Electromagnetics Knowledge of
+   semiconductor devices structure and operation an
+   advantage"
+31445,"The course requires knowledge of analogue and digital circuit
+design, electromagnetics (Maxwell's equations and transmission
+lines), and basics of Fourier and Laplace transformation
+methods."
+30340,"General knowledge about electronics and electronic systems and
+basic knowledge about transmission lines and electromagnetics.
+Also, knowledge about signal analysis and programming, e.g. MATLAB,
+is required."
+31430,"31417.31428, The course requires knowledge
+   about fundamental antenna theory and advanced electromagnetic
+   field theory as contained in the two prerequisite courses.
+   Courses on applied math and numerical methods."
+31632,"31631.31606, Knowledge about MOS transistor
+models and basic CMOS amplifier circuits. Knowledge about signal
+processing in continuous time and discrete
+time."
+31633,"Course 31630 or course 31631 and 31632 or courses with a
+similar content"
+02513,"0250202504, It is recommended to have taken a
+course in basic image analysis and preferable practical experience
+with solving image analysis problems."
+02203,"02139.­(02100/02102)/02132, Basic skills in programming and
+   digital electronics including some knowledge of VHDL (or another
+   hardware description language)."
+31372,"31370, Knowledge of object oriented
+analysis and programming fundamental understanding of control
+systems and modelling"
+33483,"Knowledge of the structure of mammalian cells will be an
+advantage. It will be an advantage if you already know basic cell
+biology concepts."
+31375,"Experience of programming in C/C++/Java as obtained in 31388,
+31371, 02101 or 02131 is essential for following the
+course."
+02229,"((02101.­02161)/02160).­02105, Solid working knowledge of an
+   imperative programming language. Knowledge of algorithms and
+   data structures. Basic software engineering
+   skills."
+31786,"31730.31756.31782, Basic knowledge to power systems,
+electronics and machines"
+31351,*
+62608,"62904, 62904 Applied Control Engineering
+62606 Applied discrete control of mechanical, fluidic and thermal
+plants"
+62643,62675and62694
+31789,"Basic knowledge and concepts of electrical and mechanical
+engineering"
+22002,22000/22003
+34046,34020/34021
+31551,"31547, The course requires extensive prior
+MR knowledge corresponding to the end level of DTU course
+""31547 Medical Magnetic Resonance
+Imaging""."
+31035,"01902.62732, Calculus and algebra; Analogue
+   Electronics"
+62738,"01964/31022/62736, The student must be in possecion
+   of and confident in using his own processor-kit from the very
+   beginning of the course - i.e. obtained in an earlier course
+   within digital technique and
+   programming."
+62739,"62738eller tilsvarende , Knowledge of
+electric and magnetic fields, basic electronics including amplifier
+design. Knowledge of linear and digital signal processing incl.
+filter design, spectrum analysis etc.."
+31418,"31417.­31405.­(31400/31035/10036/34120) , Knowledge about
+   transmission-line models including loss. Be able to design
+   transmission lines, e.g., microstrip, and stripline; design and
+   analyze microwave network by the use of scattering and
+   transmission parameters; and design impedance matching circuits,
+   e.g., discrete components, single and double stub, and
+   quarter-wave transformer."
+31435,"31430, The course requires a thorough
+knowledge of antennas and radio wave propagation. Furthermore,
+experience with MATLAB programming is required."
+31470,"31420, This course assumes an extensive
+knowledge in microwave technologies and RF circuit design.
+Furthermore, it is assumed that participants are familiar with
+basic concepts from electromagnetics. The course also assumes basic
+knowledge in the physics of semiconductor devices."
+31634,"31631/31632/31633, or equivalent courses that cover all
+the material from 31631, 31632 and 31633."
+31003,31001
+31417,"31405.­(31400/31035/10036/34120) , The course requires a basic
+   knowledge on electromagnetics (Maxwell's equations, plane
+   waves, and transmission lines) and circuit theory in addition to
+   knowledge about wireless communication systems (transmitters and
+   receivers, RF circuits and antennas, noise, radio wave
+   propagation, analogue and digital
+   modulation)."
+34339,34330
+34342,"02323, Basic probability
+theory"
+34350,34310/34311.34130/34140
+34359,34302.­34313.­34351.­34357.­34323/34347
+34361,34350
+34362,"34330/34343, Understanding of mobile
+   communication systems."
+34370,"34334.34359. , Knowledge about the most important
+protocols in the internet, such as IP, TCP, UDP, DHCP, DNS, and so
+on."
+34369,34310/34311/34130/34140/34368
+10605,A good command of the English language.
+34053,"10036/31400.10370/34041, Knowledge of Matlab is an
+   advantage."
+34055,"33255.34034, Photonics. Basic knowledge of
+   semiconductors and semiconductor devices."
+34455,"34430, Basic courses in mathematics and
+physics"
+34803,"Some knowledge on telecommunication – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+34804,"Some knowledge on telecommunication – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+34358,34357
+02213,"02203/02204/02205/02209/02211/02217, See
+   remarks"
+02139,02138
+34347,"34330/34334/34341/34350/34355/34368, General knowledge of modern
+   communication systems and protocols. General experience with
+   software development in C/C++."
+34539,34041
+34156,34130/34153/34210
+10385,"10384, Quantum information or equivalent
+course."
+34042,10102
+02192,"02239/02233, The course is an advanced course
+that requires basic understanding of computer and network security.
+The course may be taken in parallel with
+02233."
+02689,"02686/02687, A course in numerical methods for
+solving differential equations or similar scientific computing
+course for differential equations"
+01527,01227
+41564,(41501/41015).01035
+02467,02450
+41028,"02631/02632/02633, Introduction to programming and data
+processing"
+26026,None
+22051,"31605/22050, The course is a continuation of
+   course 22050 (previously 31605). Equivalent knowledge is
+   expected for participation. Prior knowledge in Matlab or another
+   programming language (e.g. C, Pyhton, Julia) is beneficial, but
+   not a necessity. Additional material will be provided if
+   required."
+31012,310113100102138
+02951,"02282, Technical, scientific, mathematical,
+and algorithmic maturity"
+62616,"(41681).­(41533).­(62604).­(41787).­(41788) , Production Technology
+   (Fundamentals) (41787) eller (41788). Materials science (41681).
+   Dimensioning and Strength 1 (41533). Thermodynamics with project
+   (62604)."
+34038,34020/34021
+31036,31032.31022
+31301,"01005010350190262732, 01035 can be taken together with
+this course"
+62711,"300803008130082, Digital electronics, VHDL,
+FPGA."
+62737,"31022.62732.01964, Analog electronics. Mathematics
+   2"
+02204,"02203/02139, Solid background in digital
+electronics."
+02209,"02203/02155/02138/02205, Basic course in digital systems or
+design of integrated systems"
+02211,"02155, Basic computer architecture
+knowledge"
+22050,"(34600/22438).­(34601/22437).­01005.­(01034/01035/01037) , Prior courses in DC and AC
+   circuits are essential."
+62733,"3003262712, eller tilsvarende courses : 30032
+62712 is running in paralllel"
+31735,"31713.10200, Fysik 1, specielt ellære og
+   magnetisme. Senest samtidigt"
+31762,02402
+31776,31711.31713
+47211,one or more of31711.31713.47202.10041. or similar
+31715,31776.42005
+22055,22052
+22056,22055
+22222,"It is a prerequisite to have signal processing knowledge. Good
+knowledge of Matlab or a similar programming language is
+essential."
+62583,"02318/02312/62557/62558/62514/62576/62734, Skils in C-programming and/or
+   C++, Java and object-oriented programming as achieved in ex. one
+   or more of the above mentioned courses. Knowledge about network
+   could be an advantage"
+30081,30032.62733.02318
+30082,30081.62734
+62732,01906/01907/30032(31032)/31033
+62734,"02318, c-programming at the 1st semester or
+corresponding"
+62736,"01901/01920, Calculus and Algebra 1 Calculus
+   and Algebra 2"
+62743,62735
+02258,"02132.(02158/02159) , Students are assumed to have
+   taken computer organization and operating system courses. In
+   addition, students are assumed to be able to write programs in
+   C. Finally, students are assumed to be able to use threads and
+   understand how threads could be mapped to
+   processors."
+22506,"22485, Knowledge of MRI corresponding to
+notes athttp:/​/​eprints.drcmr.dk/​37/​is required (until and including k-space) and the corresponding
+mathematical formalism covered in course 22485. A questionnaire
+covering course prerequisites is available on the course homepage
+for repetition ahead of the course, but also to give participants
+not having taken 22485 insight into what they need to study
+themselves in advance. Limited programming experience is needed,
+e.g. Matlab or Python."
+34210,"01005, 01005 (at the same
+time)"
+34334,34313/34322.­02101/02102/02002
+47209,"02631/02632/02633/02692, Basic programming skills, for
+   example in Matlab or Python"
+34333,"34313, Participation in the course assumes
+knowledge in general about concepts such as services, signalling
+and protocols in modern networks for
+telecommunication."
+22602,"10031.­10033.­10036.­10102/10104, Mechanics, electromagnetism and
+   quantum mechanics, corresponding to DTU courses 10031, 10033,
+   10036 and 10102/10104. Following 10102/10104 in parallel is
+   sufficient"
+22052,"(02402/02403/02405).­(31605/22050) , 1. Linear systems or basic
+   signal analysis and introductory statistics. 2. Students should
+   have prior knowledge in Matlab."
+30201,"Passed courses corresponding to the mandatory parts of the
+bachelor program in Earth and Space Physics and
+Engineering."
+30545,"(30201/30202).30230, Knowledge of
+   programming"
+30790,30120.­10034.­(10036/31400/30400)
+10209,"01005.­(10033/10020).­10036.­(02631/02632/02633) , or equivalent courses"
+22525,"02402.02502, It is assumed that the participants
+have had an introductory statistics course and an introductory
+image analysis course. Furthermore, working knowledge of
+Python/Matlab is expected."
+22601,"Elementary electromagnetism and
+mechanics"
+34060,"34034.34052. , Bachelor's degree in science or
+technical subjects. It is not advisable to follow the course
+without basic knowledge of lasers and non-linear optics, as this
+can result in considerable extra work compared to the standard. It
+is recommended that course 34034 has been passed. The course 34052
+is useful background knowledge. Basic knowledge of the programming
+language Python is recommended."
+22512,"34430, Basic courses in mathematics and
+physics"
+33473,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)"
+33478,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)."
+34125,"34020, Optic and Photonic"
+62716,"01901/62525, Calculus and algebra 1 Signal
+   Analysis"
+62408,"02312/02368/02321/02327/02347/30571/62576/62583/62547/62407, Skills within more of these
+   topics: Embedded Technologies, sensors, network, client-server
+   programming, C-programming and/or C++, Java and object-oriented
+   programming, html5, javascript, python, Linux. You also need
+   skills from one or more of listed courses - or similar courses.
+   You shall know about IoT devices and IoT network
+   principles."
+62703,"The course comprises design of electrical installations. This
+process is to a high degree based on rules and standards. Without a
+good, fundamental understanding of electrical circuits and here
+especially three phase systems the course will be difficult to
+complete"
+62742,"62741, 62741 Basic
+Electrotechnique"
+62745,"Basic vector calculations, scalar and vector product, triple
+scalar product, basic differentiation and integration in 3
+variables."
+62751,"62741 Indledende Elektroteknik - to be followed in
+parallel"
+62782,62741/62742
+26263,"26231.26245.26261, Expected knowledge in basic
+   quantum chemistry / quantum mechanics and good math
+   skills"
+47333,"Bachelor in: General Engineering, Physics and Nanotechnology,
+Chemistry and Technology, Production and Construction, Electro
+Technology or similar bachelor in materials science or solid state
+physics"
+24007,26407og26436
+27101,27022.27026.27070
+23259,"27002/27008, Basic understanding of cell
+   structure, the biological functions of cells, biochemical and
+   molecular biological processes within
+   cells."
+36042,"(27002/27008.­(27611/27622))/27633, Knowledge of cell structure, its
+   biological function, subcomponents, biochemical and molecular
+   processes (metabolism, RNA- and protein synthesis), structure of
+   DNA, protein-coding genes, the standard genetic code, the
+   primary (sequence), secondary (helices/coils), tertiary (3D) and
+   quaternary (complex) structure of proteins. Basic knowledge and
+   ability to apply bioinformatics methods and the knowledge to
+   collect and process relevant biological data from large-scale
+   databases."
+27106,"27015eller tilsvarende (or similar) , Some
+of the projects may have particular qualifying
+prerequisites"
+22201,"27322/27070, General knowledge in Immunology
+   (27322, 27070 or other relevant course) and cell
+   biology"
+27615,"27021/27231/(27230.­27430) , or equivalent, 01005 or
+   equivalent"
+36615,27002/27008.27611
+29902,"27026/27611/27405, 27026 - Theoretical Molecular
+   Microbiology 27611 - Introduction to Bioinformatics 27405 - Cell
+   factories: Design, engineering and analysis"
+22115,27002/27008.27611
+22145,"22111.22117, or equivalent. NB! Prerequisite
+   courses in the DTU course base are recommended. This means, that
+   they are not mandatory per se, but the learning objectives
+   covered by the prerequisite courses are expected prior
+   knowledge. Students who do not fulfill the prerequisites are
+   expected to take independent responsibility for any missing
+   learning objectives. This means, that it is not impossible to
+   follow the course without having passed prerequisite courses,
+   but an additional work effort may be needed. Expected prior
+   knowledge covers basic immunology, basic bioinformatics, and
+   basic knowledge of amino acids and proteins. Contact the course
+   responsible for any questions regarding
+   this."
+36626,"27002/27008/27230/27430.­27610, Elementary computer skills (i.e.
+   locate files via command line etc.)"
+22136,"02402/27026/27610/27626, Basic understanding of molecular
+   biology and microbiology (e.g. 27026), basic programming &
+   data handling skills (e.g. 27610 or similar), basic
+   understanding of statistics and R (e.g. 02402 or similar) Basic
+   knowledge of NGS data analysis at the level of e.g. 27626 will
+   be advantageous. Principles of NGS data analysis will be
+   reviewed during the course. You should know how to: -navigate in
+   UNIX (create directories, open/move/delete files etc.),
+   Navigation and basic UNIX skills will only be reviewed briefly
+   -execute programs on command line -run and modify simple shell
+   and R code, Basic R and shell scripting will only be reviewed
+   briefly Laboratory experience is not required but will be
+   advantageous."
+26325,"protein chemistry, organic chemistry, physical
+chemistry"
+41684,41680or41650or41015
+23220,"27002eller27008, Life Science"
+22455,"31521/(31520/22451.­31522/22452) , An undergraduate level course in
+   fluid mechanics and mass transport is essential."
+36683,"27002/27008, Basic understanding of cell
+   structure, the biological functions of cells, biochemical and
+   molecular biological processes within cells."
+22125,"22101.22111.22113.22163, or equivalent. Able to solve
+   bioinformatic problems in a structured manner using simple
+   programs and scripts in Unix environment, for example during
+   project work."
+23255,"27002/27008.­27051.­36626.­23205.­23258, Requires basic knowledge in
+   microbiology, microbial physiology and biochemistry. Basic
+   skills/experience related to microbial cultivation, PCR and
+   molecular microbiology will be a benefit.https:/​/​www.coursera.org/​learn/​antimicrobial-resistance"
+27020,"26000/26026/26027/26030/26050/26171, or similar chemistry courses.
+   Course should be taken in 3rd semester at the
+   earliest."
+27005,26000/26050.­27002/27008.­27004/36004/22104
+23212,"Completed one year of an education in the area of microbiology,
+biotechnology, food technology or similar. Basic knowlegde of
+microbiology and be able to work in a sterile
+environment."
+22283,"02402 or similar introductory statistics; 26000 or similar
+general chemistry; 26202 or similar introductory physical
+chemistry; 27008 or similar introductory life science or
+biochemistry"
+47313,"47211/47202/47205, (any one of these), Bachelor in
+   Physics and Nanotechnology, Chemistry and Technology, General
+   Engineering (Future energy or Advanced materials) or
+   similar."
+10402,"10018/10020/10022/10024/10033/10036/10041, or equivalent courses"
+33470,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)."
+22650,Bachelor degree in science or technology.
+02182,"01017.02105.02450.02464.02465. , or equivalent courses. You need
+experience with algorithms and data structures, programming,
+propositional logic and recursive procedures. The course requires
+experience with implementing non-trivial algorithms in a standard
+programming language like Java or Python."
+02445,"02402/02403.02450. , 02809 or similar is also
+   recommended."
+02463,"02450.02403, Introduction to Machine Learning and
+Data Mining. Introduction to mathematical statistics"
+02464,"(01001/01002/01003/01004/01005).­02002.­(02461.­02462.­02450) , This course is intended for the
+   Artificial Intelligence and Data bachelor’s program. The
+   prerequisites for the course are: Basic programming, linear
+   algebra, machine learning, data science and probability theory
+   corresponding to 02461, 02450 and 02462. 02462 can be taken in
+   parallel with this course."
+02465,"02450.­02403.­(02002/02631/02632/02633) , Introduction to Machine Learning
+   and Data Mining. Introduction to mathematical statistics (or
+   another course that provides a general knowledge of probability
+   theory). Experience with the python programming
+   language"
+02466,"The student must have passed courses corresponding to 60 points
+among those belonging to the bachelor programme in Artificial
+Intelligence and Data."
+47514,"47305, It is required that student has
+taken a basic electrochemistry course, such as MSc course 47305 or
+other similar courses."
+41417,"41401/41045.41814.41312, The students are expected to have
+   a background in engineering thermodynamics and have prior
+   knowledge on heat transfer and fluid
+   mechanics"
+30571,"02631/02632/02633, Basic knowledge of Python
+   programming is an advantage."
+42874,42889/42872/42986
+42381,At least 2 years of bachelor’s study
+62282,62263.62273/11957
+41107,"41111.­(41102/41312/41202/41201) , Assignments are typically done
+   with Excel and/or Matlab (Python or R) supplemented by
+   Maple."
+41226,"41102or41312and41111, Hydraulics in pipes and open
+channels or basic fluid mechanics and Hydrodynamics 2. Experience
+in using tools like Mathematica, MAPLE and/or
+MATLAB."
+62367,"62318/11954/11835, Internship must be
+   approved"
+62692,"41781, Engineering Materials"
+46600,"46110/41129, Knowledge of aerodynamics and
+turbulence corresponding to 46110-41323-41129 or similar. Basic
+knowledge of Python or Matlab."
+62318,"62317, The course is a continuation of
+62317"
+25334,"25106/25313/25315, Or equivalent"
+62238,"The first 2 years of studies passed on a Bachelor of
+Engineering study programme at DTU."
+62008,62009
+62012,"(62018)
+(62004)"
+62018,"This course is meant for Proces & Innovation students in
+the 1st semester - all new university students. The course is NOT
+appropriate as an elective."
+62019,"62001, Students taking this course must
+also have taken the course 62001 'Innovation, design and
+process facilitation' or a similar course."
+62024,"The student must have passed the course 62014 Green
+Entrepreneurship, or is enrolled in 62014 at the time of applying
+for admission to this course. The teaching builds on the outcome of
+the course 62014 Green Entrepreneurship. The student must be part
+of a group that has submitted an abstract for the Green
+Challenge."
+62030,"1st and 2nd semester of the Bachelor of engineering program in
+Process and Innovation"
+62033,(62012)
+62039,"(62012)
+(62004)
+(62030)"
+62040,"62012.62024.62036. , It is required that the student has
+completed courses equivalent to the courses at 1., 2. and 3.
+semester at Process and Innovation. It is highly recommended that
+the course is completed in the same semester as Innovation and
+Knowledge Management (62043)."
+62043,"It is recommended that the student complete this course and the
+course 62040 (Project P4, Innovation in an organizational context)
+in the same semester."
+62407,"62577/62443/02325, Knowledge about data
+   communication, e.g., from specified courses. Knowledge about
+   embedded technologies and software is an
+   advantage."
+02265,"02161, fundamental software engineering
+skills"
+46610,Knowledge of Construction and programming
+01427,"01410.01426, The course 01410 is absolutely
+   necessary"
+02255,"01410, 01410 is a prerequisite but we
+recommend also taking 01426 before this
+course."
+62573,"62734/62557/62514/62800/62609/62677/02808/62547/62583/62415/62416/62417/62019/62030/62194, The first 4 semesters must be
+   passed. The participants is expected to participate with one or
+   more skills within: programming, innovation, marketing,
+   mechatronic, electronics, and mobile applications development
+   (one or more of courses shown above or equivalent). The Software
+   technology students who has not had the course in mobile
+   application development, must participate in the mobile
+   application course in parallel with this. If you want to develop
+   on robot vehicle, you should at least be able to program an
+   Arduino or master Python or a e.g. Lego mindstorm in JAVA or
+   equivalent. DTU Diplom has 2 el-cars and DTU Engineering
+   Technology provides some vehicles for service robot
+   programming"
+02313,"02312/0231402315, The course provides the project
+   foundation in DTU's CDIO concept. It is required to follow
+   courses 02312/02314 and 02315 at the same time, or that similar
+   prerequisites have been attained."
+02314,"It is required to follow courses 62531 og 62532 at the same
+time, or that you have similar
+prerequisites."
+02315,"It is required to follow course 02313 and 02312/14 at the same
+time, or that you have similar
+prerequisites."
+02327,"Participants are expected to take courses 01904 and 02312 at
+the latest in the same semester as this course, or to have
+equivalent knowledge about (1) discrete mathematics: set theory and
+logical operators, (2) programming"
+02362,"02313/02314, Courses ""Development methods
+for IT-Systems"" (02313) or ""Introductory
+Programming"" (02314) are prerequisites for this
+course."
+02369,(02312/02314).­((02327.­02324)/(02327.­02362))
+62570,"The first 4 semesters must be passed. The participants is
+expected to participate with one or more skills within:
+programming, innovation, marketing, mechanics, electronics and
+mobile applications development and programming. The Software
+technology studnets must get the mobile application course in
+parallel"
+62417,"62514, Object oriented programming ability
+corresponding to course 02312 or 62514"
+62588,"(02312/62514).­02326.­(62507/62409/02322) , Skills in imperative and object
+   oriented programming. Knowledge of basic algorithms and data
+   structures."
+62101,"62079, This course is a mandatory advanced
+cource made for Manufacturing Engineering Students, who have passed
+first year."
+62102,"01901og01920, Basismat 1 og Basismat
+2."
+62103,"62094, 62094 Introduction to Managerial
+Economics and Capital Expenditures (ØKO1)"
+62108,"1. and 2. semester, Manufacturing and Management
+passed"
+02001,"Ability to work systematically and independently. Concrete
+projects often have specific prerequisites."
+23839,"The course is well suited for Ph.d. students from DTU as well
+as other (international) universities. It is anticipated that
+course participants have a background in at least one of the
+underlying disciplines (nutrition, food safety, epidemiology), but
+there are no specific prerequisites. When in doubt, please contact
+the course responsible."
+62089,"62088, Understanding
+production"
+62144,"01920, Basismat 2"
+02312,"It is required to follow courses 62531 and 62532 at the same
+time, or that you have similar
+prerequisites."
+02324,(02312/02314).­62531.­(02327/02170)
+02332,(02312/02324/62514).­02326
+02346,"01901.­(02322/(02320.­02321.­62557)).­02326.­02332.­62588, It is assumed students are well
+   experienced with programming low-level programs, in particular
+   in the C language. Students are required to have experience with
+   theads and processes as well as their scheduling onto
+   processors. Students are also required to have experience with
+   execution platforms and the mapping of high level language to
+   low-level instructions. Finally, students are required to be
+   able to implement hash maps and binary search
+   trees."
+62413,"Solid experience with at least one object oriented language
+like Java or C++"
+62416,"62550, You have experience in app
+development (native Android in Kotlin or iOS app coded in
+Swift)."
+62735,"01901/01920, Calculus and Algebra 1 Calculus
+   and Algebra 2"
+62767,3003262732
+62768,300326273262767
+33471,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)"
+62420,"Documented knowledge corresponding to the admission
+requirements for the Healthcare Technology Engineer study
+programme."
+62422,None
+62423,"01901/62420/62422/62424/62523, Knowledge corresponding to
+   courses 01901 Calculus and algebra 1, 62420 Information
+   Technology 1, 62422 Bio-medical electronics 1, and 62523
+   Healthcare Science 1"
+62450,62420
+62452,01901/62422
+62453,"62450/62452/62454/62516, Knowledge equivalent to the
+   semester's courses: 62450 Information Technology 2, 62452
+   Bio-medical electronics 2, 62454 Healthcare Science 2, 01920
+   Calculus and Algebra 2"
+62454,"Documented knowledge equivalent to the 1st semester classes in
+healthcare science."
+62484,"62418.62581.62908, Knowledge corresponding to the
+   semester courses."
+62512,"Competencies corresponding to SU-MAT2, SU-IT2, SU-IT3 and
+SU-KOM1."
+62517,62482
+62521,"62423.62453.62484, Courses corresponding to
+   completed 3. semester Healthcare
+   Technology"
+62523,"Documented knowledge corresponding to the matriculation level
+of the education program."
+62560,"62480.­62481.­62482.­62483.­62484, Documented knowledge equivalent
+   to the study programme's 3rd
+   semester"
+62581,62420.62450
+62908,"01901.­62420.­62422.­62423.­62523.­62450.­62452.­62453.­62454.­62516, Documented knowledge equivalent
+   to the 1st and 2nd semester classes in health
+   care."
+30794,"30120/30790, It is recommended to take 30790
+   (Observational X-ray Astrophysics) first."
+34372,"34666, The course is based on the project
+description that was an assignment in course 34366."
+02320,62505.01904
+02321,"(02320/(02328.­02329)).­(62507/62557/02322).­(62505/02311) , Skills in C programming.
+   Knowledge of basic computer architecture. Knowledge of digital
+   electronics and VHDL. Skills in assembly language programming.
+   Knowledge of embedded systems."
+62514,62557
+62575,02325/62577/62443/62581
+30720,10033.­10034.­(30400/31400/10036).­(02631/02632/02633)
+41029,"41028/02631/02632/02633, Design of mechatronic systems 1 and
+Introduction to programming and data
+processing"
+42022,42011
+22107,"27015, or similar to 27015. Some of the
+projects may have particular qualified
+prerequisites"
+34352,34350
+28216,"A Bsc or BEng in Chemistry or Chemical Engineering plus at
+least one of the courses 28213, 28310, and
+28315."
+02492,"02402/02403, or equivalent course in
+   introductory statistics"
+23257,"Advanced Engineering Mathematics 1 Basic Python
+programming"
+22510,"22476.34021, In a draw, Biomedical Engineering
+   students who have passed course 34021 will be given
+   priority."
+30352,"30350, Remote Sensing; Knowledge of
+programming, e.g. MATLAB"
+30554,30552
+62527,"You must have programming knowledge and desire to learn more
+programming. The course introduces R/Python. Bring your own PC
+(Mac, Windows or Linux). Depending on your data size you must
+expect to allocate funds for the storage and processing of the
+data."
+62415,"Understanding of object oriented programming and the event
+model in graphical user interfaces. Knowledge of network
+communication is an advantage."
+62520,Basismat
+01902,01901
+62524,Basismat
+62598,"Programmering skills similar to course 02324 Advanced
+Programming."
+47210,"(01005/01006/10018/10020/10022/10024).­(26000/26026/26027/26028/26050/26171) , It is recommended that you have
+   taken general physics and chemistry courses."
+30550,"(02402/02601/02534).­(02631/02632/02633) , Basic statistics and numerical
+   algorithms."
+30730,10033.­01005.­(10036/31400).­(02631/02632/02633)
+34318,"02002/02003/02101/02102.34311/34313.02105/02161. , Participation in the course
+   assumes a general knowledge of modern communication networks and
+   protocols in addition to software
+   development."
+41809,"02631/62646.41502/41534, Comprehensive knowledge is
+   expected within general stress and strain states (41502/41534 or
+   similar) as well as good computer programming background
+   (02631/62646 or similar experience)."
+02946,"Experience with Matlab programming (e.g, 02631/33) and
+numerical computations (e.g., 02601)."
+30140,01035.­10033.­10034.­30130.­02633
+27617,BSc. in Biotechnology or equivalent
+33481,33236
+02953,"01005/01020.02601.02610, Coursework in linear algebra
+   (e.g. 01005/01020) and numerical algorithms (e.g., 02601),
+   introductory-level coursework in optimization (e.g., 02610), a
+   certain degree of mathematical maturity, and proficiency in a
+   high-level programming language such as MATLAB, Python, or
+   Julia."
+62081,"It is recommended that the student masters a mathematics level
+corresponding to level B and masters a physics level corresponding
+to level B."
+62088,"All 1st. semester courses must be
+attented"
+30786,"01035.­(31400/10036).­10033.­(30120/30790) , It will be an advantage to know
+   about solid state physics (e.g. 10850)."
+46800,"To be determined in agreement with the supervisor. Some of the
+projects may have particular qualified prerequisites"
+22284,"Basic cell biology (e.g. KU011 or
+27002)"
+62221,None
+22142,"(27002/27008).­(22111/36611)/27633, Knowledge of cell structure, its
+   biological function, subcomponents, biochemical and molecular
+   processes (metabolism, RNA- and protein synthesis), structure of
+   DNA, protein-coding genes, the standard genetic code, the
+   primary (sequence), secondary (helices/coils), tertiary (3D) and
+   quaternary (complex) structure of proteins. Basic knowledge and
+   ability to apply bioinformatics methods and the knowledge to
+   collect and process relevant biological data from large-scale
+   databases."
+23213,26000/26050.­27002/27008.­27004/36004/22104
+23155,"Students should have finished a bachelor’s degree in food
+science, health science, engineering, biology, chemistry, physics
+or similar topics."
+22437,"01005.­(22433/(22438.­22439))/((30015/30032/34600).­(30010/62734/62752))/(62422.­62452) , Competencies in analysis,
+   simulation, and construction of DC circuits and programming of
+   ATmega 328p microcontrollers in C are essential."
+22447,"It is an advantage, but not a requirement, to have prior course
+work in electric circuits."
+22432,(31501/22431).KU002
+23534,"The course is open for students (incl. MSc and BSc students)
+who have passed 100 ECTS points of their bachelor programme in Food
+science, Food technology, Biotechnology, Bio Engineering, Business
+or a related area. International students from non-English speaking
+countries must have sufficient English qualifications to
+participate actively at a high level in group discussions and
+report writing (Danish students are fluent in written and spoken
+English and international students are expected to be at the same
+level. If in doubt contact the course responsible in
+advance)."
+62763,"To get the full benefit from the course, students are expected
+to simultaneously follow the courses: 62762, 62763 and
+62773."
+62764,"62762/62763/62773, To get the full benefit from the
+   course, students are expected to simultaneously follow the
+   courses: 62764 and 62774."
+62773,"Basic vector calculations, scalar and vector product, triple
+scalar product, basic differentiation and integration in 3
+variables."
+62774,"62773, It is extremely important to pass
+62773 Electrophysics 1 in the autumn semester before you follow
+62774 Electrophysics 2 in the spring semester!"
+62748,"62773, 62773 Electrophysics 1 (not a
+mandatory prerequisite, you can easily take the course without
+having had Electrophysics 1)"
+62794,01901
+62518,62525
+62695,41681.41787.41788
+02322,"02312/02314, Programming skills using an
+   imperative programming language (like for example
+   Java)."
+62597,"Knowledge of Java, object-oriented programming and basic
+understanding of multithreaded programming. Knowledge of network
+protocols, including TCP/IP and HTTP."
+25320,"It is expected that students have basic knowledge about one or
+several of the following topics: aquatic biology, management of
+natural resources, fisheries. Students who do not have the
+necessary prerequisites can not be guaranteed extra academic
+counseling during the course. If you are in doubt if you have the
+expected requirements, please send an inquiry email to the course
+responsible and list your prerequisites and explain your
+doubts."
+23924,Have fulgt kurset Biologisk kemi23932
+23935,"26171/23932, 23932, latest at the same
+   time"
+23962,Teaching mainly in Danish
+47332,"47205/10031/02631, Bachelor in Physics and
+   Nanotechnology, or Chemistry and Technology, or Production and
+   Construction, or Electro Technology, or General Engineering, or
+   Software Technology, or Mathematics and Technology, or
+   similar."
+34269,Matlab or Python programming
+36612,"27610, To participate in the course you
+must be very comfortable with programming. Knowing Perl or Python
+is necessary."
+31534,"Advanced Engineering Mathematics 1, Physics 1, Human biology,
+experienced Matlab user."
+62437,"62522/62567/62550, You have experience in app
+   development (native Android in Java or iOS app coded in
+   Swift)."
+62530,"62577/62443/62581/62229, Data communication and
+   programming and system architecture
+   skills"
+34332,"34331eller
+tilsvarende"
+62531,"02312/0231402315, The course provides the project
+   foundation in DTU's CDIO concept. It is required to follow
+   courses 02312/02314 and 62532 at the same time, or that similar
+   prerequisites have been attained."
+62532,"It is required to follow course 62531 and 02312/14 at the same
+time, or that you have similar
+prerequisites."
+62640,"62133, Some knowledge of supply chains,
+inventory management theory is
+recommended"
+34022,"34020or10041, or any other courses with basic
+knowledge of optics and electromagnetism"
+62297,62273.62279.62269
+46920,"M.Sc. in Engineering, Physics, Mathematics or similar"
+02590,"02402, In addition to 02402, it is
+desirable (but not required) to have attended 02586. Course does
+not have formal requirements in biology or genetics or
+biotechnology but concepts and applications taught in this course
+would require a mature understanding in these areas and an interest
+in linking quantitative, statistical, mathematical and
+computational methods with life science areas."
+01618,"01617, Basic knowledge of nonlinear
+differential equations, phase portraits, (local) invariant
+(stable/unstable/center) manifolds and local bifurcation
+patterns."
+02840,"02823.02564, Courses in prototyping of
+   computer games and real-time graphics"
+02841,"02840, This course is the second half of
+the DADIU educational element and cannot be followed independently
+from 02840. Also requires that the student is signed up for
+DADIU."
+62191,42980/42270/62276
+62627,"62623, The course is a capstone course with
+multiple expectations that students have skills in geographic
+information systems, transport analysis, and transport
+planning."
+62637,"62668, Students should have previously
+passed a course covering descriptive statistics, distribution
+fitting, and hypothesis testing. This is a firm
+requirement."
+62368,62270
+27107,"27009/27010/27015, or similar to 27009/27010/27015.
+   Some of the projects may have particular qualified
+   prerequisites"
+22448,"It is an advantage, but not a requirement, to have prior course
+work in electric circuits."
+10862,"If you have completed 3 semesters on an engineering or natural
+science education, you can participate in the course regardless of
+study background."
+41201,"Academic level in math and physics corresponding to the first
+year of studies."
+62171,-
+41689,"41659/41684, basic materials
+   science"
+26174,"26171, followed simultaneously"
+23936,"26471/23932, see Danish version"
+62051,"62009.62008.62030.10935, The course builds on the
+   knowledge and skills that are acquired through the courses
+   ""62009 Material science"", ""62008 Product
+   development - The stages and processes of product
+   development"", ""62030 From idea to checkout"", and
+   ""10935 Physics 1""."
+46010,Familiar with construction and programming
+62621,42973.42941.62619
+42385,"426344243642435, X-Tech Entrepreneurship;
+Commercialization of high tech concepts, entrepreneurship and
+science in action; Knowledge-based Entrepreneurship or similar
+courses."
+62049,"Enten62018eller62019eller62048, It is highly recommended that
+students have either completed on of the courses mentioned above or
+have experience med user interviews or user test from somewhere
+else - interviews or user tests with participation of actual end
+users, that is. If you don't have that you must contact the
+lecturer. You also have to be prepared to catch up by doing extra
+reading and being an 'apprentice' to more experienced
+students."
+25616,"25335, Recommended, but not a
+prerequisite."
+25305,25321/25316
+33103,"General immunology (corresponding to #27322: Immunology).
+General knowledge of cell biology and physiology."
+30552,02402
+22053,(31561/22052).­(31545/22485)/(31560/22055)
+62365,"62325/62328, It is recommented that you have
+   had your intership before following the
+   course."
+62122,Passed the first four semesters of your study.
+62174,62223
+62220,"62219, Prerequesites to follow the course
+is that course 62219 has been followed and that mandatory
+assignments is approved."
+62224,-
+62225,"Passed The English-Speaking World and Academic Writing in
+English"
+62228,62161.­62171.­62174.­62223.­62239.­
+62229,62161.62171.62187.62188
+62230,"62171, Course 62229, 62232 and 62233 have
+to be read before this course."
+62239,62171
+62241,62223.62174.62079.62008.62239
+62547,"Student must know one of the programming languages: Java, C#,
+PHP, Python, C, or C++. Student should have basic knowledge of
+digital hardware."
+62444,62518/62533/62669
+42386,42436
+62142,"It is recommended that the students have completed their
+internship"
+62045,"(62009)
+(62008)
+(62035) , The course builds on the knowledge
+and skills that are acquired through courses Product 1, Product 2
+and Product 3"
+62438,"The first 4 semesters must be passed. Knowledge in a 3D game
+engine, such as Unity, Unreal Engine or JMonkeyEngine is
+recommended"
+62572,"02324/02343/62507/02321/62716/62734/31301/62752/62194, Teams between students from
+   different educations Software technology, it-electronics
+   ,Electro-technology, It and Electronics, mechanics with
+   mecatronic specialisation, Global Business Engineering, should
+   be made, therefore not all pre-required courses needs to be full
+   filled. If in doubt contact the
+   educator"
+42143,Upon agreement
+34364,34311/34330/34343
+02906,"Experience with Matlab programming (e.g, 02631/33), numerical
+computations (e.g., 02601) and partial differential equations
+(e.g., 01246/01418) Experience with optimization theory and
+algorithms (e.g., 02610) and functional analysis (e.g.,
+01715)"
+34371,34315/34330/34313/34346/34333
+02964,A basic understanding of programming in any language
+02947,"Basic understanding of partial differential equations,
+functional analysis and numerical methods for PDE's is highly
+recommended."
+62548,"Student must know one of the programming languages: Java, C#,
+PHP, Python, C or C++. Student should have basic knowledge of
+digital hardware."
+62160,-
+62165,-
+62186,62176
+62190,"62160.62170.62180, Passed English 1 - US Civics and
+   Academic Writing 1; passed English 2 - US Civics and Academic
+   Writing 2; passed English 3 - UK Civics and Academic Writing
+   3."
+62193,"62194.­62197.­62190.­62161.­62171.­62180.­(62182/62185/62186).­(62192/62185/62196) , Courses 62197, 62194 and 62190
+   should be read parallel to this
+   course."
+62196,"62186, German Culture and Civics 2 should
+be passed"
+62197,62161.62171.62187.62188
+62204,"For non-Export Engineering students: Basic material
+science."
+62516,Basismat
+62180,"62160.62170, Passed English 1 - US Civics and
+Academic Writing 1 and passed English 2 - US Civics and Academic
+Writing 2."
+62216,"Enrolled in theory courses 62009 (Product Development
+1-Material Science for Process & Innovation), 62008 (Product
+Development 2-Product development phases and progression), and
+62217 (Sustainable Business Development) prior to project
+work"
+62217,"62161og62171, It is required that you are
+registered for courses 62009 (Product Development 1-Material
+Science for Process & Innovation) and 62008 (Product
+Development 2-Product development phases and
+progression)"
+62482,"62516, The course is delivered in
+Danish."
+23551,"Knowledge of and interest in microbial quality and safety of
+food"
+62551,"62402.62432, Good experience of programming.
+   Knowledge about databases on an introductory
+   level."
+62195,62175/62185
+62244,"Completed engineering traineeship and passed the first five
+semesters with a maximum of 10 ECTS lacking at the beginning of the
+semester."
+62050,"62019, It is strongly recommended that
+participants have taken the course 62019 Interaction Design - or in
+some other ways have obtained similar competencies - especially
+within the area of user interviews and user testing. All students
+from the programm of Process & Innovation are qualified - also
+students who haven't taken the course in Interaction
+Design."
+62170,"62160, Passed English 1 - US Civics and
+Academic Writing 1"
+62185,62175
+62227,"62161og62171, It is required that the student
+registered for courses 62009 (Product Development 1-Material
+Science for Process & Innovation) and 62008 (Product
+Development 2-Product development phases and
+progression)"
+62247,62175.62185.62195
+62242,"French courses from earlier semesters should be
+passed"
+47311,"Bachelor in Physics and Nanotechnology, Chemistry and
+Technology, Production and Construction, Electro Technology or
+similar"
+62187,"62161, It is recomended that you have
+passed the course Business Economics 62161 and Marketing Management
+62171."
+62092,"01901, Calculus and algebra
+1"
+62209,Basic PC-skills
+62567,"Interest in software development. Good understanding of object
+oriented programming, preferably in Java, and the event model in
+graphical user interfaces. Knowledge of network communication is an
+advantage."
+62222,62483.62510.62511
+62474,"62450, Good experience of
+programming"
+62237,"The stundent must have completed the full
+internship."
+62441,-
+02960,0240202417
+62035,"(62009)
+(62008) , The course builds on the knowledge
+and skills that are acquired through courses Product 1 and Product
+2"
+02941,"02562, or a similar course (some knowledge
+of heat transfer and Maxwell's equations is an
+advantage)"
+62419,"62407/62501/62530/62575/02233, Software Technology students need
+   62530 in advance. Other students need skills from one or more of
+   listed courses - or similar courses. You need the basic security
+   knowledge and also programming and system architecture
+   skills."
+62796,"01901, (or equivalent), combined with the
+kind of mathematical insight one obtains by completing one or more
+wholly or partially mathematically oriented courses, broadly
+speaking with a good result"
+62379,"The student must have passed all courses 1st to 4th semester.
+The students is recommended to have follow the course package
+'Environment and Infrastructure'"
+25202,"25201, -"
+25203,25202
+62326,"01901, Calculus and algebra
+1"
+30090,"30080, Digital electronics, HDL,
+FPGA."
+26432,"26411.27002/27020, Organic Chemistry 2.
+   Bioscience."
+02962,Familiarity with numerical computations.
+10610,Very good command of the English language
+41690,41658/41650/41659
+36107,"27009/27010/27015, or similar to 27009/27010/27015.
+   Some of the projects may have particular qualified
+   prerequisites"
+10044,"(10018/10020/10022/10024).­01005, Physics 1 and Math
+   1"
+11467,"11411.11463.11464.11465, Please take note that advanced
+mechanics concepts are introduced and utilized in this course; that
+is, it is best suited for students that naturally gravitate towards
+analytic treatment. Coding ability is required for performing the
+tasks."
+62382,"The student must have passed 62331 BYG-2, 62333 BYG-PRO, 62341
+INF-2, 62343 INF-PRO"
+12813,"This course is only open for DTU students at the MSc
+Environmental Engineering programme."
+62615,"The first 2 year studies passed on an education equivalent to
+DTU Diplom"
+42505,38101/38103/41010/41051/41083/41603/41612/41635/42011/42022/42081/42430/42500/42501/42504/62004/62018/62008/62043/62999/PhD
+12933,"The students must have sufficient command of written scientific
+English. Evidence of English proficiency may be requested (e.g.
+attestation of attendance to an English course or
+equivalent)"
+28917,"Masters level courses in thermodynamics, physical
+chemistry."
+28928,"MSc Chemical Engineering. Good knowledge of chemical
+thermodynamics"
+34150,34130/34140/34153
+26925,"26444, DTU course Organic Chemistry 4 or
+equivalent"
+22233,"27002/27008.27026.25106eller lignende. , Basic knowledge
+   of cell biology and molecular biology methods."
+28904,"Polymer technology, physical chemistry and basic knowledge of
+statistical physics."
+12811,"This course is only open for DTU students enrolled on the BSc
+Environmental Engineering programme."
+31359,"Power electronics, control, analog and digital signal
+processing, linear and nonlinear circuits, and
+electromagnetism."
+31324,31310
+34344,"34330/34341/34350/34355, Participation in the course
+   assumes that the participants has experience with software
+   development in C/C++."
+34059,34033/34053
+34902,"Some knowledge on photonics – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+34360,"34342.34344, 34342 Teletraffic Engineering 34344
+Modelling and simulation of communication networks and
+protocols"
+22234,"27002/27008.27026.25106eller lignende. , Basic knowledge
+   of cell biology and molecular biology methods."
+02624,"01035.02601, Experience with advanced
+   engineering mathematics (e.g. 01035) and numerical computations
+   (e.g., 02601)"
+34019,10030
+22507,"22506, The course requires extensive prior
+MR knowledge corresponding to the end level of DTU course 22506
+Medical Magnetic Resonance Imaging."
+34801,"Some knowledge on telecommunication – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+29900,"Ph. D. –level students with a B.Sc. and/or M.Sc. degree in any
+biological science or chemistry are eligible to apply."
+27042,"(27002.­(27611/27622))/27633, Knowledge of cell structure, its
+   biological function, subcomponents, biochemical and molecular
+   processes (metabolism, RNA- and protein synthesis), structure of
+   DNA, protein-coding genes, the standard genetic code, the
+   primary (sequence), secondary (helices/coils), tertiary (3D) and
+   quaternary (complex) structure of proteins. Basic knowledge and
+   ability to apply bioinformatics methods and the knowledge to
+   collect and process relevant biological data from large-scale
+   databases."
+24802,Immunology 101
+33477,"The course will be made to fit your level of competence
+(beginner, experienced, advanced)"
+62016,"01901, Calculus and Algebra I or
+equivalent."
+31290,31200/31220/31265
+27411,"02402, Understanding of statistical
+thinking and methods. Understanding of random variation and of the
+use of statistical models. Understanding of important statistical
+principles for collection and analysis of data and methods for
+model choice, estimation, testing and model verification. Handle a
+number of elementary problems which occur frequently in engineering
+practice and thus enabled to critically assess statistical
+(empirical) investigations and references."
+23711,"The student is expected to be familiar with basic engineering
+concepts, both mathematical (e.g. solving algebraic equations,
+variable changes) and physical (e.g. density, temperature); as well
+as the use of spreadsheets."
+02940,at least a B.Sc. in applied mathematics
+27626,"27231/(27230.­27430).­27619.­27610, Elementary computer skills (i.e.
+   locate files via command line etc.)"
+41843,10022/62163.­41501/41533.­41714
+27820,"A basic knowledge of microbiology and laboratory
+techniques."
+01236,01330/01125
+62595,"(02312/02314.­62532).­62531.­02327.­02362.­02369.­62443, Knowledge of Java,
+   object-oriented programming and basic understanding of
+   multithreaded programming. Knowledge of network protocols,
+   including TCP/IP and HTTP. The course 62443 can be followed in
+   parallel with 62595."
+62549,"62402.62432, Solid experience with at least
+   one OO language like Java or C++"
+62183,"It is an advantage if the student masters a mathematics level
+corresponding to level B with a knowledge of differential equations
+and masters a physics level corresponding to level
+B."
+02920,"Masters degree or equivalent in engineering, mathematics or
+computer science. Proficiency in the use of Matlab or Python are
+assumed. Some familiarity with CAD software such as Rhino would be
+helpful."
+25204,"62664/25205/25204/62054, Se dansk version"
+28122,"28020.28022, Theoretical background in chemical
+unit operations is necessary, for instance according to the
+textbook of McCabe et al: Unit Operations of Chemical Engineering.
+In addition ordinary university knowledge on inorganic, organic and
+analytical chemistry, thermodynamics, physics and
+matematics."
+42717,"PhD student within technical subjects or industrial engineer
+with relation to gas Profesional within the gas/ energy
+industry"
+41889,"Ability to work independently and systematically. Each research
+project has in addition specific academic prerequisites."
+11627,11121/02601.02101/02102
+31930,"Some of the projects may have particular qualified
+prerequisites."
+02453,"02451, Elementary digital signal
+processing"
+31281,31200/31220/31265
+31389,31388
+31931,"Some of the projects may have particular qualified
+prerequisites."
+47322,"BSc degree in Chemistry and Technology, Physics and
+Nanotechnology, General Engineering, Artificial intelligence and
+Data, Mathematics and Technology or similar BSc degree."
+31795,"Knowledge regarding advanced topics within electric power and
+energy is expected. MSc students are only able to follow the course
+after prior agreement with the course
+responsible."
+42712,42002
+34121,34120
+34901,"Some knowledge on photonics – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+02972,"02110.02289/02282, or a project in algorithms.
+   Scientific, mathematical, and algorithmic maturity."
+62231,62224.62225.
+02955,01715
+25209,"25202/25203/25204, 25202, 25203 and 25204 are
+   recommended."
+62243,"Introductory courses in Operations Management, business
+economics / managerial economics (including investments and
+finance), and sustainability. The course builds on methods and
+theory from Operations Management, Business Economics, and a basic
+course in sustainability. These methods and theory are
+prerequisites that students must have prior to
+enrollment."
+34904,"Some knowledge on photonics – some projects might have
+individual prerequisites (please contact the course responsible for
+details)"
+26702,"Some of the projects may have particular qualified
+prerequisites."
+62522,62402.62432
+62380,"Compulsary courses on 1st - 4th semester must be passed.
+Internship must be passed"
+62393,62337
