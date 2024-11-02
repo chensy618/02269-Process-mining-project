@@ -4,29 +4,64 @@ from pm4py.objects.dcr.obj import DcrGraph
 from pm4py.objects.dcr.exporter import exporter as dcr_exporter
 
 # Load the JSON data from the file
-with open('src\pre-requisites\compute_course_prerequisites.json', 'r') as file:
+with open('src\\pre-requisites\\format_course_prerequisites.json', 'r') as file:
     data = json.load(file)
 
 # Initialize the DCR graph
 graph = DcrGraph()
 graph_demo = DcrGraph()
 
-# Function to add conditions (AND relationships)
-def add_conditions(graph, course, conditions):
-    for condition in conditions:
-        if isinstance(condition, list):  # Nested AND relationships
-            for sub_condition in condition:
-                graph.conditions[course] = graph.conditions.get(course, set()) | {sub_condition}
+# Function to add AND conditions with nested OR using placeholders
+def add_and_relation(graph, course, relations):
+    for relation in relations:
+        if isinstance(relation, list):  # Nested OR relationship within an AND condition
+            # Create a placeholder event for the OR group within the AND relation
+            placeholder_event = f"subgroup_{course}_and"
+            graph.events.add(placeholder_event)
+            graph.labels.add(placeholder_event)
+            graph.label_map[placeholder_event] = f"Subgroup for {course} (OR)"
+
+            # Add each OR condition event explicitly to the subgroup
+            for sub_relation in relation:
+                graph.events.add(sub_relation)
+                graph.labels.add(sub_relation)
+                graph.label_map[sub_relation] = sub_relation
+
+                # Link each individual event to the placeholder for clear grouping
+                graph.conditions[placeholder_event] = graph.conditions.get(placeholder_event, set()) | {sub_relation}
+
+            # Add a condition from the main course to the placeholder event (representing the OR group)
+            graph.conditions[course] = graph.conditions.get(course, set()) | {placeholder_event}
         else:
-            graph.conditions[course] = graph.conditions.get(course, set()) | {condition}
+            # Standard AND condition, linking directly
+            graph.conditions[course] = graph.conditions.get(course, set()) | {relation}
 
-# Function to add responses (OR relationships)
-def add_responses(graph, course, responses):
-    for or_group in responses:
-        for response in or_group:
-            graph.responses[course] = graph.responses.get(course, set()) | {response}
+# Function to handle OR conditions using a placeholder event
+def add_or_relation(graph, course, relations):
+    # Flatten the OR groups into a single list of responses
+    flattened_relations = [relation for or_group in relations for relation in or_group]
+    
+    # Only proceed if there are OR conditions
+    if flattened_relations:
+        # Create a placeholder event for all OR conditions for the course
+        placeholder_event = f"subgroup_{course}_or"
+        graph.events.add(placeholder_event)
+        graph.labels.add(placeholder_event)
+        graph.label_map[placeholder_event] = f"Subgroup for {course} (OR)"
 
-# Iterate over the parsed data to create the DCR graph
+        # Add each OR prerequisite as an individual event in the subgroup
+        for relation in flattened_relations:
+            graph.events.add(relation)
+            graph.labels.add(relation)
+            graph.label_map[relation] = relation
+
+            # Link each individual event to the placeholder for clear grouping
+            graph.conditions[placeholder_event] = graph.conditions.get(placeholder_event, set()) | {relation}
+
+        # Add a condition from the main course to the placeholder event (representing the OR group)
+        graph.conditions[course] = graph.conditions.get(course, set()) | {placeholder_event}
+
+# Iterate over the parsed data to create the full DCR graph
 for course, prerequisites in data.items():
     # Add the course as an event in the DCR graph
     graph.events.add(course)
@@ -34,27 +69,36 @@ for course, prerequisites in data.items():
     graph.label_map[course] = course
 
     # Handle AND conditions
-    add_conditions(graph, course, prerequisites.get('and', []))
+    add_and_relation(graph, course, prerequisites.get('and', []))
     
     # Handle OR conditions
-    add_responses(graph, course, prerequisites.get('or', []))
-    
-# Generate a demo DCR graph for testing by using the top 20 courses in the JSON file
+    add_or_relation(graph, course, prerequisites.get('or', []))
+
+# Use the top 20 courses to create a demo DCR graph for testing
 for course, prerequisites in list(data.items())[:20]:
-    # Add the course as an event in the DCR graph
+    # Add the course as an event in the demo DCR graph
     graph_demo.events.add(course)
     graph_demo.labels.add(course)
     graph_demo.label_map[course] = course
 
     # Handle AND conditions
-    add_conditions(graph_demo, course, prerequisites.get('and', []))
+    add_and_relation(graph_demo, course, prerequisites.get('and', []))
     
     # Handle OR conditions
-    add_responses(graph_demo, course, prerequisites.get('or', []))
+    add_or_relation(graph_demo, course, prerequisites.get('or', []))
 
+# View and export the DCR demo graph
 pm4py.view_dcr(graph_demo)
+
+# View and export the full DCR graph
 pm4py.view_dcr(graph)
 
-# Export the DCR graph to a file
-dcr_exporter.apply(graph, 'src\model\compute_course_prerequisites.dcr')
+# Export the DCR demo graph to a file
+output_file_demo = 'src\\model\\course_prerequisites_demo.dcr'
+dcr_exporter.apply(graph_demo, output_file_demo)
+print(f"DCR demo model created and exported to {output_file_demo}")
 
+# Export the full DCR graph to a file
+output_file_full = 'src\\model\\course_prerequisites.dcr'
+dcr_exporter.apply(graph, output_file_full)
+print(f"DCR model created and exported to {output_file_full}")
