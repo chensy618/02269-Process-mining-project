@@ -19,6 +19,7 @@ def add_and_relation(graph, course, relations):
             placeholder_event = f"subgroup_{course}_and"
             graph.events.add(placeholder_event)
             graph.labels.add(placeholder_event)
+            graph.marking.included.add(relation)
             graph.label_map[placeholder_event] = f"Subgroup for {course} (OR)"
 
             # Add each OR condition event explicitly to the subgroup
@@ -102,3 +103,13 @@ print(f"DCR demo model created and exported to {output_file_demo}")
 output_file_full = 'src\\model\\course_prerequisites.dcr'
 dcr_exporter.apply(graph, output_file_full)
 print(f"DCR model created and exported to {output_file_full}")
+
+
+log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\original_data.xes")
+align_res = pm4py.optimal_alignment_dcr(log, graph, return_diagnostics_dataframe=True)
+print(align_res)
+conf_res = pm4py.conformance_dcr(log, graph, return_diagnostics_dataframe=True)
+print(conf_res)
+# export the results to a csv file
+conf_res.to_csv('D:\\Github\\02269-Process-mining-project\\data\\conformance_results.csv', index=False)
+align_res.to_csv('D:\\Github\\02269-Process-mining-project\\data\\alignment_results.csv', index=False)
