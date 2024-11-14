@@ -1,6 +1,7 @@
 import pandas as pd
 
 import pm4py
+import pm4py.objects.dcr
 from pm4py.objects.dcr.hierarchical.obj import HierarchicalDcrGraph
 graph = HierarchicalDcrGraph()
 graph.events.add("activity1")
@@ -17,6 +18,7 @@ graph.conditions["activity3"] = {"group1"}
 graph.marking.included.add("activity1")
 graph.marking.included.add("activity2")
 graph.marking.included.add("activity3")
+
 
 pm4py.view_dcr(graph)
 
