@@ -2,6 +2,14 @@ import json
 import pm4py
 from pm4py.objects.dcr.hierarchical.obj import HierarchicalDcrGraph
 from pm4py.objects.dcr.exporter import exporter as dcr_exporter
+from pm4py.objects.log.util import dataframe_utils
+from pm4py.objects.log.obj import EventLog, Trace
+from pm4py.objects.log.exporter.xes import exporter as xes_exporter
+import pandas as pd
+from pm4py.algo.discovery.alpha import algorithm as alpha_miner
+from pm4py.visualization.petri_net import visualizer as pn_visualizer
+
+
 
 # Load JSON data for course prerequisites
 with open('src\\pre-requisites\\format_course_prerequisites.json', 'r') as file:
@@ -107,9 +115,69 @@ dcr_exporter.apply(graph_demo, "D:\\Github\\02269-Process-mining-project\\data\\
 # conformance checking with the event log
 # log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\student-1-3.xes")
 log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\students-1000.xes")
-
+print("please wait, this may take a while...")
 conformance_results = pm4py.conformance_dcr(log, graph, group_key="org:resource", return_diagnostics_dataframe=True)
 print(conformance_results)
 
 # Export conformance results to CSV
-conformance_results.to_csv('D:\\Github\\02269-Process-mining-project\\data\\conformance_results-1000.csv', index=False)
+conformance_results.to_csv('D:\\Github\\02269-Process-mining-project\\data\\conformance_checking\\conformance_results_hierarchical.csv', index=False)
+
+# Ensure the timestamp column is correctly parsed
+log["time:timestamp"] = pd.to_datetime(log["time:timestamp"])
+
+# Helper function to filter DataFrame by Case IDs
+def filter_log_by_case_ids(df, case_ids):
+    return df[df["case:concept:name"].isin(case_ids)]
+
+# Convert DataFrame to EventLog
+def dataframe_to_eventlog(df):
+    event_log = EventLog()
+    for case_id, group in df.groupby("case:concept:name"):
+        trace = Trace()
+        trace.attributes["concept:name"] = case_id
+        for _, event_data in group.iterrows():
+            event = {
+                key: event_data[key] for key in df.columns if not pd.isnull(event_data[key])
+            }
+            trace.append(event)
+        event_log.append(trace)
+    return event_log
+
+# Generate and save Petri net
+def generate_petri_net(event_log, log_name):
+    print(f"Generating Petri net for {log_name}...")
+    net, initial_marking, final_marking = alpha_miner.apply(event_log)
+
+    # Visualize the Petri net
+    print(f"Visualizing Petri net for {log_name}...")
+    gviz = pn_visualizer.apply(net, initial_marking, final_marking)
+
+    # Save the Petri net visualization
+    pn_visualizer.save(gviz, f"D:\\Github\\02269-Process-mining-project\\data\\conformance_checking\\{log_name}_petri_net_hierarchical.png")
+
+    print(f"Petri net for {log_name} generated and saved!")
+
+# Split the log based on deviation
+print("Splitting the log based on deviation values...")
+conformant_case_ids = conformance_results[conformance_results['no_dev_total'] < 5]['case_id'].tolist()
+non_conformant_case_ids = conformance_results[conformance_results['no_dev_total'] >= 5]['case_id'].tolist()
+
+conformant_log_df = filter_log_by_case_ids(log, conformant_case_ids)
+non_conformant_log_df = filter_log_by_case_ids(log, non_conformant_case_ids)
+
+# Convert DataFrames to EventLogs
+print("Converting DataFrames to EventLog format...")
+conformant_log = dataframe_to_eventlog(conformant_log_df)
+non_conformant_log = dataframe_to_eventlog(non_conformant_log_df)
+
+# Export the logs to XES format
+print("Exporting the logs to XES format...")
+xes_exporter.apply(conformant_log, "D:\\Github\\02269-Process-mining-project\\data\\conformance_checking\\conformant_log_hierarchical.xes")
+xes_exporter.apply(non_conformant_log, "D:\\Github\\02269-Process-mining-project\\data\\conformance_checking\\non_conformant_log_hierarchical.xes")
+
+# Attention : the following code is commneted out, because it costs too much time to run
+# Generate Petri nets
+# generate_petri_net(conformant_log, "test_conformant_log")
+# generate_petri_net(non_conformant_log, "test_non_conformant_log")
+
+print("Logs successfully split, exported!")
