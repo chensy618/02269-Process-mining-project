@@ -63,7 +63,6 @@ dcr_exporter.apply(graph_demo, output_file_demo)
 print(f"DCR demo model created and exported to {output_file_demo}")
 
 
-
 # Export the full DCR graph to a file
 output_file_full = 'src\\model\\course_prerequisites_and.dcr'
 dcr_exporter.apply(graph, output_file_full)

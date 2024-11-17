@@ -109,12 +109,12 @@ dcr_exporter.apply(graph, output_file_full)
 print(f"DCR model created and exported to {output_file_full}")
 
 # export to the xml file
-dcr_exporter.apply(graph, "D:\\Github\\02269-Process-mining-project\\data\\dcr_model.xml")
-dcr_exporter.apply(graph_demo, "D:\\Github\\02269-Process-mining-project\\data\\dcr_model_demo.xml")
+dcr_exporter.apply(graph, "D:\\Github\\02269-Process-mining-project\\data\\dcr_model_hierarchical.xml")
+dcr_exporter.apply(graph_demo, "D:\\Github\\02269-Process-mining-project\\data\\dcr_model_demo_hierarchical.xml")
 
 # conformance checking with the event log
 # log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\student-1-3.xes")
-log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\students-1000.xes")
+log = pm4py.read_xes("D:\\Github\\02269-Process-mining-project\\data\\students-10000.xes")
 print("please wait, this may take a while...")
 conformance_results = pm4py.conformance_dcr(log, graph, group_key="org:resource", return_diagnostics_dataframe=True)
 print(conformance_results)
