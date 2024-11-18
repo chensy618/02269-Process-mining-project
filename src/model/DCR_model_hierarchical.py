@@ -29,6 +29,7 @@ def add_and_relation(graph, course, relations):
                 or_group = f"or_group_{course}_{len(graph.nestedgroups)}"
                 graph.nestedgroups[or_group] = set(relation)
                 graph.nestedgroups[and_group].add(or_group)
+                graph.nestedgroups_map[or_group] = and_group
                 graph.marking.included.add(relation)
                 graph.marking.included.add(or_group)
                 graph.marking.included.add(and_group)
