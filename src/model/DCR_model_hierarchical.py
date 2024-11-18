@@ -44,6 +44,7 @@ def add_and_relation(graph, course, relations):
                 graph.labels.add(relation)
                 graph.label_map[relation] = relation
                 graph.nestedgroups[and_group].add(relation)
+                graph.nestedgroups_map[relation] = and_group
                 graph.marking.included.add(relation)
                 graph.marking.included.add(and_group)
 
@@ -66,6 +67,7 @@ def add_or_relation(graph, course, relations):
             graph.label_map[relation] = relation
             graph.marking.included.add(relation)
             graph.nestedgroups[or_group].add(relation)
+            graph.nestedgroups_map[relation] = or_group
 
         # Add condition linking the main course event to the OR group
         graph.conditions[course] = graph.conditions.get(course, set()) | {or_group}
