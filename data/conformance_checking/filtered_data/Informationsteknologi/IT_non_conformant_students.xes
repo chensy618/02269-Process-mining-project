@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  XES version 1849.2016 (IEEE 1849-2016)  -->
+<!--  Created by Fluxicon Disco (fluxicon.com/disco)  -->
+<!--  (c) 2024 by Fluxicon BV, Torenallee 20, 5617 BC Eindhoven, The Netherlands  -->
+<log xes.version="1849.2016" xmlns:xes="http://www.xes-standard.org">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+		<int key="variant-index" value="0"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<string key="org:resource" value="resource"/>
+		<date key="time:timestamp" value="2024-11-19T10:58:19.060+01:00"/>
+		<string key="UDDANNELSE" value="string"/>
+		<string key="KURSKODE" value="string"/>
+	</global>
+	<classifier name="Activity" keys="KURSKODE"/>
+	<classifier name="Resource" keys="UDDANNELSE"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="STNR000012"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-08-22T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2281"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-08-22T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2281"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2242"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-12T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2242"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2246"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2246"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2263"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-02T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2263"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2249"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2249"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02244-3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-20T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02244-3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1410"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-23T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1410"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2247"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2247"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1426"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1426"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2242"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-16T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2242"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02244-3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02244-3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1410"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-28T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1410"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-11T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2913"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-30T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2913"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2180"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-01T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2180"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1426"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1426"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2242"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2242"/>
+		</event>
+		<event>
+			<string key="concept:name" value="88383"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-02-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="88383"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1426"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-06-02T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1426"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2256"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-07-12T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2256"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-07-12T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR000674"/>
+		<string key="variant" value="Variant 2"/>
+		<int key="variant-index" value="2"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-02-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42114"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42114"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2019-02-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR001785"/>
+		<string key="variant" value="Variant 3"/>
+		<int key="variant-index" value="3"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2211"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2211"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2209"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2209"/>
+		</event>
+		<event>
+			<string key="concept:name" value="41634"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="41634"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2213"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2213"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2205"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-22T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2205"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2247"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2247"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="31445"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-27T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="31445"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2224"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2224"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-05-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-05-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2110"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2110"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2217"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2217"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2456"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-27T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2456"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2204"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2204"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-08-05T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2020-08-05T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR002698"/>
+		<string key="variant" value="Variant 4"/>
+		<int key="variant-index" value="4"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1410"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1410"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-20T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-05-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-08-20T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-05-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="34341"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-12T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="34341"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02255-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02255-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2232"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2232"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2191"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-04-05T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2191"/>
+		</event>
+		<event>
+			<string key="concept:name" value="1427"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-15T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="1427"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2192"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-23T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2192"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2233"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-27T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2233"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2238"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-08-12T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2238"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2234"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-10T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2234"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2020-02-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR002703"/>
+		<string key="variant" value="Variant 5"/>
+		<int key="variant-index" value="5"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-02-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2213"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2213"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2205"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-22T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2205"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2211"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2211"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2224"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2224"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2211"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-09-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2211"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02255-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-06T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02255-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2217"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2217"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2204"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2204"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-11T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42634"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-29T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42634"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2209"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-09T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2209"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-07-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-21T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-07-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-25T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2258"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-02-23T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2258"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR003515"/>
+		<string key="variant" value="Variant 6"/>
+		<int key="variant-index" value="6"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-06-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2110"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2110"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2450"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2450"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2159"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2159"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2233"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-04T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2233"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-11T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-18T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2180"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-01T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2180"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2193"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-09-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2193"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2232"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-11-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2232"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2242"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2242"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2269"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2269"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2249"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2249"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2234"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-02-01T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2234"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-07-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-07-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR003700"/>
+		<string key="variant" value="Variant 7"/>
+		<int key="variant-index" value="7"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-05-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2160"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2160"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2180"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2180"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2287"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2287"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2450"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2450"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2249"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2249"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2282"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-02T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2282"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2170"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-15T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2170"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2285"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-05T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2285"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2289"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-09T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2289"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2450"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-21T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2450"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42634"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-21T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42634"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-05-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-29T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-05-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-02-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-05-10T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-02-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-06-30T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-06-30T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR004726"/>
+		<string key="variant" value="Variant 8"/>
+		<int key="variant-index" value="8"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-06-12T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2450"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-12T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2450"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2180"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2180"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2261"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2261"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2267"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2267"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2809"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2809"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02244-3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02244-3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2808"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-30T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2808"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2285"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-05T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2285"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2193"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-09-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2193"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2285"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-10-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2285"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2263"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-04T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2263"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2266"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-03-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2266"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-07-02T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-07-02T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR004774"/>
+		<string key="variant" value="Variant 9"/>
+		<int key="variant-index" value="9"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2020-01-07T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2229"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-07T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2229"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2234"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-10T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2234"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42348"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42348"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2232"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-21T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2232"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02244-3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02244-3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="34364"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-29T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="34364"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2233"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-04T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2233"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-11T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-18T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42004"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-16T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42004"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42002"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-23T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42002"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42879"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42879"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2807"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2807"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-25T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-32"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-06-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-32"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-06-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR004829"/>
+		<string key="variant" value="Variant 10"/>
+		<int key="variant-index" value="10"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2017-12-20T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2393"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2017-12-20T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2393"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2249"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-01-04T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2249"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2157"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-02-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2157"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2018-02-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR004888"/>
+		<string key="variant" value="Variant 11"/>
+		<int key="variant-index" value="11"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02255-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-13T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02255-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2263"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-02T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2263"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2267"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-06T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2267"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2232"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2232"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2268"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2268"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42490"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42490"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2128"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-27T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2128"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2161"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-02T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2161"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42429"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-09-25T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42429"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2261"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2261"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2162"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-28T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2162"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2266"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-03-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2266"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-11T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-18T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-03-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-03-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR005008"/>
+		<string key="variant" value="Variant 12"/>
+		<int key="variant-index" value="12"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="31388"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="31388"/>
+		</event>
+		<event>
+			<string key="concept:name" value="41633"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="41633"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2238"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-07-23T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2238"/>
+		</event>
+		<event>
+			<string key="concept:name" value="31388"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-08-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="31388"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2209"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2209"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2155"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-12T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2155"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2203"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-15T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2203"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2267"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-02-06T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2267"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2155"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-20T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2155"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2211"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2211"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2180"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2180"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2203"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2203"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2456"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-27T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2456"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-32"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-32"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2020-07-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR007930"/>
+		<string key="variant" value="Variant 13"/>
+		<int key="variant-index" value="13"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2018-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2265"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2265"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2808"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2808"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-06-08T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2443"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-07-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2443"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2269"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-05T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2269"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2393"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-09T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2393"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42435"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2018-12-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42435"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-01-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2266"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-03-11T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2266"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2247"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2247"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2233"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-27T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2233"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2443"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2443"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2247"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-08-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2247"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2242"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-16T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2242"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2261"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2261"/>
+		</event>
+		<event>
+			<string key="concept:name" value="88383"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-24T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="88383"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E22-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E22-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2020-07-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR009127"/>
+		<string key="variant" value="Variant 14"/>
+		<int key="variant-index" value="14"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2211"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2211"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2247"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-05-24T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2247"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2220"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-13T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2220"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-06-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2224"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-07-09T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2224"/>
+		</event>
+		<event>
+			<string key="concept:name" value="12135"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-08-23T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="12135"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-05-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-11-18T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-05-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42634"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-16T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42634"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2635"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-01T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2635"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2203"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2203"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2450"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-08T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2450"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02244-3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-19T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02244-3"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S12-10-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-07-01T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S12-10-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E01-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-02-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E01-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="S01-02-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="S01-02-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-05-17T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="STNR009617"/>
+		<string key="variant" value="Variant 15"/>
+		<int key="variant-index" value="15"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="concept:name" value="Start"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Start"/>
+			<date key="time:timestamp" value="2019-12-06T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Start"/>
+			<string key="KURSKODE" value="Start"/>
+		</event>
+		<event>
+			<string key="concept:name" value="02255-1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-06T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="02255-1"/>
+		</event>
+		<event>
+			<string key="concept:name" value="42634"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2019-12-16T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="42634"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2261"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-01-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2261"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2239"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-03T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2239"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2267"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-02-14T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2267"/>
+		</event>
+		<event>
+			<string key="concept:name" value="34370"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-20T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="34370"/>
+		</event>
+		<event>
+			<string key="concept:name" value="34359"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-05-21T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="34359"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2233"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-04T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2233"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2192"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-15T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2192"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2291"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-06-18T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2291"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2193"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-09-03T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2193"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2232"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-11-19T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2232"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2223"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-17T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2223"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2393"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2020-12-21T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2393"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2191"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-01-22T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2191"/>
+		</event>
+		<event>
+			<string key="concept:name" value="2234"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-02-01T00:00:00.000+01:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="2234"/>
+		</event>
+		<event>
+			<string key="concept:name" value="E34-30"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="Informationsteknologi, cand.polyt."/>
+			<date key="time:timestamp" value="2021-07-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="Informationsteknologi, cand.polyt."/>
+			<string key="KURSKODE" value="E34-30"/>
+		</event>
+		<event>
+			<string key="concept:name" value="End"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<string key="org:resource" value="End"/>
+			<date key="time:timestamp" value="2021-07-07T00:00:00.000+02:00"/>
+			<string key="UDDANNELSE" value="End"/>
+			<string key="KURSKODE" value="End"/>
+		</event>
+	</trace>
+</log>
