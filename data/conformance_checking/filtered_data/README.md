@@ -1,2 +1,1 @@
-1. the refined logs to answer the second business question: duration of the programme for conformant/non-conformant students
-2. only considering msc students
+1. the refined log folders include students with 30 ECTS or more
