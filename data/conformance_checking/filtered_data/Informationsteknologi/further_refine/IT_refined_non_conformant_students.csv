@@ -1,0 +1,227 @@
+STUDIENR,UDDANNELSE,KURSKODE,KURSTXT,BEDOMMELSE,SKALA,ECTS,UDPROVNING,CENSUR,BEDOMMELSESDATO
+STNR000012,"Informationsteknologi, cand.polyt.",1410,01410 Kryptologi 1,EM,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-05-23
+STNR000012,"Informationsteknologi, cand.polyt.",1410,01410 Kryptologi 1,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-05-28
+STNR000012,"Informationsteknologi, cand.polyt.",1426,01426 Kryptologi 2,EM,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-12-14
+STNR000012,"Informationsteknologi, cand.polyt.",1426,01426 Kryptologi 2,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2021-06-02
+STNR000012,"Informationsteknologi, cand.polyt.",1426,01426 Kryptologi 2,-3,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-12-13
+STNR000012,"Informationsteknologi, cand.polyt.",2180,02180 Introduktion til kunstig intelligens,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-07-01
+STNR000012,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,4,7-trinsskala,7.5,Skriftlig,intern censur,2020-06-11
+STNR000012,"Informationsteknologi, cand.polyt.",2242,02242 Programanalyse,EM,7-trinsskala,7.5,Skriftlig,ekstern censur,2018-12-12
+STNR000012,"Informationsteknologi, cand.polyt.",2242,02242 Programanalyse,EM,7-trinsskala,7.5,Skriftlig,ekstern censur,2019-12-16
+STNR000012,"Informationsteknologi, cand.polyt.",2242,02242 Programanalyse,4,7-trinsskala,7.5,Skriftlig,ekstern censur,2020-12-14
+STNR000012,"Informationsteknologi, cand.polyt.",2246,02246 Modeltjek,10,7-trinsskala,7.5,Skriftlig,ekstern censur,2018-12-18
+STNR000012,"Informationsteknologi, cand.polyt.",2247,02247 Oversætterkonstruktion,4,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-05-24
+STNR000012,"Informationsteknologi, cand.polyt.",2249,02249 Beregningsmæssigt hårde problemer,7,7-trinsskala,7.5,Skriftlig,ekstern censur,2019-01-14
+STNR000012,"Informationsteknologi, cand.polyt.",2256,02256 Automatiseret ræsonnering,10,7-trinsskala,5.0,Skriftlig,intern censur,2021-07-12
+STNR000012,"Informationsteknologi, cand.polyt.",2263,02263 Formelle aspekter af software engineering,12,7-trinsskala,5.0,Skriftlig,intern censur,2019-01-02
+STNR000012,"Informationsteknologi, cand.polyt.",2281,02281 Data-logik,EM,7-trinsskala,5.0,Mundtlig,ekstern censur,2018-08-22
+STNR000012,"Informationsteknologi, cand.polyt.",2913,02913 Avancerede analyseteknikker,BE,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-06-30
+STNR000012,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",10,7-trinsskala,10.0,Skriftlig,ekstern censur,2020-01-11
+STNR000012,"Informationsteknologi, cand.polyt.",88383,88383 Akademisk informationssøgning - styrk dine informationskompetencer,BE,bestået/ikke bestået,2.5,Skriftlig,ekstern censur,2021-02-08
+STNR000012,"Informationsteknologi, cand.polyt.",02244-3,02244 Sprog-baseret sikkerhed,EM,7-trinsskala,7.5,Skriftlig,intern censur,2019-05-20
+STNR000012,"Informationsteknologi, cand.polyt.",02244-3,02244 Sprog-baseret sikkerhed,12,7-trinsskala,7.5,Skriftlig,intern censur,2020-05-19
+STNR000674,"Informationsteknologi, cand.polyt.",42114,42114 Heltalsprogrammering,7,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-02-08
+STNR001785,"Informationsteknologi, cand.polyt.",2110,02110 Algoritmer og datastrukturer 2,12,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-12-19
+STNR001785,"Informationsteknologi, cand.polyt.",2204,02204 Design af asynkrone kredsløb,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-08
+STNR001785,"Informationsteknologi, cand.polyt.",2205,02205 VLSI Design,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-22
+STNR001785,"Informationsteknologi, cand.polyt.",2209,02209 Test af digitale systemer,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-12-11
+STNR001785,"Informationsteknologi, cand.polyt.",2211,02211 Videregående computerarkitektur,10,7-trinsskala,5.0,Skriftlig,intern censur,2018-05-24
+STNR001785,"Informationsteknologi, cand.polyt.",2213,02213 Praktisk digital konstruktion,12,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-15
+STNR001785,"Informationsteknologi, cand.polyt.",2217,02217 Design af aritmetiske processorer,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-17
+STNR001785,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,10,7-trinsskala,7.5,Skriftlig,intern censur,2019-06-13
+STNR001785,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,12,7-trinsskala,7.5,Skriftlig,intern censur,2018-12-19
+STNR001785,"Informationsteknologi, cand.polyt.",2224,02224 Modellering og analyse af tidstro systemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-07-09
+STNR001785,"Informationsteknologi, cand.polyt.",2247,02247 Oversætterkonstruktion,10,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-05-24
+STNR001785,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR001785,"Informationsteknologi, cand.polyt.",2456,02456 Dyb læring,12,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-01-27
+STNR001785,"Informationsteknologi, cand.polyt.",31445,31445 Signalintegritet i højhastighedselektronik,BE,bestået/ikke bestået,5.0,Afløsningsopgave,intern censur,2019-06-27
+STNR001785,"Informationsteknologi, cand.polyt.",41634,41634 HardTech entrepreneurship,12,7-trinsskala,10.0,Afløsningsopgave,ekstern censur,2018-12-14
+STNR001785,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2020-08-05
+STNR001785,"Informationsteknologi, cand.polyt.",S01-05-1,Specialkursus ved Institut for Matematik og Computer Science,12,7-trinsskala,5.0,Projekt,intern censur,2019-12-13
+STNR002698,"Informationsteknologi, cand.polyt.",1410,01410 Kryptologi 1,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-05-17
+STNR002698,"Informationsteknologi, cand.polyt.",1427,01427 Avancerede emner i kryptologi,BE,bestået/ikke bestået,5.0,Afløsningsopgave,intern censur,2019-05-15
+STNR002698,"Informationsteknologi, cand.polyt.",2191,02191 Computersikkerhedsundersøgelser,10,7-trinsskala,5.0,Mundtlig,intern censur,2019-04-05
+STNR002698,"Informationsteknologi, cand.polyt.",2192,02192 Computersikkerhedshændelseshåndtering,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2019-06-23
+STNR002698,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,4,7-trinsskala,7.5,Skriftlig,intern censur,2018-06-08
+STNR002698,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,4,7-trinsskala,7.5,Skriftlig,intern censur,2018-12-19
+STNR002698,"Informationsteknologi, cand.polyt.",2232,02232 Anvendt kryptografi,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-17
+STNR002698,"Informationsteknologi, cand.polyt.",2233,02233 Netværkssikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-27
+STNR002698,"Informationsteknologi, cand.polyt.",2234,02234 Aktuelle emner i systemsikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-02-10
+STNR002698,"Informationsteknologi, cand.polyt.",2238,02238 Biometriske systemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-08-12
+STNR002698,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,10,7-trinsskala,7.5,Skriftlig,intern censur,2019-01-18
+STNR002698,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,12,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR002698,"Informationsteknologi, cand.polyt.",34341,34341 Datakommunikationsprincipper,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-12-12
+STNR002698,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",4,7-trinsskala,10.0,Skriftlig,ekstern censur,2018-06-20
+STNR002698,"Informationsteknologi, cand.polyt.",02255-1,02255 Praktisk kryptologi,7,7-trinsskala,5.0,Skriftlig,intern censur,2018-12-13
+STNR002698,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2020-02-17
+STNR002698,"Informationsteknologi, cand.polyt.",S01-05-1,Specialkursus ved Institut for Matematik og Computer Science,4,7-trinsskala,5.0,Projekt,intern censur,2018-08-20
+STNR002703,"Informationsteknologi, cand.polyt.",2204,02204 Design af asynkrone kredsløb,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-08
+STNR002703,"Informationsteknologi, cand.polyt.",2205,02205 VLSI Design,2,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-22
+STNR002703,"Informationsteknologi, cand.polyt.",2209,02209 Test af digitale systemer,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-12-09
+STNR002703,"Informationsteknologi, cand.polyt.",2211,02211 Videregående computerarkitektur,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-09-03
+STNR002703,"Informationsteknologi, cand.polyt.",2211,02211 Videregående computerarkitektur,0,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-24
+STNR002703,"Informationsteknologi, cand.polyt.",2213,02213 Praktisk digital konstruktion,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-15
+STNR002703,"Informationsteknologi, cand.polyt.",2217,02217 Design af aritmetiske processorer,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-17
+STNR002703,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,4,7-trinsskala,7.5,Skriftlig,intern censur,2020-06-11
+STNR002703,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,10,7-trinsskala,7.5,Skriftlig,intern censur,2019-12-18
+STNR002703,"Informationsteknologi, cand.polyt.",2224,02224 Modellering og analyse af tidstro systemer,2,7-trinsskala,5.0,Skriftlig,intern censur,2019-07-09
+STNR002703,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2021-01-25
+STNR002703,"Informationsteknologi, cand.polyt.",2258,02258 Parallelle computersystemer,2,7-trinsskala,5.0,Skriftlig,ekstern censur,2021-02-23
+STNR002703,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR002703,"Informationsteknologi, cand.polyt.",42634,42634 X-Tech entrepreneurship,7,7-trinsskala,10.0,Mundtlig,ekstern censur,2020-06-29
+STNR002703,"Informationsteknologi, cand.polyt.",02255-1,02255 Praktisk kryptologi,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-12-06
+STNR002703,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2021-07-09
+STNR002703,"Informationsteknologi, cand.polyt.",S01-07-1,Specialkursus ved Institut for Matematik og Computer Science,BE,7-trinsskala,7.5,Projekt,ekstern censur,2020-12-21
+STNR003515,"Informationsteknologi, cand.polyt.",2110,02110 Algoritmer og datastrukturer 2,4,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-12-19
+STNR003515,"Informationsteknologi, cand.polyt.",2159,02159 Operativsystemer,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-13
+STNR003515,"Informationsteknologi, cand.polyt.",2180,02180 Introduktion til kunstig intelligens,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-07-01
+STNR003515,"Informationsteknologi, cand.polyt.",2193,02193 Etisk hacking,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-09-03
+STNR003515,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,12,7-trinsskala,7.5,Skriftlig,intern censur,2020-06-11
+STNR003515,"Informationsteknologi, cand.polyt.",2232,02232 Anvendt kryptografi,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-11-19
+STNR003515,"Informationsteknologi, cand.polyt.",2233,02233 Netværkssikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-04
+STNR003515,"Informationsteknologi, cand.polyt.",2234,02234 Aktuelle emner i systemsikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2021-02-01
+STNR003515,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2020-02-03
+STNR003515,"Informationsteknologi, cand.polyt.",2242,02242 Programanalyse,7,7-trinsskala,7.5,Skriftlig,ekstern censur,2020-12-14
+STNR003515,"Informationsteknologi, cand.polyt.",2249,02249 Beregningsmæssigt hårde problemer,7,7-trinsskala,7.5,Skriftlig,ekstern censur,2021-01-11
+STNR003515,"Informationsteknologi, cand.polyt.",2269,02269 Process mining,7,7-trinsskala,5.0,Mundtlig,intern censur,2020-12-18
+STNR003515,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,7,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-18
+STNR003515,"Informationsteknologi, cand.polyt.",2450,02450 Introduktion til machine learning og data mining,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-01-08
+STNR003515,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",10,7-trinsskala,10.0,Skriftlig,ekstern censur,2019-06-21
+STNR003515,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2021-07-07
+STNR003700,"Informationsteknologi, cand.polyt.",2160,02160 Agil objektorienteret softwareudvikling,10,7-trinsskala,10.0,Skriftlig,intern censur,2019-05-08
+STNR003700,"Informationsteknologi, cand.polyt.",2170,02170 Databasesystemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-15
+STNR003700,"Informationsteknologi, cand.polyt.",2180,02180 Introduktion til kunstig intelligens,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-07-09
+STNR003700,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,10,7-trinsskala,7.5,Skriftlig,intern censur,2019-06-13
+STNR003700,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2020-02-03
+STNR003700,"Informationsteknologi, cand.polyt.",2249,02249 Beregningsmæssigt hårde problemer,10,7-trinsskala,7.5,Skriftlig,ekstern censur,2020-01-15
+STNR003700,"Informationsteknologi, cand.polyt.",2282,02282 Algoritmer for store datamængder,10,7-trinsskala,7.5,Skriftlig,ekstern censur,2020-06-02
+STNR003700,"Informationsteknologi, cand.polyt.",2285,02285 Kunstig intelligens og multiagent-systemer,10,7-trinsskala,7.5,Skriftlig,intern censur,2020-07-05
+STNR003700,"Informationsteknologi, cand.polyt.",2287,02287 Logiske teorier for usikkerhed og læring,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-12-13
+STNR003700,"Informationsteknologi, cand.polyt.",2289,02289 Algoritmiske teknikker for moderne datamodeller,12,7-trinsskala,5.0,Mundtlig,ekstern censur,2020-12-09
+STNR003700,"Informationsteknologi, cand.polyt.",2450,02450 Introduktion til machine learning og data mining,BE,7-trinsskala,5.0,Skriftlig,ekstern censur,2021-01-21
+STNR003700,"Informationsteknologi, cand.polyt.",2450,02450 Introduktion til machine learning og data mining,EM,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-01-08
+STNR003700,"Informationsteknologi, cand.polyt.",42634,42634 X-Tech entrepreneurship,10,7-trinsskala,10.0,Mundtlig,ekstern censur,2021-01-21
+STNR003700,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2021-06-30
+STNR003700,"Informationsteknologi, cand.polyt.",S01-02-1,Specialkursus ved Institut for Matematik og Computer Science,BE,7-trinsskala,2.5,Projekt,ekstern censur,2021-05-10
+STNR003700,"Informationsteknologi, cand.polyt.",S01-05-1,Specialkursus ved Institut for Matematik og Computer Science,BE,7-trinsskala,5.0,Projekt,intern censur,2021-01-29
+STNR004726,"Informationsteknologi, cand.polyt.",2180,02180 Introduktion til kunstig intelligens,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-07-09
+STNR004726,"Informationsteknologi, cand.polyt.",2193,02193 Etisk hacking,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-09-03
+STNR004726,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,7,7-trinsskala,7.5,Skriftlig,intern censur,2019-06-13
+STNR004726,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2020-02-03
+STNR004726,"Informationsteknologi, cand.polyt.",2261,02261 Software startup studio,12,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-01-17
+STNR004726,"Informationsteknologi, cand.polyt.",2263,02263 Formelle aspekter af software engineering,10,7-trinsskala,5.0,Skriftlig,intern censur,2021-01-04
+STNR004726,"Informationsteknologi, cand.polyt.",2266,02266 User experience engineering,12,7-trinsskala,5.0,Skriftlig,intern censur,2021-03-05
+STNR004726,"Informationsteknologi, cand.polyt.",2267,02267 Softwareudvikling af webtjenester,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-02-14
+STNR004726,"Informationsteknologi, cand.polyt.",2285,02285 Kunstig intelligens og multiagent-systemer,EM,7-trinsskala,7.5,Skriftlig,intern censur,2020-07-05
+STNR004726,"Informationsteknologi, cand.polyt.",2285,02285 Kunstig intelligens og multiagent-systemer,7,7-trinsskala,7.5,Skriftlig,intern censur,2020-10-21
+STNR004726,"Informationsteknologi, cand.polyt.",2450,02450 Introduktion til machine learning og data mining,4,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-06-12
+STNR004726,"Informationsteknologi, cand.polyt.",2808,02808 Personal data interaction,7,7-trinsskala,10.0,Afløsningsopgave,ekstern censur,2020-06-30
+STNR004726,"Informationsteknologi, cand.polyt.",2809,02809 UX design prototypeudvikling,10,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2020-02-15
+STNR004726,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",7,7-trinsskala,10.0,Skriftlig,ekstern censur,2021-01-18
+STNR004726,"Informationsteknologi, cand.polyt.",02244-3,02244 Sprog-baseret sikkerhed,4,7-trinsskala,7.5,Skriftlig,intern censur,2020-05-19
+STNR004726,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2021-07-02
+STNR004774,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,12,7-trinsskala,7.5,Skriftlig,intern censur,2020-06-11
+STNR004774,"Informationsteknologi, cand.polyt.",2229,02229 Systemoptimering,12,7-trinsskala,7.5,Afløsningsopgave,intern censur,2020-01-07
+STNR004774,"Informationsteknologi, cand.polyt.",2232,02232 Anvendt kryptografi,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-02-21
+STNR004774,"Informationsteknologi, cand.polyt.",2233,02233 Netværkssikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-04
+STNR004774,"Informationsteknologi, cand.polyt.",2234,02234 Aktuelle emner i systemsikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-02-10
+STNR004774,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,10,7-trinsskala,7.5,Skriftlig,intern censur,2021-01-25
+STNR004774,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,4,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-18
+STNR004774,"Informationsteknologi, cand.polyt.",2807,02807 Beregningsmæssige værktøjer til datavidenskab,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2021-01-18
+STNR004774,"Informationsteknologi, cand.polyt.",34364,34364 Bæredygtige kommunikationssystemer,12,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-05-29
+STNR004774,"Informationsteknologi, cand.polyt.",42002,42002 Modellering af energisystemer ved brug af OR,12,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-12-23
+STNR004774,"Informationsteknologi, cand.polyt.",42004,42004 Feasibility-studier af energiprojekter,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-12-16
+STNR004774,"Informationsteknologi, cand.polyt.",42348,42348 Bæredygtig udvikling af nye teknologier,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-02-18
+STNR004774,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",7,7-trinsskala,10.0,Skriftlig,ekstern censur,2020-01-11
+STNR004774,"Informationsteknologi, cand.polyt.",42879,42879 Beslutningsstøtte og strategisk vurdering,10,7-trinsskala,5.0,Mundtlig,ekstern censur,2021-01-15
+STNR004774,"Informationsteknologi, cand.polyt.",02244-3,02244 Sprog-baseret sikkerhed,12,7-trinsskala,7.5,Skriftlig,intern censur,2020-05-19
+STNR004774,"Informationsteknologi, cand.polyt.",E01-32,Institut for Matematik og Computer Science,12,7-trinsskala,32.5,Projekt,ekstern censur,2021-06-24
+STNR004829,"Informationsteknologi, cand.polyt.",2157,02157 Funktionsprogrammering,IG,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-02-05
+STNR004829,"Informationsteknologi, cand.polyt.",2249,02249 Beregningsmæssigt hårde problemer,EM,7-trinsskala,7.5,Skriftlig,ekstern censur,2018-01-04
+STNR004829,"Informationsteknologi, cand.polyt.",2393,02393 Programmering i C++,BE,bestået/ikke bestået,5.0,Skriftlig,intern censur,2017-12-20
+STNR004888,"Informationsteknologi, cand.polyt.",2128,02128 Softwareprojekt,BE,bestået/ikke bestået,5.0,Skriftlig,intern censur,2019-06-27
+STNR004888,"Informationsteknologi, cand.polyt.",2161,02161 Software Engineering 1,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-07-02
+STNR004888,"Informationsteknologi, cand.polyt.",2162,02162 Software Engineering 2,7,7-trinsskala,10.0,Skriftlig,intern censur,2020-02-28
+STNR004888,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,4,7-trinsskala,7.5,Skriftlig,intern censur,2020-06-11
+STNR004888,"Informationsteknologi, cand.polyt.",2232,02232 Anvendt kryptografi,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-17
+STNR004888,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,2,7-trinsskala,7.5,Skriftlig,intern censur,2019-01-18
+STNR004888,"Informationsteknologi, cand.polyt.",2261,02261 Software startup studio,4,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-01-17
+STNR004888,"Informationsteknologi, cand.polyt.",2263,02263 Formelle aspekter af software engineering,2,7-trinsskala,5.0,Skriftlig,intern censur,2019-01-02
+STNR004888,"Informationsteknologi, cand.polyt.",2266,02266 User experience engineering,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-03-08
+STNR004888,"Informationsteknologi, cand.polyt.",2267,02267 Softwareudvikling af webtjenester,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-06
+STNR004888,"Informationsteknologi, cand.polyt.",2268,02268 Procesorienterede og event-drevne softwaresystemer,4,7-trinsskala,5.0,Afløsningsopgave,intern censur,2019-05-07
+STNR004888,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,4,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-18
+STNR004888,"Informationsteknologi, cand.polyt.",42429,42429 Projektledelse,4,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-09-25
+STNR004888,"Informationsteknologi, cand.polyt.",42490,"42490 Teknologi, ledelse, organisation og forretningsmodeller",4,7-trinsskala,10.0,Skriftlig,ekstern censur,2019-06-21
+STNR004888,"Informationsteknologi, cand.polyt.",02255-1,02255 Praktisk kryptologi,2,7-trinsskala,5.0,Skriftlig,intern censur,2018-12-13
+STNR004888,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,12,7-trinsskala,30.0,Projekt,ekstern censur,2021-03-05
+STNR005008,"Informationsteknologi, cand.polyt.",2155,02155 Computerarkitektur,2,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-20
+STNR005008,"Informationsteknologi, cand.polyt.",2155,02155 Computerarkitektur,0,7-trinsskala,5.0,Skriftlig,intern censur,2018-12-12
+STNR005008,"Informationsteknologi, cand.polyt.",2180,02180 Introduktion til kunstig intelligens,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2019-07-09
+STNR005008,"Informationsteknologi, cand.polyt.",2203,02203 Design af digitale systemer,EM,7-trinsskala,5.0,Skriftlig,intern censur,2019-01-15
+STNR005008,"Informationsteknologi, cand.polyt.",2203,02203 Design af digitale systemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-03
+STNR005008,"Informationsteknologi, cand.polyt.",2209,02209 Test af digitale systemer,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-12-11
+STNR005008,"Informationsteknologi, cand.polyt.",2211,02211 Videregående computerarkitektur,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-24
+STNR005008,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,7,7-trinsskala,7.5,Skriftlig,intern censur,2018-06-08
+STNR005008,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,7,7-trinsskala,7.5,Skriftlig,intern censur,2018-12-19
+STNR005008,"Informationsteknologi, cand.polyt.",2238,02238 Biometriske systemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2018-07-23
+STNR005008,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2020-02-03
+STNR005008,"Informationsteknologi, cand.polyt.",2267,02267 Softwareudvikling af webtjenester,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-02-06
+STNR005008,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR005008,"Informationsteknologi, cand.polyt.",2456,02456 Dyb læring,7,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-01-27
+STNR005008,"Informationsteknologi, cand.polyt.",31388,31388 Avancerede autonome robotter,0,7-trinsskala,10.0,Mundtlig,ekstern censur,2018-06-19
+STNR005008,"Informationsteknologi, cand.polyt.",31388,31388 Avancerede autonome robotter,4,7-trinsskala,10.0,Mundtlig,ekstern censur,2018-08-21
+STNR005008,"Informationsteknologi, cand.polyt.",41633,41633 Innovation og produktudvikling,10,7-trinsskala,10.0,Skriftlig,ekstern censur,2018-06-24
+STNR005008,"Informationsteknologi, cand.polyt.",E01-32,Institut for Matematik og Computer Science,10,7-trinsskala,32.5,Projekt,ekstern censur,2020-07-13
+STNR007930,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,EM,7-trinsskala,7.5,Skriftlig,intern censur,2018-06-08
+STNR007930,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,4,7-trinsskala,7.5,Skriftlig,intern censur,2019-06-13
+STNR007930,"Informationsteknologi, cand.polyt.",2233,02233 Netværkssikkerhed,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-27
+STNR007930,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,7,7-trinsskala,7.5,Skriftlig,intern censur,2019-01-18
+STNR007930,"Informationsteknologi, cand.polyt.",2242,02242 Programanalyse,4,7-trinsskala,7.5,Skriftlig,ekstern censur,2019-12-16
+STNR007930,"Informationsteknologi, cand.polyt.",2247,02247 Oversætterkonstruktion,EM,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-05-24
+STNR007930,"Informationsteknologi, cand.polyt.",2247,02247 Oversætterkonstruktion,10,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-08-13
+STNR007930,"Informationsteknologi, cand.polyt.",2261,02261 Software startup studio,4,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-01-17
+STNR007930,"Informationsteknologi, cand.polyt.",2265,02265 Avancerede emner i software engineering,10,7-trinsskala,5.0,Skriftlig,intern censur,2018-05-17
+STNR007930,"Informationsteknologi, cand.polyt.",2266,02266 User experience engineering,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-03-11
+STNR007930,"Informationsteknologi, cand.polyt.",2269,02269 Process mining,7,7-trinsskala,5.0,Mundtlig,intern censur,2018-12-05
+STNR007930,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR007930,"Informationsteknologi, cand.polyt.",2393,02393 Programmering i C++,BE,bestået/ikke bestået,5.0,Skriftlig,intern censur,2018-12-09
+STNR007930,"Informationsteknologi, cand.polyt.",2443,02443 Stokastisk simulation,BE,bestået/ikke bestået,5.0,Afløsningsopgave,intern censur,2019-07-24
+STNR007930,"Informationsteknologi, cand.polyt.",2443,02443 Stokastisk simulation,IB,bestået/ikke bestået,5.0,Skriftlig,intern censur,2018-07-19
+STNR007930,"Informationsteknologi, cand.polyt.",2808,02808 Personal data interaction,7,7-trinsskala,10.0,Afløsningsopgave,ekstern censur,2018-06-07
+STNR007930,"Informationsteknologi, cand.polyt.",42435,42435 Virksomhedsstart,10,7-trinsskala,5.0,Skriftlig,ekstern censur,2018-12-14
+STNR007930,"Informationsteknologi, cand.polyt.",88383,88383 Akademisk informationssøgning - styrk dine informationskompetencer,BE,bestået/ikke bestået,2.5,Skriftlig,ekstern censur,2020-01-24
+STNR007930,"Informationsteknologi, cand.polyt.",final project,Institut for Sundhedsteknologi,EM,7-trinsskala,30.0,Projekt,ekstern censur,2020-07-03
+STNR009127,"Informationsteknologi, cand.polyt.",2203,02203 Design af digitale systemer,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-03
+STNR009127,"Informationsteknologi, cand.polyt.",2211,02211 Videregående computerarkitektur,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-05-24
+STNR009127,"Informationsteknologi, cand.polyt.",2220,02220 Distribuerede systemer,10,7-trinsskala,7.5,Skriftlig,intern censur,2019-06-13
+STNR009127,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,10,7-trinsskala,7.5,Skriftlig,intern censur,2020-12-17
+STNR009127,"Informationsteknologi, cand.polyt.",2224,02224 Modellering og analyse af tidstro systemer,4,7-trinsskala,5.0,Skriftlig,intern censur,2019-07-09
+STNR009127,"Informationsteknologi, cand.polyt.",2247,02247 Oversætterkonstruktion,10,7-trinsskala,5.0,Afløsningsopgave,ekstern censur,2019-05-24
+STNR009127,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,7,7-trinsskala,5.0,Skriftlig,intern censur,2019-06-17
+STNR009127,"Informationsteknologi, cand.polyt.",2450,02450 Introduktion til machine learning og data mining,2,7-trinsskala,5.0,Skriftlig,ekstern censur,2020-01-08
+STNR009127,"Informationsteknologi, cand.polyt.",2635,02635 Programmering af matematisk software,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-01-01
+STNR009127,"Informationsteknologi, cand.polyt.",12135,12135 Waste management at Roskilde Festival,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2019-08-23
+STNR009127,"Informationsteknologi, cand.polyt.",42634,42634 X-Tech entrepreneurship,12,7-trinsskala,10.0,Mundtlig,ekstern censur,2019-12-16
+STNR009127,"Informationsteknologi, cand.polyt.",02244-3,02244 Sprog-baseret sikkerhed,10,7-trinsskala,7.5,Skriftlig,intern censur,2020-05-19
+STNR009127,"Informationsteknologi, cand.polyt.",final project,Institut for Matematik og Computer Science,7,7-trinsskala,30.0,Projekt,ekstern censur,2021-02-19
+STNR009127,"Informationsteknologi, cand.polyt.",S01-02-1,Specialkursus ved Institut for Matematik og Computer Science,BE,7-trinsskala,2.5,Projekt,ekstern censur,2021-05-17
+STNR009127,"Informationsteknologi, cand.polyt.",S01-05-1,Specialkursus ved Institut for Matematik og Computer Science,BE,7-trinsskala,5.0,Projekt,intern censur,2019-11-18
+STNR009127,"Informationsteknologi, cand.polyt.",S12-10-1,Specialkursus ved Institut for Vand og Miljøteknologi,12,7-trinsskala,10.0,Projekt,intern censur,2020-07-01
+STNR009617,"Informationsteknologi, cand.polyt.",2191,02191 Computersikkerhedsundersøgelser,12,7-trinsskala,5.0,Mundtlig,intern censur,2021-01-22
+STNR009617,"Informationsteknologi, cand.polyt.",2192,02192 Computersikkerhedshændelseshåndtering,12,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-06-15
+STNR009617,"Informationsteknologi, cand.polyt.",2193,02193 Etisk hacking,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-09-03
+STNR009617,"Informationsteknologi, cand.polyt.",2223,02223 Modelbaseret systems engineering,10,7-trinsskala,7.5,Skriftlig,intern censur,2020-12-17
+STNR009617,"Informationsteknologi, cand.polyt.",2232,02232 Anvendt kryptografi,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-11-19
+STNR009617,"Informationsteknologi, cand.polyt.",2233,02233 Netværkssikkerhed,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-04
+STNR009617,"Informationsteknologi, cand.polyt.",2234,02234 Aktuelle emner i systemsikkerhed,12,7-trinsskala,5.0,Skriftlig,intern censur,2021-02-01
+STNR009617,"Informationsteknologi, cand.polyt.",2239,02239 Datasikkerhed,10,7-trinsskala,7.5,Skriftlig,intern censur,2020-02-03
+STNR009617,"Informationsteknologi, cand.polyt.",2261,02261 Software startup studio,7,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-01-17
+STNR009617,"Informationsteknologi, cand.polyt.",2267,02267 Softwareudvikling af webtjenester,12,7-trinsskala,5.0,Skriftlig,intern censur,2020-02-14
+STNR009617,"Informationsteknologi, cand.polyt.",2291,02291 Systemintegration,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-06-18
+STNR009617,"Informationsteknologi, cand.polyt.",2393,02393 Programmering i C++,BE,bestået/ikke bestået,5.0,Skriftlig,intern censur,2020-12-21
+STNR009617,"Informationsteknologi, cand.polyt.",34359,34359 SDN: software-defineret netværk,10,7-trinsskala,5.0,Afløsningsopgave,intern censur,2020-05-21
+STNR009617,"Informationsteknologi, cand.polyt.",34370,34370 Cloud-netværk,10,7-trinsskala,5.0,Skriftlig,intern censur,2020-05-20
+STNR009617,"Informationsteknologi, cand.polyt.",42634,42634 X-Tech entrepreneurship,7,7-trinsskala,10.0,Mundtlig,ekstern censur,2019-12-16
+STNR009617,"Informationsteknologi, cand.polyt.",02255-1,02255 Praktisk kryptologi,10,7-trinsskala,5.0,Skriftlig,intern censur,2019-12-06
+STNR009617,"Informationsteknologi, cand.polyt.",final project,Institut for Fotonik,10,7-trinsskala,30.0,Projekt,ekstern censur,2021-07-07
